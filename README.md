@@ -3,6 +3,11 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Saturday: November 9th 2013
+* [Bitwise Operators Explained](http://blog.bignerdranch.com/4273-smooth-bitwise-operator/)
+* [URBMediaFocusViewController: animates thumbnail previews to full size with physics similar to Tweetbot 3](https://github.com/u10int/URBMediaFocusViewController)
+* [A Python Script to Disassemble a Block in LLDB](http://realmacsoftware.com/blog/a-python-script-to-disassemble-a-block-in-lldb)
+
 ## Thursday: November 7th 2013
 * [Perf Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
 * [Simple URL previews](https://github.com/myell0w/MTDURLPreview)
