@@ -4,6 +4,8 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Saturday: November 9th 2013
+* [Guide for 1Password Integration](http://blog.agilebits.com/2013/01/24/developers-heres-how-to-add-a-little-1password-to-your-ios-apps/)
+* [Code for 1Password Integration](https://github.com/Riposte/RPSTPasswordManagementAppService)
 * [Bitwise Operators Explained](http://blog.bignerdranch.com/4273-smooth-bitwise-operator/)
 * [URBMediaFocusViewController: animates thumbnail previews to full size with physics similar to Tweetbot 3](https://github.com/u10int/URBMediaFocusViewController)
 * [A Python Script to Disassemble a Block in LLDB](http://realmacsoftware.com/blog/a-python-script-to-disassemble-a-block-in-lldb)
