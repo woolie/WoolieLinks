@@ -4,6 +4,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Saturday: November 9th 2013
+* [A Primer on Bézier Curves](http://pomax.github.io/bezierinfo/)
 * [Guide for 1Password Integration](http://blog.agilebits.com/2013/01/24/developers-heres-how-to-add-a-little-1password-to-your-ios-apps/)
 * [Code for 1Password Integration](https://github.com/Riposte/RPSTPasswordManagementAppService)
 * [Bitwise Operators Explained](http://blog.bignerdranch.com/4273-smooth-bitwise-operator/)
