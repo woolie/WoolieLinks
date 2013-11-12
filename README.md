@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Tuesday: November 12th 2013
+* [A simple(r) way to stub out HTTP servers in your Objective-C app](https://github.com/square/objc-mocktail)
+
 ## Saturday: November 9th 2013
 * [A Primer on Bézier Curves](http://pomax.github.io/bezierinfo/)
 * [Guide for 1Password Integration](http://blog.agilebits.com/2013/01/24/developers-heres-how-to-add-a-little-1password-to-your-ios-apps/)
