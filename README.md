@@ -24,8 +24,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Tuesday: November 5th 2013
 * [NSHipster xctool](http://nshipster.com/xctool/)
-* [AutoLayout for measuring Cells](http://blog.amyworrall.com/post/66085151655/using-auto-layout-to-calculate-table-cell-height
-)
+* [AutoLayout for measuring Cells](http://blog.amyworrall.com/post/66085151655/using-auto-layout-to-calculate-table-cell-height)
 
 ## Monday: November 4th 2013
 * Keep process alive: man caffeinate
