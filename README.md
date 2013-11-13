@@ -357,5 +357,5 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Tuesday: May 16th 2013
 * [Alcatraz](http://mneorr.github.io/Alcatraz/)
-https://github.com/facebook/xctool.git
+* [xctool](https://github.com/facebook/xctool.git)
 
