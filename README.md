@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: November 14th 2013
+* [Setting up Xcode Bots](http://swwritings.com/post/2013-11-14-setting-up-xcode-bots)
+
 ## Wednesday: November 13th 2013
 * [NSFormatter](http://nshipster.com/nsformatter/)
 
