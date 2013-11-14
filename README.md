@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Wednesday: November 13th 2013
+* [NSFormatter](http://nshipster.com/nsformatter/)
+
 ## Tuesday: November 12th 2013
 * [A simple(r) way to stub out HTTP servers in your Objective-C app](https://github.com/square/objc-mocktail)
 
