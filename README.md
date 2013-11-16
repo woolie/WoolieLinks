@@ -3,6 +3,11 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Saturday: November 16th 2013
+* [Key-Value Observing](http://volonbolon.net/post/67068353851/key-value-observing)
+* [Key-Value Coding](http://volonbolon.net/post/67068000477/key-value-coding)
+* [+[CATransaction flush] concise explanation](http://www.cocoabuilder.com/archive/cocoa/201493-ca-how-to-wait-for-an-animation-to-finish.html#201500)
+
 ## Thursday: November 14th 2013
 * [Setting up Xcode Bots](http://swwritings.com/post/2013-11-14-setting-up-xcode-bots)
 
