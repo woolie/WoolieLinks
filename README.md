@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Wednesday: November 20th 2013
+* [Block based notifications considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/)
+
 ## Saturday: November 16th 2013
 * [Key-Value Observing](http://volonbolon.net/post/67068353851/key-value-observing)
 * [Key-Value Coding](http://volonbolon.net/post/67068000477/key-value-coding)
