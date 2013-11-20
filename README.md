@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Wednesday: November 20th 2013
 * [Block based notifications considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/)
+* [Understanding frame](http://macoscope.com/blog/understanding-frame/)
 
 ## Saturday: November 16th 2013
 * [Key-Value Observing](http://volonbolon.net/post/67068353851/key-value-observing)
