@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: November 22th 2013:
+* [A Cocoa view controller subclass that implements responder chain patching when used in conjunction with XSWindowController](https://github.com/mugginsoft/XSViewController)
+* [Finding leaks with heapshot analysis](http://www.friday.com/bbum/2010/10/17/when-is-a-leak-not-a-leak-using-heapshot-analysis-to-find-undesirable-memory-growth/)
+
 ## Wednesday: November 20th 2013
 * [Block based notifications considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/)
 * [Understanding frame](http://macoscope.com/blog/understanding-frame/)
