@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: November 28th 2013:
+* [Understanding the Fourier transform](http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/)
+* [Fourier transform in one sentence](https://twitter.com/revodavid/status/403660974386737152/photo/1)
+
 ## Friday: November 22th 2013:
 * [A Cocoa view controller subclass that implements responder chain patching when used in conjunction with XSWindowController](https://github.com/mugginsoft/XSViewController)
 * [Finding leaks with heapshot analysis](http://www.friday.com/bbum/2010/10/17/when-is-a-leak-not-a-leak-using-heapshot-analysis-to-find-undesirable-memory-growth/)
