@@ -4,6 +4,8 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Thursday: November 28th 2013:
+* [Warning safe NSInteger and NSUInteger formatters](https://twitter.com/gparker/status/377910611453046784)
+* [Safe git rebase on OSX](http://www.git-tower.com/blog/make-git-rebase-safe-on-osx/)
 * [Understanding the Fourier transform](http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/)
 * [Fourier transform in one sentence](https://twitter.com/revodavid/status/403660974386737152/photo/1)
 
