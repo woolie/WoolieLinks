@@ -4,6 +4,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Sunday: December 1st 2013:
+* [Block-based animations made easy,comes with easing functions and a CASpringAnimation replacement](https://github.com/robb/RBBAnimation)
 * [Customizable clone of UIAlertView for iOS 7](https://github.com/lmcd/LMAlertView)
 
 ## Thursday: November 28th 2013:
