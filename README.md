@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Sunday: December 1st 2013:
+* [Customizable clone of UIAlertView for iOS 7](https://github.com/lmcd/LMAlertView)
+
 ## Thursday: November 28th 2013:
 * [Warning safe NSInteger and NSUInteger formatters](https://twitter.com/gparker/status/377910611453046784)
 * [Safe git rebase on OSX](http://www.git-tower.com/blog/make-git-rebase-safe-on-osx/)
