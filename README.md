@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: December 13th 2013:
+* [Quickest Way to Get List of Font Names in any Font Family (think LLDB)](http://iosdevelopertips.com/user-interface/quickest-way-to-get-list-of-font-names-in-any-font-family.html?utm_source=iOSDevTips&utm_campaign=wordtwit&utm_medium=twitter)
+
+## Saturday: December 7th 2013:
+* [Show the return value with LLDB script](https://gist.github.com/schwa/7812916)
+
 ## Sunday: December 1st 2013:
 * [Block-based animations made easy,comes with easing functions and a CASpringAnimation replacement](https://github.com/robb/RBBAnimation)
 * [Customizable clone of UIAlertView for iOS 7](https://github.com/lmcd/LMAlertView)
