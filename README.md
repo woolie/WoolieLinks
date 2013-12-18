@@ -3,6 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Wednesday: December 18th 2013:
+
+* [XCPretty is a fast and flexible formatter for xcodebuild](https://github.com/mneorr/XCPretty)
+* [Mensa: Smart Tables](https://github.com/jordanekay/Mensa)
+* [Çingleton 3 conference on vimeo](http://vimeo.com/channels/637623)
+* [Building Better Transitions With iOS 7](http://initwithfunk.com/blog/2013/12/17/building-better-transitions-with-ios-7/)
+* [UIApplication​Delegate launch​Options](http://nshipster.com/launch-options/)
+
 ## Friday: December 13th 2013:
 * [Quickest Way to Get List of Font Names in any Font Family (think LLDB)](http://iosdevelopertips.com/user-interface/quickest-way-to-get-list-of-font-names-in-any-font-family.html?utm_source=iOSDevTips&utm_campaign=wordtwit&utm_medium=twitter)
 
