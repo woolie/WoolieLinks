@@ -3,6 +3,19 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: December 26th 2013:
+
+* [Automating OS X app test build distribution across multiple OS versions](http://www.cimgf.com/2013/12/17/automating-os-x-app-test-build-distribution-across-multiple-os-versions/)
+* [Deep dive into the Objective-C runtime looking at how the Foundation implementation of KVO works](http://blog.securemacprogramming.com/2013/12/by-your-_cmd/)
+* [Introduction to Core Bluetooth: Building a Heart Rate Monitor](http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor)
+
+## Tuesday: December 24th 2013:
+* [XToDo -- Xcode plugin](https://github.com/trawor/XToDo)
+* [Full OSX music player](https://github.com/decarbonization/player)
+
+## Sunday: December 22nd 2013:
+* [CocoaSPDY: SPDY for iOS / OS X](https://blog.twitter.com/2013/cocoaspdy-spdy-for-ios-os-x)
+
 ## Wednesday: December 18th 2013:
 
 * [XCPretty is a fast and flexible formatter for xcodebuild](https://github.com/mneorr/XCPretty)
