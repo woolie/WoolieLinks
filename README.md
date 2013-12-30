@@ -3,8 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-## Thursday: December 26th 2013:
+## Saturday: December 28th 2013:
+* [How to Inspect the View Hierarchy of 3rd-party Apps](http://petersteinberger.com/blog/2013/how-to-inspect-the-view-hierarchy-of-3rd-party-apps/)
 
+## Thursday: December 26th 2013:
 * [Automating OS X app test build distribution across multiple OS versions](http://www.cimgf.com/2013/12/17/automating-os-x-app-test-build-distribution-across-multiple-os-versions/)
 * [Deep dive into the Objective-C runtime looking at how the Foundation implementation of KVO works](http://blog.securemacprogramming.com/2013/12/by-your-_cmd/)
 * [Introduction to Core Bluetooth: Building a Heart Rate Monitor](http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor)
