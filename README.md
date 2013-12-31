@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Monday:  December 30th 2013:
+* [Reviving the Look-and-Feel of iOS 6 in Your App with One Weird Trick (UI Designers hate it!), was well as other tips and tricks.](http://nshipster.com/new-years-2014/)
+* [Meslo Font Is a Better Version of Menlo](http://collindonnell.com/2013/12/29/meslo-font/)
+
 ## Saturday: December 28th 2013:
 * [How to Inspect the View Hierarchy of 3rd-party Apps](http://petersteinberger.com/blog/2013/how-to-inspect-the-view-hierarchy-of-3rd-party-apps/)
 
