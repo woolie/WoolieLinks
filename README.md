@@ -3,6 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: January 2nd 2014:
+* [RNPinnedCertValidator simplifies validating "pinned" SSL certificates.](https://github.com/rnapier/RNPinnedCertValidator)
+* [Introspected tunnels to localhost](https://ngrok.com)
+* [UICollectionView-backed representation of a user's path through a menu hierarchy](https://github.com/autodesk-acg/CBLinearHierarchy)
+
+## Wednesday: January 1st 2014:
+* [A simple, intuitive audio framework for iOS and OSX](https://github.com/syedhali/EZAudio)
+
 ## Monday:  December 30th 2013:
 * [Reviving the Look-and-Feel of iOS 6 in Your App with One Weird Trick (UI Designers hate it!), was well as other tips and tricks.](http://nshipster.com/new-years-2014/)
 * [Meslo Font Is a Better Version of Menlo](http://collindonnell.com/2013/12/29/meslo-font/)
