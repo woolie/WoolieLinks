@@ -3,6 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: January 3rd 2014:
+* [Objective-C RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories/)
+* [Identifying and Handling Transient or Special Data on the Clipboard](http://mjtsai.com/blog/2014/01/02/nspasteboard/)
+* [Testing in XCode 5 - Jonathan Penn - Cocoa Slopes 2013](http://www.youtube.com/watch?v=8cpEIik-FZM)
+* [This category expands the XCTest to add some macros to help testing asynchronous methods.](https://github.com/mobilejazz/XCTest-Async)
+* [A synchronization construct with the ability to wait until signalled that a condition has been met.](https://github.com/travisjeffery/TRVSMonitor)
+* [Allows testing of asynchronous APIs using XCTest much like gh-unit.](https://github.com/premosystems/XCAsyncTestCase)
+
 ## Thursday: January 2nd 2014:
 * [RNPinnedCertValidator simplifies validating "pinned" SSL certificates.](https://github.com/rnapier/RNPinnedCertValidator)
 * [Introspected tunnels to localhost](https://ngrok.com)
