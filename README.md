@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Saturday: January 4th 2014:
+* [Beacons, brands and culture on the internet of things](http://beekn.net)
+
 ## Friday: January 3rd 2014:
 * [Objective-C RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories/)
 * [Identifying and Handling Transient or Special Data on the Clipboard](http://mjtsai.com/blog/2014/01/02/nspasteboard/)
