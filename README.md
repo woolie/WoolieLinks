@@ -3,6 +3,16 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Wednesday: January 8th 2014:
+* [Fixing UITextView on iOS 7](http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/)
+* [TaskPaper open sourced](http://blog.hogbaysoftware.com/post/72672157477/taskpaper-for-ios-source-code)
+
+## Tuesday: January 7th 2014:
+* [Reconciling iOS 6 and iOS 7 with Interface Builder](http://www.doubleencore.com/2013/12/reconciling-ios-6-ios-7-using-interface-builder/)
+* [Clang-Format Xcode plugin](https://github.com/travisjeffery/ClangFormat-Xcode)
+* [Debugging NSUserDefaults with dtrace](http://pastebin.com/QRbJQs5M)
+* [Title bar and traffic light customization for NSWindow](https://github.com/indragiek/INAppStoreWindow)
+
 ## Saturday: January 4th 2014:
 * [Beacons, brands and culture on the internet of things](http://beekn.net)
 
