@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: January 10th 2014:
+* [A set of classes used to display progress information to users on iOS.](https://github.com/Marxon13/M13ProgressSuite)
+
+## Thursday: January 9th 2014:
+* [Code signing debugging](If spctl fails, you can use `codesign -dvvvv` to dump the signing and entitlements and figure out who's wrong)
+
 ## Wednesday: January 8th 2014:
 * [Fixing UITextView on iOS 7](http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/)
 * [TaskPaper open sourced](http://blog.hogbaysoftware.com/post/72672157477/taskpaper-for-ios-source-code)
