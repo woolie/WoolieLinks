@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Friday: January 10th 2014:
 * [A set of classes used to display progress information to users on iOS.](https://github.com/Marxon13/M13ProgressSuite)
+* [This technote provides some information regarding Auto Layout support for UIScrollView.](https://developer.apple.com/library/ios/technotes/tn2154/_index.html#//apple_ref/doc/uid/DTS40013309)
+* [A Commentary on MVP](http://frankcaron.com/Flogger/?p=5624)
 
 ## Thursday: January 9th 2014:
 * [Code signing debugging](If spctl fails, you can use `codesign -dvvvv` to dump the signing and entitlements and figure out who's wrong)
