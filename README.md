@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Tuesday: January 14th 2014:
+* [The Story of Code Pilot](http://macoscope.com/blog/the-story-of-code-pilot/)
+* [An introductory post about Model View ViewModel](http://ashfurrow.com/blog/mvvm-for-ios)
+* [TIL about CFBundleGetFunctionPointerForName()](https://developer.apple.com/library/mac/documentation/corefoundation/Reference/CFBundleRef/Reference/reference.html#//apple_ref/c/func/CFBundleGetFunctionPointerForName)
+* [Create a FFT Analyzer Part IV: Debugging Our Audio Unit With AU Lab](http://sample-hold.com/2011/11/23/create-a-fft-analyzer-part-iv-debugging-our-audio-unit-with-au-lab/)
+
 ## Monday: January 13th 2014:
 * [An overview of C++ smartpointers](http://meetingcpp.com/index.php/br/items/an-overview-on-smart-pointers.html)
 * [Dockable window controller for AppKit](https://github.com/indragiek/INDockableWindow)
