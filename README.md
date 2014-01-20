@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Monday: January 20th 2014:
+* [Alfred workflow to working with the iPhone Simulator](http://swinden.com/ios-simulator-folders-alfred-workflow/)
+* [Developer Color Picker](https://panic.com/~wade/picker/)
+* [Extended File Attributes (Resources Forks are back with a vengeance](http://nshipster.com/extended-file-attributes/)
+* [Re-adding the ability to add custom documentation sets to Xcode](http://documancer.com/xcode/)
+
 ## Tuesday: January 14th 2014:
 * [The Story of Code Pilot](http://macoscope.com/blog/the-story-of-code-pilot/)
 * [An introductory post about Model View ViewModel](http://ashfurrow.com/blog/mvvm-for-ios)
