@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Tuesday: January 21st 2014:
+*[Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout](https://github.com/cloudkite/Masonry)
+
 ## Monday: January 20th 2014:
 * [Alfred workflow to working with the iPhone Simulator](http://swinden.com/ios-simulator-folders-alfred-workflow/)
 * [Developer Color Picker](https://panic.com/~wade/picker/)
