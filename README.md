@@ -3,6 +3,15 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Saturday: January 25th 2014:
+* [Useful Xcode Build Phases](http://matthewmorey.com/xcode-build-phases/)
+* [Find unused Objective-C imports](https://github.com/dblock/fui)
+* [OSX Calendar Control](https://github.com/ethan-fang/DPCalendar)
+* [An Introduction to OpenGL Programming](http://www.youtube.com/watch?v=T8gjVbn8VBk&list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy&desktop_uri=%2Fwatch%3Flist%3DPLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy%26v%3DT8gjVbn8VBk&app=desktop)
+
+## Wednesday: January 22nd 2014:
+* [OmniGraphSketcher has gone open source](http://www.omnigroup.com/blog/setting-omnigraphsketcher-free)
+
 ## Tuesday: January 21st 2014:
 * [iOS in-app bug reporting for developers and testers, with annotated screenshots and the console log.](https://github.com/marcoarment/BugshotKit)
 * [Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout](https://github.com/cloudkite/Masonry)
