@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Monday: January 27th 2014:
+* [Toggle slow animations on your iOS device](http://ios-blog.co.uk/tutorials/quick-tips/toggle-slow-animations-on-your-ios-device/)
+
+## Sunday: January 26th 2014:
+* [Xcode Snippet editor](http://cocoaholic.com/snippet_edit/)
+
 ## Saturday: January 25th 2014:
 * [Useful Xcode Build Phases](http://matthewmorey.com/xcode-build-phases/)
 * [Find unused Objective-C imports](https://github.com/dblock/fui)
