@@ -3,6 +3,11 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Tuesday: January 28th 2014:
+* [Object Serialization With NSCoding](http://iosdevelopertips.com/cocoa/nscoding-without-boilerplate.html)
+* [Concurrency app is now live, with source](https://github.com/nicklockwood/Concurrency)
+* [Tips for DTrace and Instruments](http://prod.lists.apple.com/archives/xcode-users/2013/Nov/msg00078.html)
+
 ## Monday: January 27th 2014:
 * [Toggle slow animations on your iOS device](http://ios-blog.co.uk/tutorials/quick-tips/toggle-slow-animations-on-your-ios-device/)
 
