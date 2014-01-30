@@ -3,6 +3,13 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: January 30th 2014:
+* [Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets)
+* [YapDatabase is a "key/value store and MUCH MORE" built atop sqlite for iOS & Mac.](https://github.com/yaptv/YapDatabase)
+* [YapDatabase vs CoreData](http://deusty.blogspot.co.il/2014/01/response-coredatanext.html)
+* [Fixing UISearchDisplayController on iOS 7](http://petersteinberger.com/blog/2013/fixing-uisearchdisplaycontroller-on-ios-7/)
+* [iOS Frameworks](http://subjectiveobserver.wordpress.com/2014/01/29/ios-frameworks-2/)
+
 ## Tuesday: January 28th 2014:
 * [Object Serialization With NSCoding](http://iosdevelopertips.com/cocoa/nscoding-without-boilerplate.html)
 * [Concurrency app is now live, with source](https://github.com/nicklockwood/Concurrency)
