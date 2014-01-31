@@ -4,6 +4,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 ## Thursday: January 30th 2014:
+* [ARCs Fast Autorelease](http://rentzsch.tumblr.com/post/75082194868/arcs-fast-autorelease)
 * [Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets)
 * [YapDatabase is a "key/value store and MUCH MORE" built atop sqlite for iOS & Mac.](https://github.com/yaptv/YapDatabase)
 * [YapDatabase vs CoreData](http://deusty.blogspot.co.il/2014/01/response-coredatanext.html)
