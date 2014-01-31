@@ -3,6 +3,11 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: January 31st 2014:
+* [Bolts is a collection of low-level libraries designed to make developing mobile apps easier](https://github.com/BoltsFramework/Bolts-iOS?utm_campaign=iOS_Dev_Weekly_Issue_131&utm_medium=email&utm_source=iOS%2BDev%2BWeekly)
+* [Class that lets you define colors, sizes, insets, &c. in a plist rather than in #defines or constants.](https://github.com/omnigroup/OmniGroup/blob/master/Frameworks/OmniUI/Common/OUIAppearance.m#L159)
+* [All the ways to byte swap](http://boredzo.org/blog/archives/2007-04-28/how-do-i-swap-thy-bytes-let-me-count-the-ways)
+
 ## Thursday: January 30th 2014:
 * [ARCs Fast Autorelease](http://rentzsch.tumblr.com/post/75082194868/arcs-fast-autorelease)
 * [Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets)
