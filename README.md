@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Monday: February 3rd 2014:
+* [How We Built Facebook for iOS](http://www.youtube.com/watch?t=15m20s&v=I5RqcYzrY4Y&feature=youtu.be&desktop_uri=%2Fwatch%3Fv%3DI5RqcYzrY4Y%26feature%3Dyoutu.be%26t%3D15m20s&app=desktop)
+
 ## Friday: January 31st 2014:
 * [Bolts is a collection of low-level libraries designed to make developing mobile apps easier](https://github.com/BoltsFramework/Bolts-iOS?utm_campaign=iOS_Dev_Weekly_Issue_131&utm_medium=email&utm_source=iOS%2BDev%2BWeekly)
 * [Class that lets you define colors, sizes, insets, &c. in a plist rather than in #defines or constants.](https://github.com/omnigroup/OmniGroup/blob/master/Frameworks/OmniUI/Common/OUIAppearance.m#L159)
