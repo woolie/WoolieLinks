@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Friday: February 7th 2014:
+* [Trying to figure out what your designer used as a font?](http://www.myfonts.com/WhatTheFont/)
+* [Help with pixel perfect layouts](http://twelvetwenty.nl/apps/uberlayer)
+
 ## Thursday: February 6th 2014:
 * [Clean Animation Code](http://ronnqvi.st/clear-animation-code/)
 * [Replacing delegates with ReactiveCocoa](http://ashfurrow.com/blog/replacing-delegates-with-reactivecocoa)
