@@ -3,7 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+## Thursday: February 6th 2014:
+* [Clean Animation Code](http://ronnqvi.st/clear-animation-code/)
+* [Replacing delegates with ReactiveCocoa](http://ashfurrow.com/blog/replacing-delegates-with-reactivecocoa)
+* [Krush iOS Architecture](http://www.teehanlax.com/blog/krush-ios-architecture/)
+* [Everything You Need to Know about iOS and OS X Deprecated APIs](http://iosdevelopertips.com/best-practices/eveything-you-need-to-know-about-ios-and-os-x-deprecated-apis.html)
+
 ## Monday: February 3rd 2014:
+* [Real time blurring for iOS.](https://github.com/radi/LiveFrost/)
 * [How We Built Facebook for iOS](http://www.youtube.com/watch?t=15m20s&v=I5RqcYzrY4Y&feature=youtu.be&desktop_uri=%2Fwatch%3Fv%3DI5RqcYzrY4Y%26feature%3Dyoutu.be%26t%3D15m20s&app=desktop)
 
 ## Friday: January 31st 2014:
