@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: February 10th 2014:
+* [The Magic of Strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/)
+* [Chain of Responsibility pattern](http://angelolloqui.com/blog/32-Chain-of-Responsibility-pattern)
+
 ## Friday: February 7th 2014:
 * [Trying to figure out what your designer used as a font?](http://www.myfonts.com/WhatTheFont/)
 * [Help with pixel perfect layouts](http://twelvetwenty.nl/apps/uberlayer)
