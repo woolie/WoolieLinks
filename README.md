@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: February 13th 2014:
+* [Generating Constants for Storyboard Identifiers](http://joris.kluivers.nl/blog/2014/02/10/storyboard-identifier-constants/)
+* [Damn Vulnerable IOS Application](http://damnvulnerableiosapp.com/#about)
+* [Objective-C runtime tutorial](http://www.raywenderlich.com/61318/video-tutorial-objective-c-runtime)
+* [From Barcodes to ProductLayer](http://www.cocoanetics.com/2014/02/from-barcodes-to-productlayer/)
+
 # Monday: February 10th 2014:
 * [The Magic of Strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/)
 * [Chain of Responsibility pattern](http://angelolloqui.com/blog/32-Chain-of-Responsibility-pattern)
