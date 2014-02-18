@@ -3,6 +3,15 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: February 17th 2014:
+* [Method Swizzling](http://nshipster.com/method-swizzling/)
+* [UninstallPKG allows you to completely remove so called "packages"](https://www.macupdate.com/app/mac/48159/uninstallpkg/1.0.2/1392645693)
+* [Subjective-C is a study of innovative iOS interfaces.](http://subjc.com)
+* [The Behavior of Super](http://optshiftk.com/2014/02/the-behavior-of-super/)
+* [Apple finally published an iOS security document](https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/SecureCodingGuide.pdf)
+* [27 open source projects inside Monoco 2.0. Easily installed and managed thanks to Cocoapods. ](https://twitter.com/nicnocquee/status/434213809901690880/photo/1)
+* [Bluetooth explorer](https://www.macupdate.com/app/mac/50433/bluetooth-explorer/3.0.3/1392241492)
+
 # Thursday: February 13th 2014:
 * [Generating Constants for Storyboard Identifiers](http://joris.kluivers.nl/blog/2014/02/10/storyboard-identifier-constants/)
 * [Damn Vulnerable IOS Application](http://damnvulnerableiosapp.com/#about)
