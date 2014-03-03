@@ -3,6 +3,22 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: March 3rd 2014
+* [The ultimate API for iOS Auto Layout](https://github.com/smileyborg/UIView-AutoLayout)
+* [Script to create enum switches](https://github.com/DavidBarry/switch-enum)
+
+# Saturday: March 1st 2014
+* [SMCalloutView for iOS7](http://nfarina.com/post/78014139253/smcalloutview-for-ios-7)
+
+# Tuesday: February 25th 2014
+* [NSURLProtocol Tutorial](http://www.raywenderlich.com/59982/nsurlprotocol-tutorial)
+
+# Monday: February 24th 2014:
+* [iOS Build Kit (Scripts for building)](https://github.com/adamwaite/iOS-Build-Kit)
+* [Don't bother a programmer](http://imgur.com/r/programming/3uyRWGJ)
+* [Showing directions on a Map](https://github.com/myell0w/MTDirectionsKit)
+* [Practical runtime](http://www.youtube.com/watch?v=frgnVhBcIFA)
+
 # Monday: February 17th 2014:
 * [Method Swizzling](http://nshipster.com/method-swizzling/)
 * [UninstallPKG allows you to completely remove so called "packages"](https://www.macupdate.com/app/mac/48159/uninstallpkg/1.0.2/1392645693)
