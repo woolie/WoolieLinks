@@ -3,6 +3,17 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: March 8th 2014:
+* [Integrating Reveal without modifying your Xcode project](http://blog.ittybittyapps.com/blog/2013/11/07/integrating-reveal-without-modifying-your-xcode-project/)
+* [Capturing My(self)`](http://blackpixel.com/blog/2014/03/capturing-myself.html)
+* [Creating table-based forms on iOS](https://github.com/nicklockwood/FXForms)
+* [Background tasks completing without notification](https://harlanhaskins.com/2014/03/02/laying-out-ios-uis-in-code.html)
+* [Laying out iOS UIs in Code](https://harlanhaskins.com/2014/03/02/laying-out-ios-uis-in-code.html)
+* [Add shimmering effect to any view](https://github.com/facebook/Shimmer)
+* [Trace Objective-C method calls by class or instance](https://github.com/johnno1962/Xtrace)
+* [Exposing NSMutableArray](http://ciechanowski.me/blog/2014/03/05/exposing-nsmutablearray/)
+* [Collection of LLDB commands for iOS debugging](https://github.com/facebook/chisel)
+
 # Monday: March 3rd 2014
 * [The ultimate API for iOS Auto Layout](https://github.com/smileyborg/UIView-AutoLayout)
 * [Script to create enum switches](https://github.com/DavidBarry/switch-enum)
