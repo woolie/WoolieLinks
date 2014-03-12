@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: March 11th 2013:
+* [Framework for iOS and OSX for email](http://libmailcore.com/)
+
 # Sunday: March 8th 2014:
 * [Integrating Reveal without modifying your Xcode project](http://blog.ittybittyapps.com/blog/2013/11/07/integrating-reveal-without-modifying-your-xcode-project/)
 * [Capturing My(self)`](http://blackpixel.com/blog/2014/03/capturing-myself.html)
