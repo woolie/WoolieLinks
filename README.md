@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: March 12th 2014:
+* [This is an example of a better metronome](https://github.com/zobkiw/ABetterMetronome)
+* [Eliminating stringly-typed code in Objective-C](http://corner.squareup.com/2014/02/objc-codegenutils.html)
+
 # Tuesday: March 11th 2013:
 * [Framework for iOS and OSX for email](http://libmailcore.com/)
 
