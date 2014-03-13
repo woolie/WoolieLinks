@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 13th 2014:
+* [An extensive exploration of the new NSProgress](http://oleb.net/blog/2014/03/nsprogress/)
+
 # Wednesday: March 12th 2014:
 * [This is an example of a better metronome](https://github.com/zobkiw/ABetterMetronome)
 * [Eliminating stringly-typed code in Objective-C](http://corner.squareup.com/2014/02/objc-codegenutils.html)
