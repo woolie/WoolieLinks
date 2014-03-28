@@ -3,6 +3,19 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 27th 2014:
+* [Build language parsers for iOS with PEGKit](http://itod.github.io/PEGKitMiniMathTutorial/)
+* [A simple Objective-C engine for OS X that can synthesise sounds from a given frequency for mono or stereo output.](https://github.com/matthiasplappert/MPSoundEngine)
+* [Debugger commands to open images, views, and more using Quick Look.](https://github.com/ryanolsonk/LLDB-QuickLook)
+* [iOS Static Libraries Are, Like, Really Bad, And Stuff](http://landonf.bikemonkey.org/code/ios/Radar_15800975_iOS_Frameworks.20140112.html)
+* [Core Data Potpourri (Video)](http://vimeo.com/89370886)
+* [Discovering Art with iBeacons](http://stripysock.com.au/blog/2014/3/3/discovering-art-with-ibeacons)
+* [The Siren Call of KVO and (Cocoa) Bindings](http://blog.metaobject.com/2014/03/the-siren-call-of-kvo-and-cocoa-bindings.html)
+* [Adds basic HTML capabilities to UILabel](https://github.com/schwa/MarkupLabel)
+
+# Sunday: March 23rd 2014:
+* [A domain specific language for CoreAnimation Transformations](https://github.com/schwa/Transformer-DSL)
+
 # Thursday: March 13th 2014:
 * [An extensive exploration of the new NSProgress](http://oleb.net/blog/2014/03/nsprogress/)
 
