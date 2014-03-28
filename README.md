@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: March 28th 2014:
+* [Fetching Objects with FMDB and SQLite](http://inessential.com/2014/03/26/fetching_objects_with_fmdb_and_sqlite)
+* [Using Charles Proxy to Optimize Mobile App Performance](http://blog.safariflow.com/2012/11/18/using-charles-proxy-to-optimize-mobile-app-performance/)
+
 # Thursday: March 27th 2014:
 * [Build language parsers for iOS with PEGKit](http://itod.github.io/PEGKitMiniMathTutorial/)
 * [A simple Objective-C engine for OS X that can synthesise sounds from a given frequency for mono or stereo output.](https://github.com/matthiasplappert/MPSoundEngine)
