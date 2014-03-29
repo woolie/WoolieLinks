@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: March 29th 2014:
+* [Easily Overlay An Adjustable Grid On Your App For UI Design](http://maniacdev.com/2014/03/open-source-ios-library-for-easily-overlaying-an-adjustable-grid-on-your-app-for-ui-design)
+* [Generic data source classes for UICollectionView](https://github.com/nxtbgthng/NXCollectionViewDataSource)
+
 # Friday: March 28th 2014:
 * [Fetching Objects with FMDB and SQLite](http://inessential.com/2014/03/26/fetching_objects_with_fmdb_and_sqlite)
 * [Using Charles Proxy to Optimize Mobile App Performance](http://blog.safariflow.com/2012/11/18/using-charles-proxy-to-optimize-mobile-app-performance/)
