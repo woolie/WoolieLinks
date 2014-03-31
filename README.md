@@ -4,6 +4,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Sunday: March 30th 2014:
+* [Class Hierarchies? Don't Do That!](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
 * [Blog about TDD & unit testing](http://iosunittesting.com/)
 
 # Saturday: March 29th 2014:
