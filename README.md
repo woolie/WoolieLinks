@@ -3,6 +3,17 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: April 6th 2014:
+* [The Right Way to Ask Users for iOS Permissions](https://medium.com/p/96fa4eb54f2c)
+* [Dash cheat sheet docset for LLDB commands](https://github.com/ddeville/lldb-commands-cheat-sheet)
+
+# Thursday: April 3rd 2014:
+* [Introducing ICACloud: iCloud Simplified](http://mentalfaculty.tumblr.com/post/73709086974/introducing-icacloud-icloud-simplified)
+* [Extend Apple's Core Data framework to add peer-to-peer synchronization](https://github.com/drewmccormack/ensembles)
+
+# Tuesday: April 1st 2014:
+* [Mock Roles, not Objects](http://jmock.org/oopsla2004.pdf)
+
 # Sunday: March 30th 2014:
 * [Class Hierarchies? Don't Do That!](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
 * [Blog about TDD & unit testing](http://iosunittesting.com/)
