@@ -6,6 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Sunday: April 6th 2014:
 * [The Right Way to Ask Users for iOS Permissions](https://medium.com/p/96fa4eb54f2c)
 * [Dash cheat sheet docset for LLDB commands](https://github.com/ddeville/lldb-commands-cheat-sheet)
+* [Github like activity control](http://blog.latenightsw.com/?p=782)
 
 # Thursday: April 3rd 2014:
 * [Introducing ICACloud: iCloud Simplified](http://mentalfaculty.tumblr.com/post/73709086974/introducing-icacloud-icloud-simplified)
