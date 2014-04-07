@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: April 7th 2014:
+* [Auto Layout Shorthand](https://github.com/rentzsch/AutoLayoutShorthand)
+
 # Sunday: April 6th 2014:
 * [The Right Way to Ask Users for iOS Permissions](https://medium.com/p/96fa4eb54f2c)
 * [Dash cheat sheet docset for LLDB commands](https://github.com/ddeville/lldb-commands-cheat-sheet)
