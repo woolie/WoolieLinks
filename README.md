@@ -4,7 +4,10 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: April 7th 2014:
+* [iOS Dynamic Linking](http://realmacsoftware.com/blog/dynamic-linking)
 * [Auto Layout Shorthand](https://github.com/rentzsch/AutoLayoutShorthand)
+* [Practical Asynchronous Programming part 1 (Video)](http://vimeo.com/90325166)
+* [Practical Asynchronous Programming part 2 (Video)](http://vimeo.com/90642682)
 
 # Sunday: April 6th 2014:
 * [The Right Way to Ask Users for iOS Permissions](https://medium.com/p/96fa4eb54f2c)
