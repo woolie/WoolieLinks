@@ -3,6 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: April 8th 2014:
+* [Handling Default Values With NSUserDefaults](http://oleb.net/blog/2014/02/nsuserdefaults-handling-default-values/)
+* [RestKit is an Objective-C framework for iOS](http://restkit.org)
+* [RestKit Tutorial](http://www.raywenderlich.com/13097/intro-to-restkit-tutorial)
+* [Accessing the cloud from Cocoa Touch](http://www.cimgf.com/2010/02/12/accessing-the-cloud-from-cocoa-touch/)
+* [Chaining animations](http://commandshift.co.uk/blog/2014/04/01/stop-nesting-animation-blocks/)
+* [New version of ParseKit. Objective-C parser generator.](https://github.com/itod/pegkit)
+
 # Monday: April 7th 2014:
 * [iOS Dynamic Linking](http://realmacsoftware.com/blog/dynamic-linking)
 * [Auto Layout Shorthand](https://github.com/rentzsch/AutoLayoutShorthand)
