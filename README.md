@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: April 9th 2014:
+* [Cocoa and the Builder Pattern](http://orangejuiceliberationfront.com/cocoa-and-the-builder-pattern/)
+
 # Tuesday: April 8th 2014:
 * [Handling Default Values With NSUserDefaults](http://oleb.net/blog/2014/02/nsuserdefaults-handling-default-values/)
 * [RestKit is an Objective-C framework for iOS](http://restkit.org)
