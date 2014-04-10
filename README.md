@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: April 9th 2014:
 * [Cocoa and the Builder Pattern](http://orangejuiceliberationfront.com/cocoa-and-the-builder-pattern/)
+* [RRConstraintsPlugin is an Xcode 5.1 plugin to improves constraints workflow in IB](https://github.com/RolandasRazma/RRConstraintsPlugin)
+* [Give weak observation a try](http://numist.net/post/2014/destroy-dealloc.html)
 
 # Tuesday: April 8th 2014:
 * [Handling Default Values With NSUserDefaults](http://oleb.net/blog/2014/02/nsuserdefaults-handling-default-values/)
