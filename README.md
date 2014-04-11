@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: April 10th 2014:
+* [Xcode plugin that enables switch cases autocompletion](https://github.com/stefanceriu/SCXcodeSwitchExpander)
+* [An internal installer app for iOS.](https://github.com/venmo/DryDock-iOS)
+* [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](http://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
+* [The brand-new MCSLLDBToolkit helps with debugging by showing JSON as nicely-formatted and colored](http://inessential.com/2014/04/10/xcode_json)
+
 # Wednesday: April 9th 2014:
 * [Cocoa and the Builder Pattern](http://orangejuiceliberationfront.com/cocoa-and-the-builder-pattern/)
 * [RRConstraintsPlugin is an Xcode 5.1 plugin to improves constraints workflow in IB](https://github.com/RolandasRazma/RRConstraintsPlugin)
