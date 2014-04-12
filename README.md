@@ -3,7 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Friday: April 10th 2014:
+# Saturday: April 12th 2014:
+* [JavaScriptCore by Example](http://blog.bignerdranch.com/4736-javascriptcore-example/)
+
+# Friday: April 11th 2014:
 * [Xcode plugin that enables switch cases autocompletion](https://github.com/stefanceriu/SCXcodeSwitchExpander)
 * [An internal installer app for iOS.](https://github.com/venmo/DryDock-iOS)
 * [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](http://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
