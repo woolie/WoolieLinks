@@ -3,6 +3,16 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: April 17th 2014:
+* [JSON to Objective-C Object Mapping](https://github.com/mobilejazz/Motis)
+* [The 'right' way to swizzle](http://blog.newrelic.com/2014/04/16/right-way-to-swizzle/)
+
+# Monday: April 14th 2014:
+* [A New Dependency Injection Container for Objective-C](http://www.typhoonframework.org)
+
+# Sunday: April 13th 2014:
+* [An interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera.](https://github.com/jaredsinclair/JTSImageViewController)
+
 # Saturday: April 12th 2014:
 * [JavaScriptCore by Example](http://blog.bignerdranch.com/4736-javascriptcore-example/)
 
