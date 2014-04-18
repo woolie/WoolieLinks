@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: April 18th 2014:
+* [Take control of permission requests on iOS](https://github.com/clusterinc/ClusterPrePermissions)
+* [Standard Music Font Layout and music notation font](http://www.smufl.org/smufl-0-9-and-bravura-0-9-released/)
+
 # Thursday: April 17th 2014:
 * [JSON to Objective-C Object Mapping](https://github.com/mobilejazz/Motis)
 * [The 'right' way to swizzle](http://blog.newrelic.com/2014/04/16/right-way-to-swizzle/)
