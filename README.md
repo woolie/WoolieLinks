@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Take control of permission requests on iOS](https://github.com/clusterinc/ClusterPrePermissions)
 * [Standard Music Font Layout and music notation font](http://www.smufl.org/smufl-0-9-and-bravura-0-9-released/)
 * [4 HTTP security headers you should always be using](http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using)
+* [Fix for dismissing modal page sheet forms iOS7 bug](https://gist.github.com/OliverLetterer/11043864)
 
 # Thursday: April 17th 2014:
 * [JSON to Objective-C Object Mapping](https://github.com/mobilejazz/Motis)
