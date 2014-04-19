@@ -3,11 +3,17 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: April 19th 2014:
+* [Dynamic view controller transitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions)
+
 # Friday: April 18th 2014:
 * [Take control of permission requests on iOS](https://github.com/clusterinc/ClusterPrePermissions)
 * [Standard Music Font Layout and music notation font](http://www.smufl.org/smufl-0-9-and-bravura-0-9-released/)
 * [4 HTTP security headers you should always be using](http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using)
 * [Fix for dismissing modal page sheet forms iOS7 bug](https://gist.github.com/OliverLetterer/11043864)
+* [SQL and SQLite manager for iOS](https://github.com/AlvaroFranco/AFSQLManager)
+* [Draw an arrow as an arc of a circle given two points and the radius](https://github.com/bizz84/MVArrowOverlays)
+* [Password strength evaluator](https://github.com/mattt/Navajo)
 
 # Thursday: April 17th 2014:
 * [JSON to Objective-C Object Mapping](https://github.com/mobilejazz/Motis)
