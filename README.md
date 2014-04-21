@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: April 21st 2014:
+* [A delightful Promises implementation for iOS](http://promisekit.org)
+
 # Sunday: April 20th 2014:
 * [UISegmentedControl alternative](https://github.com/bizz84/MVSelectorScrollView)
 * [An experiment in Ultralight View Controllers](http://chris.eidhof.nl/posts/intentions.html)
