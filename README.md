@@ -3,8 +3,15 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: April 20th 2014:
+* [UISegmentedControl alternative](https://github.com/bizz84/MVSelectorScrollView)
+* [An experiment in Ultralight View Controllers](http://chris.eidhof.nl/posts/intentions.html)
+* [Block based API for animations on each UIKeyboardNotifications](https://github.com/bartekhugo/BHTKeyboardAnimationBlocks)
+* [OS X Cocoa Programming classes](http://www.stanford.edu/class/cs193e/)
+
 # Saturday: April 19th 2014:
 * [Dynamic view controller transitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions)
+* [Make life easier when working with animations on keybard appearance/disappearance](https://github.com/bartekhugo/BHTKeyboardAnimationBlocks)
 
 # Friday: April 18th 2014:
 * [Take control of permission requests on iOS](https://github.com/clusterinc/ClusterPrePermissions)
