@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [NSHipster UIActivityViewController](http://nshipster.com/uiactivityviewcontroller/)
 * [IntentKit is an easier way to handle third-party URL schemes in iOS apps](https://github.com/intentkit/IntentKit)
 * [UICollectionView Left Aligned Layout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout)
+* [What is Software Design?](http://www.developerdotstar.com/mag/articles/reeves_design.html)
 
 # Monday: April 21st 2014:
 * [A delightful Promises implementation for iOS](http://promisekit.org)
