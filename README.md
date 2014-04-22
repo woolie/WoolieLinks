@@ -3,6 +3,10 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: April 22nd 2014:
+* [NSHipster UIActivityViewController](http://nshipster.com/uiactivityviewcontroller/)
+* [IntentKit is an easier way to handle third-party URL schemes in iOS apps](https://github.com/intentkit/IntentKit)
+
 # Monday: April 21st 2014:
 * [A delightful Promises implementation for iOS](http://promisekit.org)
 
