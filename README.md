@@ -3,6 +3,13 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: April 23rd 2014:
+* [A UIProgressView subclass that displays the percentage complete in an easy to customize popup view](https://github.com/alskipp/ASProgressPopupView)
+* [The UICollectionViewLayout subclass adds swipe to delete functionality to a collectionview](https://github.com/larryryu/LSSwipeToDeleteCollectionViewLayout)
+* [Highly customizable, sticky modal view](https://github.com/neerajbaid/NBSlideUpView)
+* [OSCache is an open-source re-implementation of NSCache that behaves in a predictable, debuggable way](https://github.com/nicklockwood/OSCache)
+* [A layout for UICollectionView that aligns the cells to the right](https://github.com/mokagio/UICollectionViewRightAlignedLayout)
+
 # Tuesday: April 22nd 2014:
 * [NSHipster UIActivityViewController](http://nshipster.com/uiactivityviewcontroller/)
 * [IntentKit is an easier way to handle third-party URL schemes in iOS apps](https://github.com/intentkit/IntentKit)
