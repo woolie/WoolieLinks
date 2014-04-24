@@ -1,0 +1,27 @@
+|Command              |Description|
+|---------------------|-------------------------------------------------------------------------------------|
+|pviews               |Print the recursive view description for the key window.|
+|pvc                  |Print the recursive view controller description for the key window.|
+|visualize            |Open a UIImage, CGImageRef, UIView, or CALayer in Preview.app on your Mac.|
+|fv                   |Find a view in the hierarchy whose class name matches the provided regex.|
+|fvc                  |Find a view controller in the hierarchy whose class name matches the provided regex.|
+|show/hide            |Show or hide the given view or layer. You don't even have to continue the process to see the changes!|
+|mask/unmask          |Overlay a view or layer with a transparent rectangle to visualize where it is.|
+|border/unborder      |Add a border to a view or layer to visualize where it is.|
+|caflush              |Flush the render server (equivalent to a "repaint" if no animations are in-flight).)|
+|bmessage             |Set a symbolic breakpoint on the method of a class or the method of an instance without worrying which class in the hierarchy actually implements the method.|
+|wivar                |Set a watchpoint on an instance variable of an object.|
+|presponder           |Print the responder chain starting from the given object.|
+|bmessage             |Set a breakpoint for a selector on a class, even if the class itself doesn't override that selector. It walks the hierarchy until it finds a class that does implement the selector and sets a conditional breakpoint there.|
+|fa11y                |Find the views whose accessibility labels match labelRegex and puts the address of the first result on the clipboard.|
+|flicker              |Quickly show and hide a view to quickly help visualize where it is.|
+|panim                |Prints if the code is currently execution with a UIView animation block.|
+|pca                  |Print layer tree from the perspective of the render server.|
+|pcells               |Print the visible cells of the highest table view in the hierarchy.|
+|pclass               |Print the inheritance starting from an instance of any class.|
+|pinternals           |Show the internals of an object by dereferencing it as a pointer.|
+|pinvocation          |Print the stack frame, receiver, and arguments of the current invocation. It will fail to print all arguments if any arguments are variadic (varargs).|
+|pivar                |Print the value of an object's named instance variable.|
+|ptv                  |Print the highest table view in the hierarchy.|
+|taplog               |Print the highest table view in the hierarchy.|
+|vs                   |Interactively search for a view by walking the hierarchy.|
