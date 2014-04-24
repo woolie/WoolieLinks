@@ -3,6 +3,11 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: April 24th 2014:
+* [LLDB Chisel command list](https://github.com/woolie/WoolieLinks/blob/master/chisel-cmds.txt)
+* [UIView Animation Extensions](http://stunningco.de/2014/04/22/introducing-uiview-animation-extensions/)
+* [Simple NSLayoutConstraint expression parser for more readable autolayout code](https://github.com/marcoarment/CompactConstraint)
+
 # Wednesday: April 23rd 2014:
 * [A UIProgressView subclass that displays the percentage complete in an easy to customize popup view](https://github.com/alskipp/ASProgressPopupView)
 * [The UICollectionViewLayout subclass adds swipe to delete functionality to a collectionview](https://github.com/larryryu/LSSwipeToDeleteCollectionViewLayout)
@@ -119,7 +124,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: March 12th 2014:
 * [This is an example of a better metronome](https://github.com/zobkiw/ABetterMetronome)
-* [Eliminating stringly-typed code in Objective-C](http://corner.squareup.com/2014/02/objc-codegenutils.html)
+* [Eliminating strongly-typed code in Objective-C](http://corner.squareup.com/2014/02/objc-codegenutils.html)
 
 # Tuesday: March 11th 2013:
 * [Framework for iOS and OSX for email](http://libmailcore.com/)
