@@ -3,10 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: April 25th 2014:
+* [Unit Testing Asynchronous Cocoa](http://mentalfaculty.tumblr.com/post/83814421929/unit-testing-asynchronous-cocoa)
+
 # Thursday: April 24th 2014:
 * [LLDB Chisel command list](https://github.com/woolie/WoolieLinks/blob/master/chisel-cmds.txt)
 * [UIView Animation Extensions](http://stunningco.de/2014/04/22/introducing-uiview-animation-extensions/)
 * [Simple NSLayoutConstraint expression parser for more readable autolayout code](https://github.com/marcoarment/CompactConstraint)
+* [Inside the Bracket, part 5 – Runtime API](http://blog.bignerdranch.com/3218-inside-the-bracket-part-5-runtime-api/)
 
 # Wednesday: April 23rd 2014:
 * [A UIProgressView subclass that displays the percentage complete in an easy to customize popup view](https://github.com/alskipp/ASProgressPopupView)
