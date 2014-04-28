@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: April 28th 2014:
+* [Animated, customizable replacement for UISegmentedControl](https://github.com/nealyoung/NYSegmentedControl)
+
 # Sunday: April 27th 2014:
 * [Object to/from JSON mapping framework](https://github.com/jfwork/JFObjectMapping)
 * [A UITextView subclass which let's you move the cursor with a pan gesture](https://github.com/dasdom/DDHTextView)
