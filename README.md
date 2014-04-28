@@ -3,8 +3,23 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: April 27th 2014:
+* [Object to/from JSON mapping framework](https://github.com/jfwork/JFObjectMapping)
+* [A UITextView subclass which let's you move the cursor with a pan gesture](https://github.com/dasdom/DDHTextView)
+* [NSTableView Tips: Not delaying the first responder](http://www.corbinstreehouse.com/blog/2014/04/nstableview-tips-not-delaying-the-first-responder/)
+* [The UINavigationController missing API](https://github.com/leverdeterre/NavigationControllerWithBlocks)
+* [An UIImageView category that loads images asynchronously](https://github.com/Marxon13/M13AsynchronousImageView)
+* [A lightweight library of animated graphs for iOS](https://github.com/michalkonturek/GraphKit)
+
+# Saturday: April 26th 2014:
+* [Mapping data from an API to a database](https://github.com/Egeniq/EFDataMappingKit)
+
 # Friday: April 25th 2014:
 * [Unit Testing Asynchronous Cocoa](http://mentalfaculty.tumblr.com/post/83814421929/unit-testing-asynchronous-cocoa)
+* [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+* [Fluent pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
+* [Storyboard best practices](http://robsprogramknowledge.blogspot.com/2012/01/uistoryboard-best-practices.html)
+* [Implementing delete in an NSTableView](http://www.corbinstreehouse.com/blog/2014/04/implementing-delete-in-an-nstableview/)
 
 # Thursday: April 24th 2014:
 * [LLDB Chisel command list](https://github.com/woolie/WoolieLinks/blob/master/chisel-cmds.txt)
