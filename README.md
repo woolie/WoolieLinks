@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Animated, customizable replacement for UISegmentedControl](https://github.com/nealyoung/NYSegmentedControl)
 * [What is Stemming?](http://www.comp.lancs.ac.uk/computing/research/stemming/general/)
 * [Snowball: A language for stemming algorithms](http://snowball.tartarus.org/texts/introduction.html)
+* [Extensible iOS and OS X animation library.](https://github.com/facebook/pop)
 
 # Sunday: April 27th 2014:
 * [Object to/from JSON mapping framework](https://github.com/jfwork/JFObjectMapping)
