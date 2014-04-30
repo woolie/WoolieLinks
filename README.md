@@ -3,6 +3,14 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: April 30th 2014:
+* [Link Anywhere On Mobile](http://applinks.org)
+
+# Tuesday: April 29th 2014:
+* [A Short Guide To OS X Animations](http://jwilling.com/osx-animations)
+* [How to Create a Framework for iOS](http://www.raywenderlich.com/65964/create-a-framework-for-ios)
+* [Objective-C Protocol Buffers for OSX and the iPhone](https://code.google.com/p/metasyntactic/wiki/ProtocolBuffers)
+
 # Monday: April 28th 2014:
 * [Animated, customizable replacement for UISegmentedControl](https://github.com/nealyoung/NYSegmentedControl)
 * [What is Stemming?](http://www.comp.lancs.ac.uk/computing/research/stemming/general/)
