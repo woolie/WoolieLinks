@@ -3,6 +3,13 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: May 1st 2014:
+* [The Psychology of Waiting, Loading Animations, and Facebook](http://mercury.io/the-psychology-of-waiting-loading-animations-and-facebook/)
+* [Subliminal is an open-source framework for writing iOS integration tests](http://inkling.github.io/Subliminal/)
+* [Combatting Kryptonite: Fighting AutoLayout](http://carpeaqua.com/2014/04/29/layout-kryptonite/)
+* [KeyGrip: the Pasteboard Presentation Tool](http://cocoamanifest.net/articles/2014/04/announcing-keygrip-the-pasteboard-presentation-tool.html)
+* [NSTableView Tips: Doing Animations with Core Data](http://www.corbinstreehouse.com/blog/2014/04/nstableview-tips-doing-animations-with-core-data/)
+
 # Wednesday: April 30th 2014:
 * [Link Anywhere On Mobile](http://applinks.org)
 
