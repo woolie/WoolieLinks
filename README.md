@@ -3,6 +3,9 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 2nd 2014:
+* [Input accessory view with previous, next and done buttons](https://github.com/jessearmand/XCDFormInputAccessoryView)
+
 # Thursday: May 1st 2014:
 * [The Psychology of Waiting, Loading Animations, and Facebook](http://mercury.io/the-psychology-of-waiting-loading-animations-and-facebook/)
 * [Subliminal is an open-source framework for writing iOS integration tests](http://inkling.github.io/Subliminal/)
