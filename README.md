@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: May 2nd 2014:
 * [Input accessory view with previous, next and done buttons](https://github.com/jessearmand/XCDFormInputAccessoryView)
+* [Understanding UIScrollView](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
 
 # Thursday: May 1st 2014:
 * [The Psychology of Waiting, Loading Animations, and Facebook](http://mercury.io/the-psychology-of-waiting-loading-animations-and-facebook/)
