@@ -3,6 +3,12 @@ WoolieLinks
 
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 4th 2014:
+* [A collection of all Flat UI Colors](https://github.com/schneiderandre/ASCFlatUIColor)
+* [Delightful, simple library for aspect oriented programming](https://github.com/steipete/Aspects)
+* [Parallax Scrolling](http://oleb.net/blog/2014/04/parallax-scrolling-collectionview/)
+* [A fork of Ole Begemann's custom scroll view project, that adds decelerated scrolling](https://github.com/rounak/CustomScrollView)
+
 # Friday: May 2nd 2014:
 * [Input accessory view with previous, next and done buttons](https://github.com/jessearmand/XCDFormInputAccessoryView)
 * [Understanding UIScrollView](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
