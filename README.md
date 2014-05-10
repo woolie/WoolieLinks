@@ -2,6 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: May 10th 2014:
+* [The Single Responsibility Principle](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
+* [YouTube video player for iPhone and iPad.](https://github.com/0xced/XCDYouTubeVideoPlayerViewController/tree/develop)
+* [A dead simple RESTful server that runs INSIDE your iOS/OSX app](https://github.com/smyrgl/RESTEasy)
+* [How to bend UIKit to your will](https://www.youtube.com/watch?v=psPNxC3G_hc&app=desktop)
+* [iOS project which closely mimics the behavior of the Apple Photos app](https://github.com/brennanMKE/PhotoZoom)
+
+# Wednesday: May 7th 2014:
+* [LibXL is a library that can read and write Excel files](http://www.libxl.com)
+* [Animation Timing on iOS - Defining time with music notation](https://medium.com/p/910e6a58098b)
+* [An Elegant messages UI library for iOS](https://github.com/jessesquires/JSQMessagesViewController)
+* [Simple StoreKit receipt validation and processing](http://rjstelling.github.io/ReceiptKit/)
+
 # Tuesday: May 6th 2014:
 * [Remote View Controllers in iOS 6](http://oleb.net/blog/2012/10/remote-view-controllers-in-ios-6/)
 
