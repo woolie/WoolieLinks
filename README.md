@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 11th 2014:
+* [Mac: Event Tab Bench, closest thing the WinSpy (Event logging)](http://www.macupdate.com/app/mac/34029/event-taps-testbench/1.3.4/1399757127)
+* [A implementation of XPath 1.0 in Objective-C/Cocoa (port of Saxon 6.5)](https://github.com/itod/panthro)
+
 # Saturday: May 10th 2014:
 * [The Single Responsibility Principle](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 * [YouTube video player for iPhone and iPad.](https://github.com/0xced/XCDYouTubeVideoPlayerViewController/tree/develop)
