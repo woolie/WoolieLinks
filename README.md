@@ -2,6 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: May 14th 2014:
+* [UIKit Dynamics runtime visualisation and introspection library for iOS](http://blog.chrismiles.info/2014/05/introducing-dynamicxray.html)
+* [Mac code signing made slightly easier with a script](https://gist.github.com/koenbok/f044ac3ea8a3ec756a2c)
+* [A portable, UI-free and iCloud-ready replacement for NSDocument](https://github.com/soulmen/ULDocument.git)
+
+# Tuesday: May 13th 2014:
+* [A block based alternative to UIActionSheet in the style of TweetBot](https://github.com/danwilliams64/DJWActionSheet)
+* [This library contains helper classes to produce correctly formed NSLocale, NSDateFormatter and NSCalendar objects](https://github.com/dodikk/ESLocale)
+* [UIAppearance proxy for custom objects](https://github.com/m1entus/MZAppearance)
+
+# Monday: May 12th 2014:
+* [LazyFadeInView is a cool way to animate the apperance of a label](https://github.com/itouch2/LazyFadeInView/blob/master/README.md)
+
 # Sunday: May 11th 2014:
 * [Mac: Event Tab Bench, closest thing the WinSpy (Event logging)](http://www.macupdate.com/app/mac/34029/event-taps-testbench/1.3.4/1399757127)
 * [A implementation of XPath 1.0 in Objective-C/Cocoa (port of Saxon 6.5)](https://github.com/itod/panthro)
