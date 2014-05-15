@@ -6,6 +6,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [UIKit Dynamics runtime visualisation and introspection library for iOS](http://blog.chrismiles.info/2014/05/introducing-dynamicxray.html)
 * [Mac code signing made slightly easier with a script](https://gist.github.com/koenbok/f044ac3ea8a3ec756a2c)
 * [A portable, UI-free and iCloud-ready replacement for NSDocument](https://github.com/soulmen/ULDocument.git)
+* [OpenGL Command QuickRef Card](http://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf)
+* [Mesh transforms for UIView](https://github.com/Ciechan/BCMeshTransformView)
 
 # Tuesday: May 13th 2014:
 * [A block based alternative to UIActionSheet in the style of TweetBot](https://github.com/danwilliams64/DJWActionSheet)
