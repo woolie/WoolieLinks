@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: May 15th 2014:
+* [Prototyping with Facebook's Origami](http://dancounsell.com/articles/prototyping-with-facebooks-origami/)
+* [A customizable UIActionSheet replacement for the iPad](https://github.com/myell0w/MTDActionSheet)
+* [iOS Console allows you to view iOS console logs directly from your Mac](http://lemonjar.com/iosconsole/)
+* [AutoLayout Myths, Table View Performance, and Side-by-Side iPad App Multi-tasking](http://blog.jaredsinclair.com/post/85635304505/autolayout-myths-table-view-performance-and)
+* [Learn to Love AutoLayout... Programmatically](http://www.thinkandbuild.it/learn-to-love-auto-layout-programmatically/)
+* [Protocol Buffers for Objective-C](https://github.com/Serheo/protobuf-objc)
+* [NSConf 6 videos on Video](http://vimeo.com/channels/nsconf6)
+
 # Wednesday: May 14th 2014:
 * [UIKit Dynamics runtime visualisation and introspection library for iOS](http://blog.chrismiles.info/2014/05/introducing-dynamicxray.html)
 * [Mac code signing made slightly easier with a script](https://gist.github.com/koenbok/f044ac3ea8a3ec756a2c)
