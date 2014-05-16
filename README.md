@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 6th 2014:
+* [Bridging AGGeometryKit with POP for amazing dynamics and animations](https://github.com/hfossli/aggeometrykit-pop)
+* [Mesh Transforms explanations](http://ciechanowski.me)
+* [Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.](http://kentonv.github.io/capnproto/)
+
 # Thursday: May 15th 2014:
 * [Prototyping with Facebook's Origami](http://dancounsell.com/articles/prototyping-with-facebooks-origami/)
 * [A customizable UIActionSheet replacement for the iPad](https://github.com/myell0w/MTDActionSheet)
