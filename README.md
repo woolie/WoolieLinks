@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: May 17th 2014:
+* [Handy Objective-C 'Extensions' (@implementation_combine, @implementation_safe, etc)](https://github.com/samdods/DZLObjcAdditions)
+* [Intercept and log objc messages](https://github.com/OliverLetterer/SPLMessageLogger)
+* [Objective-C MIDI communication library for iOS and OS X](https://github.com/mixedinkey-opensource/MIKMIDI)
+
 # Friday: May 6th 2014:
 * [Bridging AGGeometryKit with POP for amazing dynamics and animations](https://github.com/hfossli/aggeometrykit-pop)
 * [Mesh Transforms explanations](http://ciechanowski.me)
