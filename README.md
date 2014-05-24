@@ -2,6 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 23rd 2014:
+* [Address Sanitizer with LLVM ASAN ("-fsanitize=address") (not available in Xcode5.1.1)](http://llvm.org/devmtg/2013-11/slides/Serebryany-ASAN.pdf)
+* Enabled GuardMalloc from LLDB (and relaunch): settings set target.env-vars DYLD\_INSERT\_LIBRARIES=/usr/lib/libgmalloc.dylib
+
+# Thursday: May 22nd 2014:
+* [Open source PDF parser (Google)](https://pdfium.googlesource.com/pdfium/)
+* [Snapshot view unit tests for iOS](https://github.com/facebook/ios-snapshot-test-case)
+* [NSHipster: Benchmarking](http://nshipster.com/benchmarking/)
+* [initng: Trying to tame the daemon world](http://webcache.googleusercontent.com/search?q=cache:5TWe84DsPkgJ:www.opensource.apple.com/source/initng/initng-12/initng/doc/initng.doc+&cd=1&hl=en&ct=clnk&gl=us&client=safari)
+
+# Sunday: May 18th 2014:
+* [A multiple image picker for iOS 7](https://github.com/mikaoj/BSImagePicker)
+
 # Saturday: May 17th 2014:
 * [Handy Objective-C 'Extensions' (@implementation_combine, @implementation_safe, etc)](https://github.com/samdods/DZLObjcAdditions)
 * [Intercept and log objc messages](https://github.com/OliverLetterer/SPLMessageLogger)
