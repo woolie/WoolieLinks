@@ -2,6 +2,21 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: May 27th 2014:
+* [iOS Hat – turn Photoshop layers into Objective-C](http://ioshat.madebysource.com)
+
+# Tuesday: May 26th 2014:
+* [Graph the import dependancies in an Objective-C project](https://github.com/nst/objc_dep)
+
+# Monday: May 25th 2014:
+* [iBeacons Lessons Learned](http://mutualmobile.github.io/blog/2014/05/07/ibeacons-lessons-learned/)
+* [NSHipster on CocoaPods](http://nshipster.com/cocoapods/)
+
+# Saturday: May 24th 2014:
+* [Prototypes Made with Quartz Composer+Origami](http://qcnoodling.com/)
+* [Compile-time checking plain key path strings](http://devetc.org/code/2014/05/17/safe-and-sane-key-paths.html)
+* [Beagle is an Objective C debugging tool that can sniff out class instances on the heap](https://github.com/heardrwt/RHObjectivebeagle)
+
 # Friday: May 23rd 2014:
 * [Address Sanitizer with LLVM ASAN ("-fsanitize=address") (not available in Xcode5.1.1)](http://llvm.org/devmtg/2013-11/slides/Serebryany-ASAN.pdf)
 * Enabled GuardMalloc from LLDB (and relaunch): settings set target.env-vars DYLD\_INSERT\_LIBRARIES=/usr/lib/libgmalloc.dylib
