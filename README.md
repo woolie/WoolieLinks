@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 28th 2014:
+* [Some Cocoa Thread Utilities](https://github.com/itod/threadutils)
+
 # Wednesday: May 27th 2014:
 * [iOS Hat – turn Photoshop layers into Objective-C](http://ioshat.madebysource.com)
 
