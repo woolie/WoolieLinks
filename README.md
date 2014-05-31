@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: May 31st 2014:
+* [Automatically Formatting Your Objective-C](http://tonyarnold.com/2014/05/31/autoformatting-your-code.html)
+* [A collection of animation examples for iOS using the Facebook Pop library](https://github.com/schneiderandre/popping)
+
 # Friday: May 28th 2014:
 * [Some Cocoa Thread Utilities](https://github.com/itod/threadutils)
 
