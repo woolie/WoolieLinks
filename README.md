@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: June 2nd 2014:
+* [Open-source personal tracking tool](https://github.com/lazerwalker/theseus)
+* [DTFoundation is a collection of utility methods and category extensions](http://www.cocoanetics.com/2014/06/dtfoundation-1-7-0/)
+* [FXParser is a very simple text parsing engine](https://github.com/nicklockwood/FXParser)
+
 # Saturday: May 31st 2014:
 * [Automatically Formatting Your Objective-C](http://tonyarnold.com/2014/05/31/autoformatting-your-code.html)
 * [A collection of animation examples for iOS using the Facebook Pop library](https://github.com/schneiderandre/popping)
