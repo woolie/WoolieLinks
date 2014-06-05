@@ -6,6 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
 * [Benefits of Using Standard vs. Custom Table View Cells](http://cases.azoft.com/ios-development-benefits-standard-custom-table-view-cells/)
 * [FlappyBird game written in Swift](https://github.com/fullstackio/FlappySwift)
+* [A great guide/explanation to warnings in LLVM](http://programmers.stackexchange.com/questions/122608/clang-warning-flags-for-objective-c-development/124574#124574)
 
 # Monday: June 2nd 2014:
 * [Open-source personal tracking tool](https://github.com/lazerwalker/theseus)
