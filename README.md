@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: June 5th 2014:
+* [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
+* [Benefits of Using Standard vs. Custom Table View Cells](http://cases.azoft.com/ios-development-benefits-standard-custom-table-view-cells/)
+* [FlappyBird game written in Swift](https://github.com/fullstackio/FlappySwift)
+
 # Monday: June 2nd 2014:
 * [Open-source personal tracking tool](https://github.com/lazerwalker/theseus)
 * [DTFoundation is a collection of utility methods and category extensions](http://www.cocoanetics.com/2014/06/dtfoundation-1-7-0/)
