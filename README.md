@@ -10,6 +10,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift Language Highlights: An Objective-C Developer’s Perspective](http://www.raywenderlich.com/73997/swift-language-highlights)
 * [Swift & AFNetworking 2.2.4](http://tech.ustwo.com/2014/06/05/ios-swift-afnetworking-issue/)
 * [Swift & AFNetworking 2.2.4 Part 2](http://tech.ustwo.com/2014/06/05/ios-swift-afnetworking-issue-part-ii/)
+* [List of useful Quick Look plugins for developers](https://github.com/sindresorhus/quick-look-plugins)
 
 # Thursday: June 5th 2014:
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
