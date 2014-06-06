@@ -2,11 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: June 6th 2014:
+* [WWDC 2014, 2013 & Tech-talks 2013 Videos and sessions PDFs downloader](https://github.com/ohoachuck/wwdc-downloader)
+* [Swift language mailing list](https://groups.google.com/forum/#!forum/swift-language)
+* [Code signing and 10.9](http://furbo.org/2013/10/17/code-signing-and-mavericks/)
+* [Simple asynchronous networking class for Swift](https://github.com/yayuhh/YYHRequest-Swift)
+
 # Thursday: June 5th 2014:
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
 * [Benefits of Using Standard vs. Custom Table View Cells](http://cases.azoft.com/ios-development-benefits-standard-custom-table-view-cells/)
 * [FlappyBird game written in Swift](https://github.com/fullstackio/FlappySwift)
 * [A great guide/explanation to warnings in LLVM](http://programmers.stackexchange.com/questions/122608/clang-warning-flags-for-objective-c-development/124574#124574)
+* [Source Control Notifications for Mac Developers](http://committedformac.com/)
+* [How Do I Declare a Closure in Swift?](http://fuckingclosuresyntax.com/)
 
 # Monday: June 2nd 2014:
 * [Open-source personal tracking tool](https://github.com/lazerwalker/theseus)
