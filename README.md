@@ -7,6 +7,9 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift language mailing list](https://groups.google.com/forum/#!forum/swift-language)
 * [Code signing and 10.9](http://furbo.org/2013/10/17/code-signing-and-mavericks/)
 * [Simple asynchronous networking class for Swift](https://github.com/yayuhh/YYHRequest-Swift)
+* [Swift Language Highlights: An Objective-C Developer’s Perspective](http://www.raywenderlich.com/73997/swift-language-highlights)
+* [Swift & AFNetworking 2.2.4](http://tech.ustwo.com/2014/06/05/ios-swift-afnetworking-issue/)
+* [Swift & AFNetworking 2.2.4 Part 2](http://tech.ustwo.com/2014/06/05/ios-swift-afnetworking-issue-part-ii/)
 
 # Thursday: June 5th 2014:
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
