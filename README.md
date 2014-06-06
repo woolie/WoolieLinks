@@ -13,6 +13,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [List of useful Quick Look plugins for developers](https://github.com/sindresorhus/quick-look-plugins)
 * [Swift Initializers](http://ashfurrow.com/blog/swift-initializers)
 * [Swift cheatsheet](https://github.com/grant/swift-cheat-sheet)
+* [Unit Testing in Swift](http://bendyworks.com/unit-testing-in-swift/)
 
 # Thursday: June 5th 2014:
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
