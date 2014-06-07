@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: June 7th 2014:
+* [Swift iOS Tutorial - Build a Checklist App: Part One](http://m.youtube.com/watch?v=WsvrQgsZ13I&feature=youtu.be)
+
 # Friday: June 6th 2014:
 * [WWDC 2014, 2013 & Tech-talks 2013 Videos and sessions PDFs downloader](https://github.com/ohoachuck/wwdc-downloader)
 * [Swift language mailing list](https://groups.google.com/forum/#!forum/swift-language)
@@ -14,6 +17,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift Initializers](http://ashfurrow.com/blog/swift-initializers)
 * [Swift cheatsheet](https://github.com/grant/swift-cheat-sheet)
 * [Unit Testing in Swift](http://bendyworks.com/unit-testing-in-swift/)
+* [Easily present the latest changes and features to your users on app updates](https://github.com/mdznr/What-s-New)
 
 # Thursday: June 5th 2014:
 * [Mac-native, XPath 1.0 debugger and visualizer](http://celestialteapot.com/pathology/)
