@@ -4,6 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: June 9th 2014:
 * [Architecting iOS Apps with the VIPER architecture](http://www.objc.io/issue-13/viper.html)
+* [Functional programming in Swift](https://github.com/maxpow4h/swiftz)
+* [Yay, someone is maintaining Sparkle updater framework](https://github.com/pornel/Sparkle )
 
 # Saturday: June 7th 2014:
 * [Swift iOS Tutorial - Build a Checklist App: Part One](http://m.youtube.com/watch?v=WsvrQgsZ13I&feature=youtu.be)
