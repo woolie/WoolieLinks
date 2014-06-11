@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: June 10th 2014:
+* [Using NSProgress to allow canceling of async fetches](http://oleb.net/blog/2014/03/nsprogress/)
+
 # Monday: June 9th 2014:
 * [Architecting iOS Apps with the VIPER architecture](http://www.objc.io/issue-13/viper.html)
 * [Functional programming in Swift](https://github.com/maxpow4h/swiftz)
