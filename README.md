@@ -2,6 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: June 13th 2014:
+* [AFViewShaker is simple as a brick utility for UIView shake animation](https://github.com/ArtFeel/AFViewShaker)
+* [Replicating Twitter’s bird zoom startup animation (in Swift!)](http://iosdevtips.co/post/88481653818/twitter-ios-app-bird-zoom-animation)
+* [Model View Controller Presenter: A discovered pattern to write highly reusable iOS code](https://medium.com/@jamztang/model-view-controller-presenter-8bb4149fa5ef )
+* [How to make awesome UI components in iOS 8 using Swift and XCode 6](http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6/ )
+* [Odd Swift collections behaviour](http://ircubic.net/blog/2014/06/07/odd-swift-collections.html )
+* [DSP Decrypted Part I – The Sky is the Limit](http://www.strymon.net/2014/05/29/dsp-anyway/)
+
 # Wednesday: June 11th 2014:
 * [Delegate callbacks in Swift](http://swiftterminal.tumblr.com/post/88377395358)
 
