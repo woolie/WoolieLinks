@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: June 17th 2014:
+* [A practical exploration of Apple's Swift programming language](http://practicalswift.com/2014/06/14/the-swift-standard-library-list-of-built-in-functions/)
+* [Leveraging AutoLayout for Dynamic Cell Heights](http://www.raizlabs.com/dev/2014/02/leveraging-auto-layout-for-dynamic-cell-heights/)
+
+# Monday: June 16th 2014:
+* [Library Inspector is a simple tool for inspecting the contents of compiled object code, archives, dynamic libraries (dylib), frameworks and applications](http://www.oriontransfer.co.nz/products/library-inspector/index)
+
 # Sunday: June 15th 2014:
 * [A Tutorial Introduction to the Lambda Calculus](http://www.utdallas.edu/~gupta/courses/apl/lambda.pdf)
 
