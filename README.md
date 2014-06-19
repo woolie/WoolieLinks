@@ -2,9 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: June 18th 2014:
+* [Building the Xcode Plugin Snapshots](http://artsy.github.io/blog/2014/06/17/building-the-xcode-plugin-snapshots/)
+* [An Xcode Plugin to show the state of FBSnapshot Tests](https://github.com/orta/snapshots)
+* [The better way to deal with JSON data in Swift](https://github.com/lingoer/SwiftyJSON)
+
 # Tuesday: June 17th 2014:
 * [A practical exploration of Apple's Swift programming language](http://practicalswift.com/2014/06/14/the-swift-standard-library-list-of-built-in-functions/)
 * [Leveraging AutoLayout for Dynamic Cell Heights](http://www.raizlabs.com/dev/2014/02/leveraging-auto-layout-for-dynamic-cell-heights/)
+* [Using the Amazing Audio Engine With the Synthesis Toolkit in C++](http://arielelkin.github.io/articles/mandolin/)
 
 # Monday: June 16th 2014:
 * [Library Inspector is a simple tool for inspecting the contents of compiled object code, archives, dynamic libraries (dylib), frameworks and applications](http://www.oriontransfer.co.nz/products/library-inspector/index)
