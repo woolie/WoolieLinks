@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: June 22nd 2041:
+* [Swift and JSON Reborn (JSON Parsing in Swift)](https://medium.com/swift-programming/b6f4f232e35e)
+* [Value Observing and Events for Swift](https://github.com/slazyk/Observable-Swift)
+* [Unwrapping Multiple Swift Optionals](https://gist.github.com/rgcottrell/c42e62d1f09e711f54b5)
+
 # Wednesday: June 18th 2014:
 * [Building the Xcode Plugin Snapshots](http://artsy.github.io/blog/2014/06/17/building-the-xcode-plugin-snapshots/)
 * [An Xcode Plugin to show the state of FBSnapshot Tests](https://github.com/orta/snapshots)
