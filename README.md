@@ -2,7 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Sunday: June 22nd 2041:
+# Monday: June 23rd 2014:
+* [Setting up the simulator from the command line](http://ericasadun.com/2014/06/18/ios-8-building-custom-simulators/)
+* [Links and material produced during the very awesome hackathon at FB HQ](https://github.com/NSLondon/WWDC-Facebook-Hackathon)
+
+# Sunday: June 22nd 2014:
 * [Swift and JSON Reborn (JSON Parsing in Swift)](https://medium.com/swift-programming/b6f4f232e35e)
 * [Value Observing and Events for Swift](https://github.com/slazyk/Observable-Swift)
 * [Unwrapping Multiple Swift Optionals](https://gist.github.com/rgcottrell/c42e62d1f09e711f54b5)
