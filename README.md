@@ -2,6 +2,16 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: June 27th 2014:
+* [Giving Animations Life](https://medium.com/tictail-makers/giving-animations-life-8b20165224c5)
+* [Community-supported catalog of iOS and OSX libraries in Swift](http://www.swifttoolbox.io/)
+
+# Thursday: June 26th 2014:
+* [How to go from CMutablePointer<CGFloat> to CGFloat[] in Swift](http://stackoverflow.com/questions/24051395/how-to-go-from-cmutablepointercgfloat-to-cgfloat-in-swift/24414058#24414058)
+
+# Wednesday: June 25th 2014:
+* [Watch Cocoanetics as he re-implements OAuth from scratch](https://github.com/Cocoanetics/DTOAuth)
+
 # Monday: June 23rd 2014:
 * [Setting up the simulator from the command line](http://ericasadun.com/2014/06/18/ios-8-building-custom-simulators/)
 * [Links and material produced during the very awesome hackathon at FB HQ](https://github.com/NSLondon/WWDC-Facebook-Hackathon)
