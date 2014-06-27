@@ -3,6 +3,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: June 27th 2014:
+* [Mike Ash on Interesting Swift Features](https://mikeash.com/pyblog/friday-qa-2014-06-20-interesting-swift-features.html)
 * [Giving Animations Life](https://medium.com/tictail-makers/giving-animations-life-8b20165224c5)
 * [Community-supported catalog of iOS and OSX libraries in Swift](http://www.swifttoolbox.io/)
 
