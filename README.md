@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: June 30th 2014:
+* [NSFetchedResultsController with UITableView](http://mikeabdullah.net/nsfetchedresultscontroller-uitableview.html)
+
 # Friday: June 27th 2014:
 * [Using LLVM in your toolchain. New book!](https://www.packtpub.com/getting-started-with-llvm-core-libraries/book)
 * [Mike Ash on Interesting Swift Features](https://mikeash.com/pyblog/friday-qa-2014-06-20-interesting-swift-features.html)
