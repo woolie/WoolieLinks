@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: July 2nd 2014:
+* [Ignoring exceptions, useful for filtering exceptions during unit tests](http://chen.do/blog/2013/09/30/selectively-ignoring-objective-c-exceptions-in-xcode/)
+
 # Monday: June 30th 2014:
 * [NSFetchedResultsController with UITableView](http://mikeabdullah.net/nsfetchedresultscontroller-uitableview.html)
 
