@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: July 3rd 2014:
+* [Strings in Swift](http://oleb.net/blog/2014/07/swift-strings/)
+
 # Wednesday: July 2nd 2014:
 * [Ignoring exceptions, useful for filtering exceptions during unit tests](http://chen.do/blog/2013/09/30/selectively-ignoring-objective-c-exceptions-in-xcode/)
 
