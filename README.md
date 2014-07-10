@@ -2,13 +2,18 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Saturday: July5th 2014:
+# Wednesday: July 9th 2014:
+* [iOS: Adaptive UI](http://www.raywenderlich.com/76663/adaptive-ui-raywenderlich-com-podcast-episode-8)
+
+# Saturday: July 5th 2014:
 * [Inspecting Yosemite Icons](http://martiancraft.com/blog/2014/07/inspecting-yosemite-icons/)
 * [Mike Ash on the Secrets of Swift's Speed](http://www.mikeash.com/pyblog/friday-qa-2014-07-04-secrets-of-swifts-speed.html)
 * [UIView subclass that bends its edges when its position changes](https://github.com/fastred/AHKBendableView)
 * [Dynamic Table View Cell Height and Auto Layout](http://www.raywenderlich.com/73602/dynamic-table-view-cell-height-auto-layout)
 * [VBFJellyView tutorial (animated view bounds)](http://victorbaro.com/2014/07/vbfjellyview-tutorial/)
 * [Report on Crash Reporting Frameworks](http://www.crashprobe.com)
+* [Custom UIButton effect inspired by Google Material Design](https://github.com/zoonooz/ZFRippleButton)
+* [Nice button transition in Swift](http://robb.is/working-on/a-hamburger-button-transition/)
 
 # Thursday: July 3rd 2014:
 * [Strings in Swift](http://oleb.net/blog/2014/07/swift-strings/)
