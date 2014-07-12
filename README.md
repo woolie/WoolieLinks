@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: July 11th 2014:
 * [More modern fork of GitX. No longer shells out to git](http://rowanj.github.io/gitx/)
 * [The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful](https://github.com/smileyborg/PureLayout )
+* [Swift Is Not Functional](http://robnapier.net/swift-is-not-functional)
+* [Apple has a blog about Swift, whoa!](https://developer.apple.com/swift/blog/)
 
 # Wednesday: July 9th 2014:
 * [iOS: Adaptive UI](http://www.raywenderlich.com/76663/adaptive-ui-raywenderlich-com-podcast-episode-8)
