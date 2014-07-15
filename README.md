@@ -2,6 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: July 15th 2014:
+* [Introduction to Swift Optionals](http://freecake.yayuhh.com/introduction-to-swift-optionals/)
+* [New AutoLayout book](https://gumroad.com/l/autolayout)
+
+# Saturday: July 12th 2014:
+* [An attempt to gather all that is in flux in Swift](https://github.com/ksm/SwiftInFlux)
+* [Auto Layout and Views that Wrap](http://devetc.org/code/2014/07/07/auto-layout-and-views-that-wrap.html)
+
 # Friday: July 11th 2014:
 * [More modern fork of GitX. No longer shells out to git](http://rowanj.github.io/gitx/)
 * [The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful](https://github.com/smileyborg/PureLayout )
