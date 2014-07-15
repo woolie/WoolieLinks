@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Tuesday: July 15th 2014:
 * [Introduction to Swift Optionals](http://freecake.yayuhh.com/introduction-to-swift-optionals/)
 * [New AutoLayout book](https://gumroad.com/l/autolayout)
+* [Flipping an NSView (old article)](http://www.mentalfaculty.com/mentalfaculty/Blog/Entries/2010/9/22_FLIPPIN_OUT_AT_NSVIEW.html)
 
 # Saturday: July 12th 2014:
 * [An attempt to gather all that is in flux in Swift](https://github.com/ksm/SwiftInFlux)
