@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: July 22nd 2014
+* [NSHipster on XCTestCase, XCTestExpectation, measureBlock](http://nshipster.com/xctestcase/)
+
+# Wednesday: July 16th 2014
+* [Hacking UIView Animation Blocks](https://gist.github.com/nicklockwood/d374033b27c62662ac8d)
+
 # Tuesday: July 15th 2014:
 * [Introduction to Swift Optionals](http://freecake.yayuhh.com/introduction-to-swift-optionals/)
 * [New AutoLayout book](https://gumroad.com/l/autolayout)
