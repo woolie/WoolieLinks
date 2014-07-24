@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: July 24th 2014:
+* [IDE+Swift for Android (but still on top of Android VM)](http://www.remobjects.com/elements/silver/)
+* [UIKit with Swift Tutorial](http://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
+
 # Tuesday: July 22nd 2014
 * [NSHipster on XCTestCase, XCTestExpectation, measureBlock](http://nshipster.com/xctestcase/)
 
