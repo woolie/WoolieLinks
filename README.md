@@ -6,6 +6,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Popular Math Insights (Scroll down, lots of cool stuff)](http://betterexplained.com/cheatsheet/)
 * [FLEX, In app debugging framework](http://engineering.flipboard.com/2014/07/flex/)
 * [Clean up of Apple's reachability code](https://github.com/jaredsinclair/JTSReachability)
+* [A UIScrollView subclass that intelligently handles multiple child scroll views](https://github.com/ole/OLEContainerScrollView)
+* [A command-line interface for accessing WWDC session content](https://github.com/mattt/wwdc)
 
 # Thursday: July 24th 2014:
 * [IDE+Swift for Android (but still on top of Android VM)](http://www.remobjects.com/elements/silver/)
