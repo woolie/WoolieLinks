@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: July 26th 2014:
+* [A script to list all un-prefixed classes](https://gist.github.com/0xced/3083552)
+* [Swift: Lazy by name, lazy by nature](http://airspeedvelocity.net/2014/07/26/lazy-by-name-lazy-by-nature/)
+
 # Friday: July 25th 2014:
 * [Popular Math Insights (Scroll down, lots of cool stuff)](http://betterexplained.com/cheatsheet/)
 * [FLEX, In app debugging framework](http://engineering.flipboard.com/2014/07/flex/)
