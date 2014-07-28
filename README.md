@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: July 28th 2014:
+* [Indoor Positioning with Core Location](https://developer.apple.com/library/prerelease/ios/samplecode/footprint/Introduction/Intro.html#//apple_ref/doc/uid/TP40014457)
+
+# Sunday: July 27th 2014:
+* [Mach-O disassembler. Now 64bit and Mavericks/Yosemite + Xcode 5/6 compatible](https://github.com/x43x61x69/OTX)
+
 # Saturday: July 26th 2014:
 * [A script to list all un-prefixed classes](https://gist.github.com/0xced/3083552)
 * [Swift: Lazy by name, lazy by nature](http://airspeedvelocity.net/2014/07/26/lazy-by-name-lazy-by-nature/)
