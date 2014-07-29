@@ -8,7 +8,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift: Learning about type constraints](http://brockerhoff.net/blog/2014/07/26/swift-learning-about-type-constraints/)
 * [Prototyping with Facebook's Origami](http://dancounsell.com/articles/prototyping-with-facebooks-origami)
 * [Swift Documentation](http://nshipster.com/swift-documentation/)
-* [Swift: Collection and Sequence Helpers](http://airspeedvelocity.net/2014/07/28/collection-and-sequence-helpers/ )
+* [Swift: Collection and Sequence Helpers](http://airspeedvelocity.net/2014/07/28/collection-and-sequence-helpers/)
+* [Sample SSL client code for correct endpoint validation](https://github.com/iSECPartners/ssl-conservatory)
 
 # Monday: July 28th 2014:
 * [Indoor Positioning with Core Location](https://developer.apple.com/library/prerelease/ios/samplecode/footprint/Introduction/Intro.html#//apple_ref/doc/uid/TP40014457)
