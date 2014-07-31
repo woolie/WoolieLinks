@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Thursday: July 31st 2014:
 * [Understanding Optional Chaining](http://nomothetis.svbtle.com/understanding-optional-chaining)
+* [The Swift Swift tutorial: Ten points for using optionals](http://makeapppie.com/2014/07/30/the-swift-swift-tutorial-ten-points-for-using-optionals/)
 
 # Tuesday: July 29th 2014:
 * [Demonstrates a way to do Yosemite-style animated controls](https://github.com/peternlewis/AnimatingToggleButton)
