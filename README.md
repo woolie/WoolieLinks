@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: July 31st 2014:
+* [Understanding Optional Chaining](http://nomothetis.svbtle.com/understanding-optional-chaining)
+
 # Tuesday: July 29th 2014:
 * [Demonstrates a way to do Yosemite-style animated controls](https://github.com/peternlewis/AnimatingToggleButton)
 * [Error Handling in Swift: Might and Magic](http://nomothetis.svbtle.com/error-handling-in-swift)
