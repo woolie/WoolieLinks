@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: August 1st 2014:
 * [Inspects your iOS/OSX project and warns about possible bugs, as well as about maintainability and style issues](http://fauxpasapp.com)
+* [iBeacons: Lessons Learned](http://www.mutualmobile.com/posts/ibeacons-lessons-learned)
 
 # Thursday: July 31st 2014:
 * [Understanding Optional Chaining](http://nomothetis.svbtle.com/understanding-optional-chaining)
