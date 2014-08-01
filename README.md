@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: August 1st 2014:
+* [Inspects your iOS/OSX project and warns about possible bugs, as well as about maintainability and style issues](http://fauxpasapp.com)
+
 # Thursday: July 31st 2014:
 * [Understanding Optional Chaining](http://nomothetis.svbtle.com/understanding-optional-chaining)
 * [The Swift Swift tutorial: Ten points for using optionals](http://makeapppie.com/2014/07/30/the-swift-swift-tutorial-ten-points-for-using-optionals/)
