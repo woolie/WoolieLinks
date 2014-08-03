@@ -2,9 +2,17 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: August 3rd 2014:
+* [Code Data Editor Source code](https://github.com/ChristianKienle/Core-Data-Editor)
+
+# Saturday: August 2nd 2014:
+* [Elegant Networking in Swift](https://github.com/Alamofire/Alamofire)
+* [Introducing the 1Password App Extension for iOS 8 apps](http://blog.agilebits.com/2014/07/30/introducing-the-1password-app-extension-for-ios-8-apps/)
+
 # Friday: August 1st 2014:
 * [Inspects your iOS/OSX project and warns about possible bugs, as well as about maintainability and style issues](http://fauxpasapp.com)
 * [iBeacons: Lessons Learned](http://www.mutualmobile.com/posts/ibeacons-lessons-learned)
+* [Implicitly Unwrapped Optionals In Depth](http://nomothetis.svbtle.com/implicitly-unwrapped-optionals-in-depth)
 
 # Thursday: July 31st 2014:
 * [Understanding Optional Chaining](http://nomothetis.svbtle.com/understanding-optional-chaining)
