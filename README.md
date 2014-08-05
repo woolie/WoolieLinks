@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: August 5th 2014:
+* [iOS8 CoreImage Detectors](http://www.shinobicontrols.com/blog/posts/2014/08/05/ios8-day-by-day-day-13-coreimage-detectors)
+
 # Monday: August 4th 2014:
 * [Image Processing in iOS Part 1: Raw Bitmap Modification](http://www.raywenderlich.com/69855/image-processing-in-ios-part-1-raw-bitmap-modification)
 * [Refactoring — Not on the backlog!](http://xprogramming.com/articles/refactoring-not-on-the-backlog/)
