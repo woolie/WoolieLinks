@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: August 4th 2014:
+* [Image Processing in iOS Part 1: Raw Bitmap Modification](http://www.raywenderlich.com/69855/image-processing-in-ios-part-1-raw-bitmap-modification)
+* [Refactoring — Not on the backlog!](http://xprogramming.com/articles/refactoring-not-on-the-backlog/)
+
 # Sunday: August 3rd 2014:
 * [Code Data Editor Source code](https://github.com/ChristianKienle/Core-Data-Editor)
 
