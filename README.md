@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: August: 6th 2014:
+* [Cocoa framework for updating OS X apps (like Sparkle)](https://github.com/Squirrel/Squirrel.Mac)
+* [Glyphish: Asset color changer](https://github.com/glyphish/color-changer)
+* [Glyphish: Asset browser/viewer](https://github.com/glyphish/gallery)
+* [Thinking In Terms Of iOS 8 Size Classes](http://carpeaqua.com/2014/06/14/thinking-in-terms-of-ios-8-size-classes/)
+
 # Tuesday: August 5th 2014:
 * [iOS8 CoreImage Detectors](http://www.shinobicontrols.com/blog/posts/2014/08/05/ios8-day-by-day-day-13-coreimage-detectors)
 
