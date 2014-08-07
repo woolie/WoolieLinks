@@ -2,7 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: August 7th 2014:
+* [AMScrollingNavbar: Creating a Cocoapod](http://andreamazz.github.io/blog/2014/02/01/amscrollingnavbar-creating-a-cocoapod/)
+* [Scrollable UINavigationBar that follows the scrolling of a UIScrollView](https://github.com/andreamazz/AMScrollingNavbar)
+
 # Wednesday: August: 6th 2014:
+* [A pure Swift library for creating command-line interfaces](https://github.com/jatoben/CommandLine)
 * [Cocoa framework for updating OS X apps (like Sparkle)](https://github.com/Squirrel/Squirrel.Mac)
 * [Glyphish: Asset color changer](https://github.com/glyphish/color-changer)
 * [Glyphish: Asset browser/viewer](https://github.com/glyphish/gallery)
