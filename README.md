@@ -6,6 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Self Sizing Table View Cells](http://useyourloaf.com/blog/2014/08/07/self-sizing-table-view-cells.html)
 * [Big Nerd Ranch: Leveling Up](http://www.bignerdranch.com/blog/leveling-up/)
 * [Big Nerd Ranch: A Lurking Horror in Debugging](http://www.bignerdranch.com/blog/lurking-horror/)
+* [Boolean, New Apple Swift blog entry](https://developer.apple.com/swift/blog/?id=8)
 
 # Thursday: August 7th 2014:
 * [AMScrollingNavbar: Creating a Cocoapod](http://andreamazz.github.io/blog/2014/02/01/amscrollingnavbar-creating-a-cocoapod/)
