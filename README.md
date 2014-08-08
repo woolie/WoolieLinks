@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: August 8th 2014:
+* [Self Sizing Table View Cells](http://useyourloaf.com/blog/2014/08/07/self-sizing-table-view-cells.html)
+
 # Thursday: August 7th 2014:
 * [AMScrollingNavbar: Creating a Cocoapod](http://andreamazz.github.io/blog/2014/02/01/amscrollingnavbar-creating-a-cocoapod/)
 * [Scrollable UINavigationBar that follows the scrolling of a UIScrollView](https://github.com/andreamazz/AMScrollingNavbar)
