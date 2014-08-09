@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: August 9th 2014:
+* [A simple iOS photo browser with optional grid view, captions and selections.](https://github.com/mwaterfall/MWPhotoBrowser)
+* [New Image Viewer/Browser inspired by Facebook for IOS](https://github.com/michaelhenry/MHFacebookImageViewer)
+
 # Friday: August 8th 2014:
 * [Self Sizing Table View Cells](http://useyourloaf.com/blog/2014/08/07/self-sizing-table-view-cells.html)
 * [Big Nerd Ranch: Leveling Up](http://www.bignerdranch.com/blog/leveling-up/)
