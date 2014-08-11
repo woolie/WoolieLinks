@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: August 12th 2014:
+* [Auto Layout Performance on iOS](http://floriankugler.com/blog/2013/4/21/auto-layout-performance-on-ios)
+
 # Sunday: August 11th 2014:
 * [iOS Debugging Tricks: Extended Type Info in Objective-C](http://bou.io/ExtendedTypeInfoInObjC.html)
 * [OSX: NSScrollView and Autolayout](http://bjhomer.blogspot.com/2014/08/nsscrollview-and-autolayout.html)
