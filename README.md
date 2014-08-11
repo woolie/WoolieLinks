@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: August 11th 2014:
+* [iOS Debugging Tricks: Extended Type Info in Objective-C](http://bou.io/ExtendedTypeInfoInObjC.html)
+* [OSX: NSScrollView and Autolayout](http://bjhomer.blogspot.com/2014/08/nsscrollview-and-autolayout.html)
+* [Self Sizing Table View Cells-Dynamic Type Everywhere](http://useyourloaf.com/blog/2014/08/07/self-sizing-table-view-cells.html)
+* [Apple Swift Balloons playground](https://developer.apple.com/swift/blog/?id=9)
+* [Locking in Swift: Helping Protect Me from Myself](http://www.bignerdranch.com/blog/locking-in-swift-helping-protect-me-from-myself/)
+
 # Saturday: August 9th 2014:
 * [A simple iOS photo browser with optional grid view, captions and selections.](https://github.com/mwaterfall/MWPhotoBrowser)
 * [New Image Viewer/Browser inspired by Facebook for IOS](https://github.com/michaelhenry/MHFacebookImageViewer)
