@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: August 13th 2014:
+* [Clean UI Code: Taming the Combinatorial Explosion - Building Paper](https://www.youtube.com/watch?v=ZdiBPHpxGd0&app=desktop)
+
 # Monday: August 12th 2014:
 * [Auto Layout Performance on iOS](http://floriankugler.com/blog/2013/4/21/auto-layout-performance-on-ios)
 
