@@ -2,6 +2,16 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: August 21st 2014:
+* [Table Cell Accessory Views](http://mikeabdullah.net/thl-ios7-diary-7-accessory-views.html)
+* [NSTextField replacement](https://github.com/alexzielenski/zktextfield)
+
+# Friday: August 15th 2014:
+* [How do the Objective-C patterns we already know translate into Swift?](http://thatthinginswift.com)
+
+# Thursday: August 13th 2014:
+* [Facebook: Debugging file corruption on iOS](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
+
 # Tuesday: August 13th 2014:
 * [Clean UI Code: Taming the Combinatorial Explosion - Building Paper](https://www.youtube.com/watch?v=ZdiBPHpxGd0&app=desktop)
 
