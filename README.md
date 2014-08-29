@@ -2,6 +2,20 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: August 29th 2014:
+* [Replacing Launch Images with Storyboards](http://oleb.net/blog/2014/08/replacing-launch-images-with-storyboards/)
+* [Auto layout best practices for minimum pain](https://medium.com/@NSomar/auto-layout-best-practices-for-minimum-pain-c130b2b1a0f6)
+
+# Tuesday: August 26th 2014:
+* [Finally, see the github site wider](https://github.com/tmlee/wider_github)
+* [OSX App that checks or changes the “quarantine” attribute of other applications](http://brockerhoff.net/RB/AppQuarantine/)
+
+# Friday: August 22nd 2014:
+* [Swift Debugging Tips](http://natashatherobot.com/swift-debugging/)
+* [Yet another: How to parse JSON in Swift](http://robnapier.net/functional-wish-fulfillment)
+* [Flat button with 9 different states using POP](https://github.com/iBaro/VBFPopFlatButton)
+* [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+
 # Thursday: August 21st 2014:
 * [Table Cell Accessory Views](http://mikeabdullah.net/thl-ios7-diary-7-accessory-views.html)
 * [NSTextField replacement](https://github.com/alexzielenski/zktextfield)
