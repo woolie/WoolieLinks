@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Auto layout best practices for minimum pain](https://medium.com/@NSomar/auto-layout-best-practices-for-minimum-pain-c130b2b1a0f6)
 * [Writing Less Code](http://www.merowing.info/2014/08/writing-less-code/#.VAEX4ktWc-Y)
 * [Property mapping for iOS apps.](https://github.com/krzysztofzablocki/KZPropertyMapper)
+* [Model framework for Cocoa and Cocoa Touch](https://github.com/Mantle/Mantle)
 
 # Tuesday: August 26th 2014:
 * [Finally, see the github site wider](https://github.com/tmlee/wider_github)
