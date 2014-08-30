@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: August 29th 2014:
 * [Replacing Launch Images with Storyboards](http://oleb.net/blog/2014/08/replacing-launch-images-with-storyboards/)
 * [Auto layout best practices for minimum pain](https://medium.com/@NSomar/auto-layout-best-practices-for-minimum-pain-c130b2b1a0f6)
+* [Writing Less Code](http://www.merowing.info/2014/08/writing-less-code/#.VAEX4ktWc-Y)
+* [Property mapping for iOS apps.](https://github.com/krzysztofzablocki/KZPropertyMapper)
 
 # Tuesday: August 26th 2014:
 * [Finally, see the github site wider](https://github.com/tmlee/wider_github)
