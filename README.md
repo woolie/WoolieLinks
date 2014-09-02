@@ -2,6 +2,20 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: September 2nd 2014:
+* [UIKit Dynamics Tutorial: Tossing Views](http://www.raywenderlich.com/71828/uikit-dynamics-tutorial-tossing-views)
+* [Slide deck: Making iOS security super simple](https://speakerdeck.com/erik/making-ios-security-super-simple-iosdevuk)
+
+# Monday: September 1st 2014:
+* [Blog covering all iOS developer needs to know about new APIs in iOS8](http://www.shinobicontrols.com/iOS8DayByDay)
+
+# Sunday: August 31st 2014:
+* [How To Make a Custom Control in Swift](http://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
+* [NSHipster on WKWebView](http://nshipster.com/wkwebkit/)
+
+# Saturday: August 30th 2014:
+* [Adding Blur Effects on iOS](http://code.tutsplus.com/tutorials/adding-blur-effects-on-ios--cms-21488)
+
 # Friday: August 29th 2014:
 * [Replacing Launch Images with Storyboards](http://oleb.net/blog/2014/08/replacing-launch-images-with-storyboards/)
 * [Auto layout best practices for minimum pain](https://medium.com/@NSomar/auto-layout-best-practices-for-minimum-pain-c130b2b1a0f6)
