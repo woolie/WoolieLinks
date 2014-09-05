@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: 
+* [UIAlertController Changes in iOS 8](http://useyourloaf.com/blog/2014/09/05/uialertcontroller-changes-in-ios-8.html)
+
+# Thursday: September 4th 2014:
+* [Starting Signal Processing](http://supermegaultragroovy.com/2014/09/03/starting-signal-processing/)
+
 # Wednesday: September 3rd 2014:
 * [A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON](https://github.com/nicklockwood/FastCoding)
 
