@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Friday: 
+# Monday: September 8th 2014:
+* [Building Custom UI Elements with IBDesignable](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable/)
+
+# Friday: September 5th 2014:
 * [UIAlertController Changes in iOS 8](http://useyourloaf.com/blog/2014/09/05/uialertcontroller-changes-in-ios-8.html)
 
 # Thursday: September 4th 2014:
