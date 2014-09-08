@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: September 8th 2014:
 * [Building Custom UI Elements with IBDesignable](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable/)
+* [Swift Memory Dumping](https://www.mikeash.com/pyblog/friday-qa-2014-08-29-swift-memory-dumping.html)
 
 # Friday: September 5th 2014:
 * [UIAlertController Changes in iOS 8](http://useyourloaf.com/blog/2014/09/05/uialertcontroller-changes-in-ios-8.html)
