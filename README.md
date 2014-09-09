@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: September 9th 2014:
+* [Open Source Swift Based Library That Wraps The Accelerate Framework For Easier Usage](http://maniacdev.com/2014/08/open-source-swift-based-library-that-wraps-the-accelerate-framework-for-easier-usage)
+
 # Monday: September 8th 2014:
 * [Building Custom UI Elements with IBDesignable](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable/)
 * [Swift Memory Dumping](https://www.mikeash.com/pyblog/friday-qa-2014-08-29-swift-memory-dumping.html)
