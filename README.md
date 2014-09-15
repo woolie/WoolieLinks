@@ -2,6 +2,16 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: September 15th 2014:
+* [Emulating aspect-fit behaviour using AutoLayout constraints in Xcode 6](http://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using-autolayout-constraints-in-xcode-6/25768875#25768875)
+* [Writing Thread-Safe Classes with GCD](http://www.humancode.us/2014/09/13/thread-safe-classes.html?utm_content=bufferb64fa)
+* [UICollectionView Cell Scroll to centre (Hack)](http://stackoverflow.com/questions/23990863/uicollectionview-cell-scroll-to-centre)
+* [Building Custom UI Elements with IBDesignable](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable/)
+* [ANDLineChartView is easy to use view-based class for displaying animated line chart.](https://github.com/anaglik/ANDLineChartView)
+
+# Thursday: September 11th 2014:
+* [UIView Background Queue Debugging](http://www.cocoanetics.com/2013/02/uiview-background-queue-debugging/)
+
 # Tuesday: September 9th 2014:
 * [Open Source Swift Based Library That Wraps The Accelerate Framework For Easier Usage](http://maniacdev.com/2014/08/open-source-swift-based-library-that-wraps-the-accelerate-framework-for-easier-usage)
 
