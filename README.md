@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: September 16th 2014:
+* [Image Resizing Techniques](http://nshipster.com/image-resizing/)
+
 # Monday: September 15th 2014:
 * [Emulating aspect-fit behaviour using AutoLayout constraints in Xcode 6](http://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using-autolayout-constraints-in-xcode-6/25768875#25768875)
 * [Writing Thread-Safe Classes with GCD](http://www.humancode.us/2014/09/13/thread-safe-classes.html?utm_content=bufferb64fa)
