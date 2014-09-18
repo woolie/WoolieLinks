@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: Septermber 17th 2014:
+* [For anyone developing apps that manage photos or videos, meet your new best friend: PHImageManager](http://nshipster.com/phimagemanager/)
+* [Video: Facebook's iOS Infrastructure - @Scale 2014 Mobile](https://www.youtube.com/watch?v=XhXC4SKOGfQ&app=desktop)
+
 # Tuesday: September 16th 2014:
 * [Image Resizing Techniques](http://nshipster.com/image-resizing/)
 
