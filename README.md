@@ -4,6 +4,10 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: September 19th 2014:
 * [Capturing My(self)](http://blackpixel.com/blog/2014/03/capturing-myself.html)
+* [Don’t Miss These Navigation Bar Interactions in iOS8](http://natashatherobot.com/navigation-bar-interactions-ios8/)
+* [Asynchronous Testing With Xcode 6](http://www.bignerdranch.com/blog/asynchronous-testing-with-xcode-6/)
+* [Reduction in Force. reduce()](http://robnapier.net/reduction-in-force)
+* [Code examples for the new functions of iOS 8](https://github.com/shu223/iOS8-Sampler)
 
 # Wednesday: September 17th 2014:
 * [For anyone developing apps that manage photos or videos, meet your new best friend: PHImageManager](http://nshipster.com/phimagemanager/)
