@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: September 22nd 2014:
+* [Mobile Testing in a Nutshell](http://apps.testinsane.com/mindmaps/Mobile-Testing-In-a-Nutshell)
+
+# Sunday: SEptember 21st 2014:
+* [iOS8 Sampler for iOS](https://www.cocoacontrols.com/controls/ios8-sampler)
+
 # Friday: September 19th 2014:
 * [Capturing My(self)](http://blackpixel.com/blog/2014/03/capturing-myself.html)
 * [Don’t Miss These Navigation Bar Interactions in iOS8](http://natashatherobot.com/navigation-bar-interactions-ios8/)
