@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: September 25th 2014:
+* [Adaptive Layout Tutorial](http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial)
+
 # Monday: September 22nd 2014:
 * [Mobile Testing in a Nutshell](http://apps.testinsane.com/mindmaps/Mobile-Testing-In-a-Nutshell)
 
