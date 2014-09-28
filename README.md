@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: September 28th 2014:
+* [Well, it's a circle menu. Kind of. For iOS.](https://github.com/JaNd3r/CKCircleMenuView)
+
 # Thursday: September 25th 2014:
 * [Adaptive Layout Tutorial](http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial)
 
