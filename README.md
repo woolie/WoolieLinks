@@ -2,6 +2,25 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: October 2nd 2014:
+* [CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions](https://github.com/carsonperrotti/CNPPopupController)
+* [LibComponentLogging provides built-in log levels for distinguishing between error messages, informational messages, and fine-grained trace messages for debugging](http://0xc0.de/LibComponentLogging)
+* [iOS 8 Today Extension Tutorial](http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
+* [Beginning CloudKit Tutorial](http://www.raywenderlich.com/83116/beginning-cloudkit-tutorial)
+* [iOS 8 Visual Effects Tutorial](http://www.raywenderlich.com/84043/ios-8-visual-effects-tutorial)
+* [Git Fu With The Command Line](http://www.raywenderlich.com/74258/git-tutorial-intermediate)
+
+# Wednesday: October 1st 2014:
+* [UIAlertViewController](http://nshipster.com/uialertcontroller/)
+
+# Tuesday: September 30th 2014:
+* [Text Kit Tutorial in Swift](http://www.raywenderlich.com/77092/text-kit-tutorial-swift)
+* [iOS 8 Location Services PSA](http://www.neglectedpotential.com/2014/09/ios-8-location-services-psa/)
+
+# Monday: September 29th 2014:
+* [Navigating a New Codebase: Tips and tricks for getting up to speed quickly](http://www.raywenderlich.com/79600/navigating-a-new-codebase)
+* [Adaptive Layouts for iPhone 6 Plus](http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/)
+
 # Sunday: September 28th 2014:
 * [Well, it's a circle menu. Kind of. For iOS.](https://github.com/JaNd3r/CKCircleMenuView)
 
