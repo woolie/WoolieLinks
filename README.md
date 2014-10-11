@@ -2,6 +2,24 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: October 11th 2014:
+* [Table Cell Accessory Views](http://mikeabdullah.net/thl-diary-8-table-headers.html)
+* [Implementing Fast Enumeration](https://www.mikeash.com/pyblog/friday-qa-2010-04-16-implementing-fast-enumeration.html)
+* [Inside Code Signing](http://www.objc.io/issue-17/inside-code-signing.html)
+
+# Wednesday: October 8th 2014:
+* [Open source Markdown editor for OS X](https://github.com/uranusjr/macdown)
+
+# Monday: October 6th 2014:
+* [Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
+* [In Defense of Not-Invented-Here Syndrome](http://joelonsoftware.com/articles/fog0000000007.html)
+
+# Sunday: October 5th 2014:
+* [Bézier Curves: Under the Hood](http://vimeo.com/106757336)
+
+# Friday: October 3rd 2014:
+* [Autorelease - Under the Hood](http://matteogobbi.github.io/blog/2014/09/28/autorelease-under-the-hood/)
+
 # Thursday: October 2nd 2014:
 * [CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions](https://github.com/carsonperrotti/CNPPopupController)
 * [LibComponentLogging provides built-in log levels for distinguishing between error messages, informational messages, and fine-grained trace messages for debugging](http://0xc0.de/LibComponentLogging)
