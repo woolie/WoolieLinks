@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: October 14th 2014:
+* [MIT Open Course: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+# Monday: October 13th 2014:
+* [Adaptive user interfaces: Exploring iOS size classes and trait collections](http://www.jessesquires.com/adaptive-user-interfaces/)
+
 # Saturday: October 11th 2014:
 * [Table Cell Accessory Views](http://mikeabdullah.net/thl-diary-8-table-headers.html)
 * [Implementing Fast Enumeration](https://www.mikeash.com/pyblog/friday-qa-2010-04-16-implementing-fast-enumeration.html)
