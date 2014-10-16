@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: October 16th 2014:
+* [AsyncDisplayKit is an iOS framework that keeps even the most complex user interfaces smooth and responsive.](http://asyncdisplaykit.org/)
+* [Scott Goodson - Behind AsyncDisplayKit](http://vimeo.com/103589245)
+* [iOS project bootstrap and templates](https://github.com/krzysztofzablocki/KZBootstrap)
+
 # Tuesday: October 14th 2014:
 * [MIT Open Course: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
