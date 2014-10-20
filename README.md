@@ -2,6 +2,17 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: October 19th 2014:
+* [API for iOS & OS X Auto Layout — simple, powerful. Objective-C and Swift compatible.](https://github.com/smileyborg/PureLayout)
+
+# Saturday: October 18th 2014:
+* [Inter-Process Communication](http://nshipster.com/inter-process-communication/)
+
+# Friday: October 17th 2014:
+* [Yosemite (10.10) API Diffs](https://developer.apple.com/library/mac/documentation/General/Reference/APIDiffsMacOSX10_10SeedDiff/index.html#//apple_ref/doc/uid/TP40014444)
+* [IBAction + Category = (L)](http://codeplease.io/ibaction-category-l/)
+* [iOS 8 Demo: Asynchronous Testing With Xcode 6](http://www.bignerdranch.com/blog/ios-8-demo-asynchronous-testing-with-xcode-6/)
+
 # Thursday: October 16th 2014:
 * [AsyncDisplayKit is an iOS framework that keeps even the most complex user interfaces smooth and responsive.](http://asyncdisplaykit.org/)
 * [Scott Goodson - Behind AsyncDisplayKit](http://vimeo.com/103589245)
