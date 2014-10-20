@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: October 20th 2014:
+* [Apple on Hamburger Menus on iOS](http://blog.manbolo.com/2014/06/30/apple-on-hamburger-menus)
+
 # Sunday: October 19th 2014:
 * [API for iOS & OS X Auto Layout — simple, powerful. Objective-C and Swift compatible.](https://github.com/smileyborg/PureLayout)
 
