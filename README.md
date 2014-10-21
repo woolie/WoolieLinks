@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: October 21st 2014:
+* [Solution for keeping any UIView visible when the keyboard is being shown](git@github.com:IdleHandsApps/IHKeyboardAvoiding.git)
+
 # Monday: October 20th 2014:
 * [Apple on Hamburger Menus on iOS](http://blog.manbolo.com/2014/06/30/apple-on-hamburger-menus)
 
