@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: October 22nd 2014:
+* [OS X 10.10 Release Notes Cocoa Foundation Framework](https://developer.apple.com/library/mac/releasenotes/Foundation/RN-Foundation/index.html)
+* [OS X 10.10 Yosemite Release Notes Cocoa Application Framework](https://developer.apple.com/library/mac/releasenotes/AppKit/RN-AppKit/)
+* [OS X v10.9 to OS X v10.10 API Differences](https://developer.apple.com/library/mac/documentation/General/Reference/APIDiffsMacOSX10_10SeedDiff/index.html)
+* [App Extension Programming Guide](https://developer.apple.com/library/mac/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214)
+
 # Tuesday: October 21st 2014:
 * [Solution for keeping any UIView visible when the keyboard is being shown](git@github.com:IdleHandsApps/IHKeyboardAvoiding.git)
 
