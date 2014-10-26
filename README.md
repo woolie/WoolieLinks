@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+* Saturday: October: 25th 2014:
+* [iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor](https://github.com/fabiocaccamo/FCUUID)
+* [XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C](https://github.com/xmartlabs/XLForm)
+
 # Wednesday: October 22nd 2014:
 * [OS X 10.10 Release Notes Cocoa Foundation Framework](https://developer.apple.com/library/mac/releasenotes/Foundation/RN-Foundation/index.html)
 * [OS X 10.10 Yosemite Release Notes Cocoa Application Framework](https://developer.apple.com/library/mac/releasenotes/AppKit/RN-AppKit/)
