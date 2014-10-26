@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-* Saturday: October: 25th 2014:
+# Sunday: October 26th 2014:
+* [A framework for displaying notifications similar to Apple's iOS 7 and iOS 8 notifications](https://github.com/LeoNatan/LNNotificationsUI)
+
+* Saturday: October 25th 2014:
 * [iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor](https://github.com/fabiocaccamo/FCUUID)
 * [XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C](https://github.com/xmartlabs/XLForm)
 
