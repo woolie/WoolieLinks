@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: October 28th 2014:
+* [Xcode 6, Server 4 & Developer ID Signed Builds](http://swwritings.com/post/2014-10-27-xcode6server6developeridsignedbuilds)
+* [The Objective-C blocks utilities you always wish you had](https://github.com/zwaldowski/BlocksKit)
+* [Autosizing Collection View Cells](http://www.shinobicontrols.com/blog/posts/2014/10/28/ios8-day-by-day-day-37-autosizing-collection-view-cells)
+* [Memory alignment issues on ARM](http://www.galloway.me.uk/2010/10/arm-hacking-exc_arm_da_align-exception/)
+
 # Sunday: October 26th 2014:
 * [A framework for displaying notifications similar to Apple's iOS 7 and iOS 8 notifications](https://github.com/LeoNatan/LNNotificationsUI)
 
@@ -1007,7 +1013,6 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [iOS Ship Checklist](http://daveaddey.com/?p=1273)
 
 ## Thursday: September 19th 2013
-* [Blocks everywhere](https://github.com/pandamonia/BlocksKit)
 * [Appledocs redux](http://gentlebytes.com/appledoc/)
 * [iOS7 Part 2](http://www.teehanlax.com/blog/introduction-to-uimotioneffect/?utm_source=TLtwitter&utm_medium=social&utm_campaign=iOS7&utm_terms=iOS7)
 
