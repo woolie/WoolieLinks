@@ -2,6 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: November 1st 2014:
+* [SPDY for iOS and OS X](https://github.com/twitter/CocoaSPDY)
+
+# Friday: October 31st 2014:
+* [Codeless drop-in library prevents issues of keyboard sliding up and covering UITextField](https://github.com/hackiftekhar/IQKeyboardManager)
+
+# Thursday: October 30th 2014:
+* [A Siri like voice visualization view using EZAudio. Modified from SISinusWaveView for iOS](https://github.com/zhxnlai/ZLSinusWaveView)
+* [Using GCD and Blocks Effectively](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
+
+# Wednesday: October 29th 2014:
+* [Embedding UITableView in a UIPageViewController](http://mikeabdullah.net/thl-diary-9-paged-tableview.html)
+
 # Tuesday: October 28th 2014:
 * [Xcode 6, Server 4 & Developer ID Signed Builds](http://swwritings.com/post/2014-10-27-xcode6server6developeridsignedbuilds)
 * [The Objective-C blocks utilities you always wish you had](https://github.com/zwaldowski/BlocksKit)
