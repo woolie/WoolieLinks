@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: November 2nd 2014:
+* [Continuous Integration With Xcode Server](http://useyourloaf.com/blog/2014/11/02/continuous-integration-with-xcode-server.html)
+* [Vector images in the Asset Catalogue](http://invisiblepixels.org/InvisibleWords/2014/11/02/vector-images-in-the-asset-catalogue/)
+* [Realm is a mobile database: a replacement for Core Data & SQLite](https://github.com/realm/realm-cocoa)
+* [A Mailbox style grid menu with a blurred background](https://github.com/carsonperrotti/CNPGridMenu)
+* [iOS 7/8 style side menu with parallax effect](https://github.com/romaonthego/RESideMenu)
+* [Elegant Line Graphs for iOS (charting library)](https://github.com/Boris-Em/BEMSimpleLineGraph)
+* [Objective-C Runtime Browser, for Mac OS X and iOS](https://github.com/nst/RuntimeBrowser)
+
 # Saturday: November 1st 2014:
 * [SPDY for iOS and OS X](https://github.com/twitter/CocoaSPDY)
 
