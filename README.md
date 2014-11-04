@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: November 4th 2014:
+* [NSHipster's take on UISplitViewController](http://nshipster.com/uisplitviewcontroller/)
+* [Simple, modern, thread-safe key-value observing for iOS and OS X](https://github.com/facebook/KVOController)
+
 # Sunday: November 2nd 2014:
 * [Continuous Integration With Xcode Server](http://useyourloaf.com/blog/2014/11/02/continuous-integration-with-xcode-server.html)
 * [Vector images in the Asset Catalogue](http://invisiblepixels.org/InvisibleWords/2014/11/02/vector-images-in-the-asset-catalogue/)
@@ -10,6 +14,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [iOS 7/8 style side menu with parallax effect](https://github.com/romaonthego/RESideMenu)
 * [Elegant Line Graphs for iOS (charting library)](https://github.com/Boris-Em/BEMSimpleLineGraph)
 * [Objective-C Runtime Browser, for Mac OS X and iOS](https://github.com/nst/RuntimeBrowser)
+* [CocoaLumberjack: Logging on Steroids](http://code.tutsplus.com/tutorials/cocoalumberjack-logging-on-steroids--mobile-15287)
 
 # Saturday: November 1st 2014:
 * [SPDY for iOS and OS X](https://github.com/twitter/CocoaSPDY)
