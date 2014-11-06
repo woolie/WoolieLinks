@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: November 6th 2014:
+* [A Keychain helper for iOS, includes TouchID support](https://github.com/auth0/SimpleKeychain)
+* [The Hit List Diary #12 – UISearchController](http://mikeabdullah.net/thl-diary-12-uisearchcontroller.html)
+
 # Tuesday: November 4th 2014:
 * [NSHipster's take on UISplitViewController](http://nshipster.com/uisplitviewcontroller/)
 * [Simple, modern, thread-safe key-value observing for iOS and OS X](https://github.com/facebook/KVOController)
