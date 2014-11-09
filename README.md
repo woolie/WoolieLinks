@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: November 9th 2014:
+* [Let's Build NSZombie](https://mikeash.com/pyblog/friday-qa-2014-11-07-lets-build-nszombie.html)
+* [Backwards compatible UIAlertController for iOS 7 & 8](https://github.com/steipete/PSTAlertController)
+* [Open-source audio synthesis, processing, & analysis platform](https://github.com/audiokit/AudioKit)
+* [First Go at Using IB_DESIGNABLE and IBInspectable](http://inessential.com/2014/11/08/first_go_at_using_ib_designable_and_ibin)
+
 # Thursday: November 6th 2014:
 * [A Keychain helper for iOS, includes TouchID support](https://github.com/auth0/SimpleKeychain)
 * [The Hit List Diary #12 – UISearchController](http://mikeabdullah.net/thl-diary-12-uisearchcontroller.html)
