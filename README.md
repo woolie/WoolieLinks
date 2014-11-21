@@ -2,6 +2,21 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: November 20th 2014:
+* [Adaptive Design: Just Getting It](http://dreaminginbinary.co/Blog/Development/GettingAdaptiveDesign.html)
+* [A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions](https://github.com/ColinEberhardt/VCTransitionsLibrary)
+* [A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
+* [A framerate meter that clicks like a Geiger counter when your animation drops a frame](https://github.com/kconner/KMCGeigerCounter)
+
+# Tuesday: November 11th 2014:
+* [Overlay view synchronized with playback controls for MPMoviePlayerController](https://github.com/0xced/MPMoviePlayerController-XCDOverlayView)
+* [Core Location and iOS8](http://nshipster.com/core-location-in-ios-8/)
+* [Android Tutorial for Beginners: Part 1](http://www.raywenderlich.com/78574/android-tutorial-for-beginners-part-1)
+* [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
+
+# Monday: November 10th 2014:
+* [Table separator insets](http://mikeabdullah.net/thl-diary-13-table-separators.html)
+
 # Sunday: November 9th 2014:
 * [Let's Build NSZombie](https://mikeash.com/pyblog/friday-qa-2014-11-07-lets-build-nszombie.html)
 * [Backwards compatible UIAlertController for iOS 7 & 8](https://github.com/steipete/PSTAlertController)
