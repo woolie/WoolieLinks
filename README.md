@@ -2,6 +2,24 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: December 1st 2014:
+* [Hopper + lldb for iOS Developers: A Gentle Introduction](http://www.bartcone.com/new-blog/2014/11/26/hopper-lldb-for-ios-developers-a-gentle-introduction)
+* [Anivia is Walmart's mobile analytics platform](https://gist.github.com/jasonpincin/ef67d04c70840e02f52b)
+
+# Sunday: November 30th 2014:
+* [Dump decrypted mach-o files from encrypted iPhone applications from memory to disk](https://github.com/stefanesser/dumpdecrypted)
+
+# Tuesday: November 25th 2014:
+* [Lightweight Plain-Text Editor for OS X](https://github.com/coteditor/CotEditor)
+* [View Debugging in Xcode 6](http://code.tutsplus.com/tutorials/view-debugging-in-xcode-6--cms-22530)
+
+# Monday: November 24th 2014:
+* [Syntax Highlighting](http://mikeabdullah.net/thl-diary-18-syntax-highlighting.html)
+
+# Sunday: November 23rd 2014:
+* [The waterfall (i.e., Pinterest-like) layout for UICollectionView](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
+* [A customizable calendar view for iOS.](https://github.com/jonathantribouharet/JTCalendar)
+
 # Thursday: November 20th 2014:
 * [Adaptive Design: Just Getting It](http://dreaminginbinary.co/Blog/Development/GettingAdaptiveDesign.html)
 * [A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions](https://github.com/ColinEberhardt/VCTransitionsLibrary)
