@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: December 4th 2014:
+* [The Case for Slow Programming](http://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/)
+* [An NSSplitView subclass that animates and works with Auto Layout](https://github.com/mdiep/MDPSplitView)
+
 # Monday: December 1st 2014:
 * [Hopper + lldb for iOS Developers: A Gentle Introduction](http://www.bartcone.com/new-blog/2014/11/26/hopper-lldb-for-ios-developers-a-gentle-introduction)
 * [Anivia is Walmart's mobile analytics platform](https://gist.github.com/jasonpincin/ef67d04c70840e02f52b)
