@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: December 5th 2014:
+* [Deploy screenshots, app metadata and app updates to the App Store using just one command.](https://github.com/KrauseFx/deliver)
+* [Easy to use and customizable messages/notifications for iOS à la Tweetbot](https://github.com/toursprung/TSMessages)
+
 # Thursday: December 4th 2014:
 * [The Case for Slow Programming](http://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/)
 * [An NSSplitView subclass that animates and works with Auto Layout](https://github.com/mdiep/MDPSplitView)
