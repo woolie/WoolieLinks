@@ -2,10 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: December 8th 2014:
+* [Using the Xcode Console (tips)](http://indiestack.com/2014/12/xcode-consolation/)
+* [Examination of the difference in development between web and native](https://sandofsky.com/blog/you-can-t-go-home-again.html)
+
 # Friday: December 5th 2014:
 * [Deploy screenshots, app metadata and app updates to the App Store using just one command.](https://github.com/KrauseFx/deliver)
 * [Easy to use and customizable messages/notifications for iOS à la Tweetbot](https://github.com/toursprung/TSMessages)
 * [pbxproj file format explanation](http://michele.io/the-project-file-part-1)
+* [A magnifying glass for iOS](https://github.com/acoomans/iOS-MagnifyingGlass)
 
 # Thursday: December 4th 2014:
 * [The Case for Slow Programming](http://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/)
