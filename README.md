@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: December 13th 2014:
+* [Speeding Up Custom Script Phases](http://indiestack.com/2014/12/speeding-up-custom-script-phases/)
+* [Modules and Precompiled Headers](http://useyourloaf.com/blog/2014/12/07/modules-and-precompiled-headers.html)
+* [Objective-C's Designated Secret](http://timekl.com/blog/2014/12/09/objective-cs-designated-secret/)
+* [Message passing between iOS apps and extensions](https://github.com/mutualmobile/MMWormhole)
+
 # Monday: December 8th 2014:
 * [Using the Xcode Console (tips)](http://indiestack.com/2014/12/xcode-consolation/)
 * [Examination of the difference in development between web and native](https://sandofsky.com/blog/you-can-t-go-home-again.html)
