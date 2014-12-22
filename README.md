@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: December 22nd 2014:
+* [Finding dominant colors of an image using k-means clustering](https://github.com/indragiek/DominantColor)
+
 # Friday: December 19th 2014:
 * [Open URL From Today Extension](http://indiestack.com/2014/12/open-url-from-today-extension/)
 
