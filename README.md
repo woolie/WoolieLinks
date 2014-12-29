@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: December 29th 2014:
+* [An Introduction to Lock-Free Programming](http://preshing.com/20120612/an-introduction-to-lock-free-programming/)
+
 # Monday: December 22nd 2014:
 * [Finding dominant colors of an image using k-means clustering](https://github.com/indragiek/DominantColor)
 
