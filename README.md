@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: January 5th 2015:
+* [A few nuggets in the reader submitted tips](http://nshipster.com/new-years-2015/)
+
 # Monday: December 29th 2014:
 * [An Introduction to Lock-Free Programming](http://preshing.com/20120612/an-introduction-to-lock-free-programming/)
 
