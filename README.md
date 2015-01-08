@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: January 8th 2015:
+* [Input and Output: A discussion on state and mutability](http://blog.maybeapps.com/post/42894317939/input-and-output)
+
 # Monday: January 5th 2015:
 * [A few nuggets in the reader submitted tips](http://nshipster.com/new-years-2015/)
 
