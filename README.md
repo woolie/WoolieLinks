@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: January 9th 2015:
+* [Bypassing OpenSSL Certificate Pinning in iOS Apps](http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html)
+* [Finite States of America](http://khanlou.com/2015/01/finite-states-of-america/)
+
 # Wednesday: January 8th 2015:
 * [Input and Output: A discussion on state and mutability](http://blog.maybeapps.com/post/42894317939/input-and-output)
 
