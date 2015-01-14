@@ -2,9 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: January 14th 2015:
+* [(Video) Developing with WatchKit 1.0](http://vimeo.com/116719108)
+
 # Thursday: January 9th 2015:
 * [Bypassing OpenSSL Certificate Pinning in iOS Apps](http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html)
 * [Finite States of America](http://khanlou.com/2015/01/finite-states-of-america/)
+* [UIKit Debug Mode](http://petersteinberger.com/blog/2015/uikit-debug-mode/)
+* [Higher Order Functions: Map, Filter, Reduce and more – Part 1](https://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more/)
+* [Collaboration app for UI designers & developers](https://zeplin.io/)
 
 # Wednesday: January 8th 2015:
 * [Input and Output: A discussion on state and mutability](http://blog.maybeapps.com/post/42894317939/input-and-output)
