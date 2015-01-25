@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: January 24th 2015:
+* [MPW, Carbon and building Classic Mac OS apps in OS X](http://blog.steventroughtonsmith.com/post/109040361205/mpw-carbon-and-building-classic-mac-os-apps-in-os)
+* [Objective C foundation tool command line interface library](https://github.com/tomaz/GBCli)
+
 # Wednesday: January 14th 2015:
 * [(Video) Developing with WatchKit 1.0](http://vimeo.com/116719108)
 
