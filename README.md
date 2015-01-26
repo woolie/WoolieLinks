@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Sunday: January 25th 2015:
 * [A discussion of Bindings and KVO](http://blog.metaobject.com/2014/03/the-siren-call-of-kvo-and-cocoa-bindings.html)
 * [A Deep dive on iOS7 vs iOS8 bug](https://gist.github.com/steipete/8df39fea0d39680a7a6b)
+* [Stanford iOS 8 Development course, now using Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+* [A practical introduction to functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
 # Saturday: January 24th 2015:
 * [MPW, Carbon and building Classic Mac OS apps in OS X](http://blog.steventroughtonsmith.com/post/109040361205/mpw-carbon-and-building-classic-mac-os-apps-in-os)
