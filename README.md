@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: January 29th 2015:
+* [Custom view for NSStatusItem. Supports customizable statusItemWindow handling any viewController](https://github.com/phranck/CCNStatusItem)
+
 # Sunday: January 25th 2015:
 * [A discussion of Bindings and KVO](http://blog.metaobject.com/2014/03/the-siren-call-of-kvo-and-cocoa-bindings.html)
 * [A Deep dive on iOS7 vs iOS8 bug](https://gist.github.com/steipete/8df39fea0d39680a7a6b)
