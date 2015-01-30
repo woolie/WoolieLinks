@@ -7,6 +7,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [How To Use The 3 Instruments You Should Be Using](http://www.xmcgraw.com/how-to-use-the-3-instruments-you-should-be-using/)
 * [A Software Engineer’s Adventures In Learning Mathematics](https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c)
 * [Faster Photos in Facebook for iOS (PJPEG)](https://code.facebook.com/posts/857662304298232/faster-photos-in-facebook-for-ios/)
+* [UIBezierPath exploration](http://blog.getlooseleaf.com/post/109315792079/the-making-of-loose-leafs-killer-feature)
+* [Sequences and Generators (Swift)](http://austinzheng.com/2015/01/24/swift-seq/)
 
 # Thursday: January 29th 2015:
 * [Custom view for NSStatusItem. Supports customizable statusItemWindow handling any viewController](https://github.com/phranck/CCNStatusItem)
