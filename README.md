@@ -2,6 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: February 8th 2015:
+* [A Performance Enhancement for Variable-Height NSTableViews](http://inessential.com/2015/02/05/a_performance_enhancement_for_variable-h)
+* [Unit Testing Precision](http://indiestack.com/2015/02/unit-testing-precision/)
+* [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
+
+# Wednesday: February 4th 2015:
+* [IBInspectable / IBDesignable](http://nshipster.com/ibinspectable-ibdesignable/)
+
 # Friday: January 30th 2015:
 * [Animated side menu with customizable UI](https://github.com/Yalantis/Side-Menu.iOS)
 * [How To Use The 3 Instruments You Should Be Using](http://www.xmcgraw.com/how-to-use-the-3-instruments-you-should-be-using/)
