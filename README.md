@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: February 9th 2015:
+* [DTrace script to watch CFPrefs action (NSUserDefaults)](https://gist.github.com/anonymous/ab911c8d6cf218819d3b)
+* [An iOS and OSX audio visualization framework built upon Core Audio](https://github.com/syedhali/EZAudio)
+
 # Sunday: February 8th 2015:
 * [A Performance Enhancement for Variable-Height NSTableViews](http://inessential.com/2015/02/05/a_performance_enhancement_for_variable-h)
 * [Unit Testing Precision](http://indiestack.com/2015/02/unit-testing-precision/)
