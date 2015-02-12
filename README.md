@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: February 12th 2015:
+* [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
+
 # Wednesday: February 11th 2015:
 * [OSX Reverse Engineering Resources](http://samdmarshall.com/re.html)
 * [Managing Pull Requests For GitHub and GitHub Enterprise Servers](https://github.com/ptsochantaris/trailer)
