@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: February 15th 2015:
+* [Useful custom LLDB commands](https://github.com/liyanage/lldb_utilities)
+
 # Thursday: February 12th 2015:
 * [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 
