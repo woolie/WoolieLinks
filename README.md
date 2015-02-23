@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: February 22nd 2015:
+* [UINavigationBar Category which allows you to change its background dynamically](https://github.com/ltebean/LTNavigationBar)
+* [Clone of car view layout in City Guide App](https://github.com/terminatorover/RGCardViewLayout)
+
 # Sunday: February 15th 2015:
 * [Useful custom LLDB commands](https://github.com/liyanage/lldb_utilities)
 
