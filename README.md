@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: February 23rd 2015:
+* [Macro to ensure a method of an abstract base class *must* be overriden by subclasses.](https://github.com/nicklockwood/MustOverride)
+
 # Sunday: February 22nd 2015:
 * [UINavigationBar Category which allows you to change its background dynamically](https://github.com/ltebean/LTNavigationBar)
 * [Clone of car view layout in City Guide App](https://github.com/terminatorover/RGCardViewLayout)
