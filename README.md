@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: February 26th 2015:
+* [Graphical event management framework for OS X](https://github.com/gservera/ScheduleKit)
+* [iOS 8 App Extension Development Tips](http://www.atomicbird.com/blog/ios-app-extension-tips)
+
 # Monday: February 23rd 2015:
 * [Macro to ensure a method of an abstract base class *must* be overriden by subclasses.](https://github.com/nicklockwood/MustOverride)
 
