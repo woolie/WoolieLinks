@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Replacement for UILabel that supports attributes, data detectors, links, & more](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * [THGDispatch module, includes GCD bits such as Queues, Groups, Timer, Semaphore, etc](https://github.com/TheHolyGrail/KillerRabbit)
 * [M7 Pedometer](http://www.cocoanetics.com/2014/03/m7-pedometer/)
+* [An elegant library for stubbing HTTP requests with ease in Swift](https://github.com/kylef/Mockingjay)
 
 # Wednesday: February 26th 2015:
 * [Graphical event management framework for OS X](https://github.com/gservera/ScheduleKit)
