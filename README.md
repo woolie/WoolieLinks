@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: March 3rd 2015:
+* [Primer on Digital Signal Procesing](http://jackschaedler.github.io/circles-sines-signals/index.html)
+* [Android for iOS Developers](http://stripysock.com.au/blog/2015/2/28/android-for-ios-developers)
+* [Functional Programming for Everyone Else](https://emily.st/2015/02/26/functional-programming-for-everyone-else/)
+* [Ditching Core Data](https://medium.com/the-way-north/ditching-core-data-865c1bb5564c)
+* [FLEX 2.0](https://github.com/Flipboard/FLEX/releases/tag/2.0.0)
+
 # Sunday: March 1st 2015:
 * [Conservative vs Liberal Coding](https://plus.google.com/110981030061712822816/posts/KaSKeg4vQtz)
 * [Replacement for UILabel that supports attributes, data detectors, links, & more](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
