@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 5th 2015:
+* [Swift Collection Protocols](http://nshipster.com/swift-collection-protocols/)
+* [NSPredicate Cheatsheet](http://realm.io/news/nspredicate-cheatsheet/)
+* [Obj-C and Swift, not Obj-C vs. Swift](http://www.colincornaby.me/2015/03/obj-c-and-swift-not-obj-c-vs-swift/)
+
 # Tuesday: March 3rd 2015:
 * [Primer on Digital Signal Procesing](http://jackschaedler.github.io/circles-sines-signals/index.html)
 * [Android for iOS Developers](http://stripysock.com.au/blog/2015/2/28/android-for-ios-developers)
