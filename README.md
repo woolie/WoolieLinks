@@ -2,6 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 12th 2015:
+* [An elegant messages UI library for iOS](https://github.com/jessesquires/JSQMessagesViewController)
+* [RFC: Nullability qualifiers](http://article.gmane.org/gmane.comp.compilers.clang.devel/41568)
+
+# Saturday: March 7th 2015:
+* [Avoiding Complex View Controllers](http://stablekernel.com/blog/avoiding-complex-view-controller/)
+* [Quick 1.0: Better Tests for All](http://modocache.svbtle.com/better-tests-for-all)
+
 # Thursday: March 5th 2015:
 * [Swift Collection Protocols](http://nshipster.com/swift-collection-protocols/)
 * [NSPredicate Cheatsheet](http://realm.io/news/nspredicate-cheatsheet/)
