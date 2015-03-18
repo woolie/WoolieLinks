@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: March 17th 2015:
+* [How to Easily Switch Your App Delegate for Testing](http://qualitycoding.org/app-delegate-for-tests)
+* [Reactive Swift](https://medium.com/swift-programming/reactive-swift-3b6050375534)
+* [Blocking Code Injection on iOS and OS X](http://www.samdmarshall.com/blog/blocking_code_injection_on_ios_and_os_x.html)
+* [Swift changes between 1.2b2 and 1.2b3](http://airspeedvelocity.net/2015/03/13/changes-to-the-swift-standard-library-in-1-2-betas-2-and-3/)
+* [NSScanner](http://nshipster.com/nsscanner/)
+
 # Thursday: March 12th 2015:
 * [An elegant messages UI library for iOS](https://github.com/jessesquires/JSQMessagesViewController)
 * [RFC: Nullability qualifiers](http://article.gmane.org/gmane.comp.compilers.clang.devel/41568)
