@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 19th 2015:
+* ["Alfred like functionality for Xcode" plugin](git@github.com:pdcgomes/XCActionBar.git)
+* [Collection of Swift videos](http://www.thedotpost.com)
+
 # Tuesday: March 17th 2015:
 * [How to Easily Switch Your App Delegate for Testing](http://qualitycoding.org/app-delegate-for-tests)
 * [Reactive Swift](https://medium.com/swift-programming/reactive-swift-3b6050375534)
