@@ -2,8 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 22th 2015:
+* [Swift Planet Issue 8](http://swiftpla.net)
+* [Part 1: Why Immutability and Pass-by-Value?](http://dscoder.com/DerivingMap/derivingmap.html)
+* [Part 2: Why Immutability and Pass-by-Value?](http://dscoder.com/DerivingMap/onward.html)
+* [Swift: Raw{Not}Representable enum](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
+
 # Thursday: March 19th 2015:
-* ["Alfred like functionality for Xcode" plugin](git@github.com:pdcgomes/XCActionBar.git)
+* ["Alfred like functionality for Xcode" plugin](https://github.com/pdcgomes/XCActionBar)
 * [Collection of Swift videos](http://www.thedotpost.com)
 
 # Tuesday: March 17th 2015:
