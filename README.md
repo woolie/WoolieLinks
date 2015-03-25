@@ -2,7 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Thursday: March 22th 2015:
+# Wednesday: March 25th 2015:
+* [GCov viewer (modernization effort)](https://github.com/tonyarnold/CoverStory/tree/modernize)
+
+# Tuesday: March 24th 2015:
+* [Swift in Production: Scenery.app](http://chris.eidhof.nl/posts/scenery-launch.html)
+* [Xcode plugin for creating beautiful CAMediaTimingFunction curve](https://github.com/keefo/CATweaker)
+* [Swift: Foundational bits, extensions, etc. This contains more generic functionality](https://github.com/TheHolyGrail/Excalibur)
+
+# Thursday: March 22nd 2015:
 * [Swift Planet Issue 8](http://swiftpla.net)
 * [Part 1: Why Immutability and Pass-by-Value?](http://dscoder.com/DerivingMap/derivingmap.html)
 * [Part 2: Why Immutability and Pass-by-Value?](http://dscoder.com/DerivingMap/onward.html)
