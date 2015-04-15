@@ -2,6 +2,24 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: April 14th 2015:
+* [Researching ResearchKit](http://petersteinberger.com/blog/2015/researching-researchkit/)
+
+# Wednesday: April 1st 2015:
+* [IBInspectable / IBDesignable](http://nshipster.com/ibinspectable-ibdesignable/)
+* [Swift and the curious case of AnyObject](http://blog.scottlogic.com/2014/09/24/swift-anyobject.html)
+
+# Tuesday: March 31st 2015:
+* [Dates and times made easy in Objective-C](https://github.com/MatthewYork/DateTools)
+
+# Friday: March 27th 2015:
+* [A React-Inspired View Framework for iOS](http://componentkit.org)
+
+# Thursday: March 26th 2015:
+* [CFNetwork Diagnostic Logging](https://developer.apple.com/library/ios/qa/qa1887/_index.html)
+* [Lightweight multi-platform, multi-architecture disassembly framework](http://capstone-engine.org/index.html)
+* [Scripting in Swift](https://speakerdeck.com/ayanonagon/swift-scripting)
+
 # Wednesday: March 25th 2015:
 * [GCov viewer (modernization effort)](https://github.com/tonyarnold/CoverStory/tree/modernize)
 
