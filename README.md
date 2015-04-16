@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: April 16th 2015:
+* [A React-Inspired View Framework for iOS](http://componentkit.org/?utm_source=SwiftCast.TV+Weekly+Highlights)
+
 # Tuesday: April 14th 2015:
 * [Researching ResearchKit](http://petersteinberger.com/blog/2015/researching-researchkit/)
 
