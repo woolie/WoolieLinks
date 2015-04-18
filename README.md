@@ -2,6 +2,18 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: April 18th 2015:
+* [Hardcover takes coverage reports, stores them on server & comments on pull requests](https://github.com/xing/hardcover)
+* [Build Automation Tools](https://fastlane.tools)
+* [Protocols and Generics in Swift](http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2/)
+* [Introduction to Custom View Controller Transitions and Animations](http://www.appcoda.com/custom-view-controller-transitions-tutorial/)
+* [Printing Objective-C Invocations in LLDB](http://arigrant.com/blog/2014/2/18/chisels-print-invocation-command)
+* [UIWindow subclass for detecting when Control Center is opened](https://github.com/aaronabentheuer/AAWindow)
+* [Custom Label to apply animations on whole text or letters](https://github.com/Yalantis/Preloader.Ophiuchus)
+* [A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier](https://github.com/Instagram/IGInterfaceDataTable)
+* [Follow These Guidelines and Never Struggle with Xcode Code Signing Again](http://blog.jaredsinclair.com/post/116436789850/follow-these-guidelines-and-never-struggle-with)
+* [Guillotine Menu. Transitioning Animation implemented in Swift](https://github.com/Yalantis/GuillotineMenu)
+
 # Thursday: April 16th 2015:
 * [A React-Inspired View Framework for iOS](http://componentkit.org/?utm_source=SwiftCast.TV+Weekly+Highlights)
 
