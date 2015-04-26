@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Saturday: April 25th 2015:
 * [Fun with Scrollviews](http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews/)
+* [Dependency Injection](http://code.tutsplus.com/articles/design-patterns-dependency-injection--cms-23809)
 
 # Saturday: April 18th 2015:
 * [Hardcover takes coverage reports, stores them on server & comments on pull requests](https://github.com/xing/hardcover)
