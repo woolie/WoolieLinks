@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: April 29th 2015:
+* [Swift: finite state machine micro framework](http://macoscope.com/blog/swifty-state-machine/)
+
 # Saturday: April 25th 2015:
 * [Fun with Scrollviews](http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews/)
 * [Dependency Injection](http://code.tutsplus.com/articles/design-patterns-dependency-injection--cms-23809)
