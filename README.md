@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 1st 2015:
+* [Jared’s Code Signing Tips: Apple Watch Edition](http://blog.jaredsinclair.com/post/117350678170/jareds-code-signing-tips-apple-watch-edition)
+
 # Thursday: April 30th 2015:
 * [Submitting Your WatchKit App](http://www.fiveminutewatchkit.com/blog/2015/4/2/submitting-your-watchkit-app)
 * [The Power Of Abstraction](http://www.infoq.com/presentations/programming-abstraction-liskov)
