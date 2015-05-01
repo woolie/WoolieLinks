@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Thursday: April 30th 2015:
 * [Submitting Your WatchKit App](http://www.fiveminutewatchkit.com/blog/2015/4/2/submitting-your-watchkit-app)
+* [The Power Of Abstraction](http://www.infoq.com/presentations/programming-abstraction-liskov)
 
 # Wednesday: April 29th 2015:
 * [Swift: finite state machine micro framework](http://macoscope.com/blog/swifty-state-machine/)
