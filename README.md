@@ -2,9 +2,14 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 3rd 2015:
+* [Template auto layout cell for automatically UITableViewCell height calculating](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+* [WatchKit Development Tips](http://blog.mikeswanson.com/post/117807821714/watchkit-development-tips)
+* [Continuous Integration & Deployment for iOS Projects](https://medium.com/ribot-labs/continuous-integration-deployment-for-ios-projects-7358b72ca2e9)
+* [Why the implementation of ARC's objc_autoreleaseReturnValue differs for x86_64 and ARM?](http://stackoverflow.com/questions/23764271/why-the-implementation-of-arcs-objc-autoreleasereturnvalue-differs-for-x86-64-a/)
+
 # Friday: May 1st 2015:
 * [Jared’s Code Signing Tips: Apple Watch Edition](http://blog.jaredsinclair.com/post/117350678170/jareds-code-signing-tips-apple-watch-edition)
-* [WatchKit Development Tips](http://blog.mikeswanson.com/post/117807821714/watchkit-development-tips)
 
 # Thursday: April 30th 2015:
 * [Submitting Your WatchKit App](http://www.fiveminutewatchkit.com/blog/2015/4/2/submitting-your-watchkit-app)
