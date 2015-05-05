@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: May 4th 2015:
+* [GitHub Pull Requests with Xcode Bots](https://github.com/czechboy0/Buildasaur)
+* [In-App Debugging Tool with Touch Replaying/Recording, App State Screenshots & More](https://github.com/Legoless/Alpha)
+
 # Sunday: May 3rd 2015:
 * [Template auto layout cell for automatically UITableViewCell height calculating](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 * [WatchKit Development Tips](http://blog.mikeswanson.com/post/117807821714/watchkit-development-tips)
