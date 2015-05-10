@@ -2,6 +2,18 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 10th 2015:
+* [Nullability and Objective-C](https://developer.apple.com/swift/blog/?id=25)
+* [Constraints & Transformations](http://revealapp.com/blog/constraints-and-transforms.html)
+
+# Friday: May 8th 2015:
+* [Demystifying Retain Cycles in ARC](http://sam.dods.co/blog/2015/05/02/stencil-xcode-plugin/)
+* [A UIView that uses Flexbox for layouting](https://github.com/robb/FLXView)
+* [Stencil Xcode Plugin](http://sam.dods.co/blog/2015/05/02/stencil-xcode-plugin/)
+* [Inspect return value of methods with breakpoints & debugger](http://iosdevtips.co/post/118205216313/xcode-breakpoint-method-return-value)
+* [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/)
+* [Hacking UIView animation blocks for fun and profit](https://gist.github.com/nicklockwood/d374033b27c62662ac8d)
+
 # Monday: May 4th 2015:
 * [GitHub Pull Requests with Xcode Bots](https://github.com/czechboy0/Buildasaur)
 * [In-App Debugging Tool with Touch Replaying/Recording, App State Screenshots & More](https://github.com/Legoless/Alpha)
