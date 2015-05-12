@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: May 12th 2015:
+* [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/)
+
 # Sunday: May 10th 2015:
 * [Nullability and Objective-C](https://developer.apple.com/swift/blog/?id=25)
 * [Constraints & Transformations](http://revealapp.com/blog/constraints-and-transforms.html)
