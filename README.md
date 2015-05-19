@@ -4,6 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Tuesday: May 19th 2015:
 * [View Debugging in Xcode 6](http://www.raywenderlich.com/98356/view-debugging-in-xcode-6)
+* [Reveal Tutorial: Live View Debugging](http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging)
+* [OS X Tutorial: Menus and Popovers in Menu Bar Apps](http://www.raywenderlich.com/98178/os-x-tutorial-menus-popovers-menu-bar-apps)
 
 # Monday: May 18th 2015:
 * [How Not to Crash #1: KVO and Manual Bindings](http://inessential.com/2015/05/14/how_not_to_crash_1_kvo_and_manual_bind)
