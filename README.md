@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: May 18th 2015:
+* [How Not to Crash #1: KVO and Manual Bindings](http://inessential.com/2015/05/14/how_not_to_crash_1_kvo_and_manual_bind)
+* [How Not to Crash #2: Mutation Exceptions](http://inessential.com/2015/05/16/how_not_to_crash_2_mutation_exceptions)
+
 # Tuesday: May 12th 2015:
 * [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/)
 
