@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: May 20th 2015:
+* [Automatic keyboard manager (see interesting state chart of KB interactions)](https://github.com/hackiftekhar/IQKeyboardManager)
+* [Remote control your iOS app using Nu (lisp-on-objc)](https://github.com/nevyn/NuRemoting)
+* [An adorable little framework and command line tool for interacting with SourceKit.](https://github.com/jpsim/SourceKitten)
+* [Optionals and "if-let"](http://owensd.io/2015/05/12/optionals-if-let.html)
+* [PaintCode Tutorial for Developers: Getting Started](http://www.raywenderlich.com/92972/paintcode-tutorial-for-developers-getting-started )
+
 # Tuesday: May 19th 2015:
 * [View Debugging in Xcode 6](http://www.raywenderlich.com/98356/view-debugging-in-xcode-6)
 * [Reveal Tutorial: Live View Debugging](http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging)
