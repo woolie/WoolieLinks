@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: May 23rd 2015:
+* [How Not to Crash #3: NSNotification](http://inessential.com/2015/05/21/how_not_to_crash_3_nsnotification)
+* [How Not to Crash #4: Threading](http://inessential.com/2015/05/22/how_not_to_crash_4_threading)
+* [Watch OS 1.0.1 Controller Life Cycle Changes](http://blog.mikeswanson.com/post/119399948909/watch-os-1-0-1-controller-life-cycle-changes)
+* [A Periscope-inspired way to ask for iOS permissions](https://github.com/nickoneill/PermissionScope)
+
 # Wednesday: May 20th 2015:
 * [Automatic keyboard manager (see interesting state chart of KB interactions)](https://github.com/hackiftekhar/IQKeyboardManager)
 * [Remote control your iOS app using Nu (lisp-on-objc)](https://github.com/nevyn/NuRemoting)
