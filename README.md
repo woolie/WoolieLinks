@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 24th 2015:
+* [XPC simplified for Cocoa. Deal with NS* objects instead of xpc_object_t](https://github.com/stevestreza/XPCKit)
+
 # Saturday: May 23rd 2015:
 * [How Not to Crash #3: NSNotification](http://inessential.com/2015/05/21/how_not_to_crash_3_nsnotification)
 * [How Not to Crash #4: Threading](http://inessential.com/2015/05/22/how_not_to_crash_4_threading)
