@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: May 27th 2015:
 * [How Not to Crash #5: Threading, part 2](http://inessential.com/2015/05/26/how_not_to_crash_5_threading_part_2)
+* [How Not to Crash #6: Properties and Accessors](http://inessential.com/2015/05/27/how_not_to_crash_6_properties_and_acce)
 
 # Monday: May 25th 2015:
 * [Why We Went With Realm](http://cjwirth.com/2015/05/13/why-realm/)
