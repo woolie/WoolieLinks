@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: May 29th 2015:
+* [The Unofficial Guide to xcconfig files](http://pewpewthespells.com/blog/xcconfig_guide.html)
+
 # Wednesday: May 27th 2015:
 * [How Not to Crash #5: Threading, part 2](http://inessential.com/2015/05/26/how_not_to_crash_5_threading_part_2)
 * [How Not to Crash #6: Properties and Accessors](http://inessential.com/2015/05/27/how_not_to_crash_6_properties_and_acce)
