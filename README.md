@@ -2,6 +2,19 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: June 9th 2015:
+* [Changes to the Swift Standard Library in 2.0 beta 1](http://airspeedvelocity.net/2015/06/09/changes-to-the-swift-standard-library-in-2-0-beta-1/)
+* [What's new in Swift 2](http://www.hackingwithswift.com/swift2)
+* [IB_DESIGNABLE Custom Views in Interface Builder](http://useyourloaf.com/blog/2015/06/08/ib-designable-custom-views-in-interface-builder.html)
+* [Why understanding monads is important](https://gist.github.com/carlfish/6b9761670a131f821ad5)
+* [Build Stability](https://corner.squareup.com/2015/06/build-stability.html)
+* [Why you should start using @weakify and @strongify macros](http://holko.pl/2015/05/31/weakify-strongify/)
+* [WebDAVNav Server is a basic WebDAV server which can be used to quickly share files and folders from your Mac with other computers](https://itunes.apple.com/us/app/webdavnav-server/id747482894?mt=12?)
+
+# Sunday: June 6th 2015:
+* [27 iOS open source libraries to skyrocket your development](https://medium.com/ios-os-x-development/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c)
+* [Concurrent Memory Deallocation in the Objective-C Runtime](https://www.mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)
+
 # Sunday: May 31st 2015:
 * [Testing view controllers with Quick and Nimble](https://medium.com/@MarcioK/how-you-can-test-view-controllers-with-quick-nimble-328f895b55ee)
 * [Woolie's Xcode configuration files and templates](https://github.com/woolie/configurations)
