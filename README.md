@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: June 10th 2015:
+* [Xcode 7 + Swift 2 resources](http://ericasadun.com/2015/06/10/xcode-7-swift-2-resources/)
+* [How Not to Crash #8: Infrastructure](http://inessential.com/2015/06/10/how_not_to_crash_8_infrastructure)
+
 # Tuesday: June 9th 2015:
 * [Changes to the Swift Standard Library in 2.0 beta 1](http://airspeedvelocity.net/2015/06/09/changes-to-the-swift-standard-library-in-2-0-beta-1/)
 * [What's new in Swift 2](http://www.hackingwithswift.com/swift2)
