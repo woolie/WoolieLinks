@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: June 15th 2015:
+* [iOS framework adding night mode to your app](https://github.com/Draveness/DKNightVersion)
+
+# Saturday: June 13th 2015:
+* [Facebook code checker](http://fbinfer.com/)
+* [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/)
+
 # Wednesday: June 10th 2015:
 * [Xcode 7 + Swift 2 resources](http://ericasadun.com/2015/06/10/xcode-7-swift-2-resources/)
 * [How Not to Crash #8: Infrastructure](http://inessential.com/2015/06/10/how_not_to_crash_8_infrastructure)
