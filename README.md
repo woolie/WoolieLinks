@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: June 16th 2015:
+* [Universal Framework xcconfigs - build iOS, OS X and watchOS frameworks on base of one target](https://github.com/mrackwitz/xcconfigs)
+
 # Monday: June 15th 2015:
 * [iOS framework adding night mode to your app](https://github.com/Draveness/DKNightVersion)
 
