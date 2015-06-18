@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thrusday: June 18th 2015:
+* [Swift: Throw What Don't Throw](http://robnapier.net/throw-what-dont-throw)
+* [Black Pixel on Swift 2](https://medium.com/bpxl-craft/swift-2-8ff1422f6284)
+* [Exploration of SDK Bundles](http://pewpewthespells.com/blog/sparse_sdks.html)
+* [Introducing Swift Education](http://swifteducation.github.io)
+
 # Tuesday: June 16th 2015:
 * [Universal Framework xcconfigs - build iOS, OS X and watchOS frameworks on base of one target](https://github.com/mrackwitz/xcconfigs)
 
