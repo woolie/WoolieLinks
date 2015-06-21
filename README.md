@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: June 20th 2015:
+* [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [The Ghost of Swift Bugs Future](http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future)
+* [Swift 2 error handling in practice](http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice)
+* [View for building card like interface](https://github.com/zhxnlai/ZLSwipeableViewSwift)
+
+# Friday: June 19th 2015:
+* [The Best of What's New in Swift](https://mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
+
 # Thrusday: June 18th 2015:
 * [Swift: Throw What Don't Throw](http://robnapier.net/throw-what-dont-throw)
 * [Black Pixel on Swift 2](https://medium.com/bpxl-craft/swift-2-8ff1422f6284)
