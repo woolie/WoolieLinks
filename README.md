@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: June 24th 2015:
+* [App Transport Security Technote](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/index.html#//apple_ref/doc/uid/TP40016240-CH1-SW3)
+
 # Saturday: June 20th 2015:
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
 * [The Ghost of Swift Bugs Future](http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future)
