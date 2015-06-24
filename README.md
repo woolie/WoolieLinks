@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: June 24th 2015:
 * [App Transport Security Technote](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/index.html#//apple_ref/doc/uid/TP40016240-CH1-SW3)
+* [A repository of Swift related information](https://github.com/steveriggins/tailored_swift)
 
 # Saturday: June 20th 2015:
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
