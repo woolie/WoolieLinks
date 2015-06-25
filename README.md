@@ -5,6 +5,10 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Wednesday: June 24th 2015:
 * [App Transport Security Technote](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/index.html#//apple_ref/doc/uid/TP40016240-CH1-SW3)
 * [A repository of Swift related information](https://github.com/steveriggins/tailored_swift)
+* [An iOS/OSX bridge for sending messages between Obj-C and JavaScript](https://github.com/marcuswestin/WebViewJavascriptBridge)
+* [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
+* [BFKit is a collection of useful classes to develop Apps faster](https://github.com/FabrizioBrancati/BFKit)
+* [NSHipster on iOS 9](http://nshipster.com/ios9/)
 
 # Saturday: June 20th 2015:
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
