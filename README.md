@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Sunday: June 27th 2015:
+# Sunday: June 28th 2015:
+* [Network Testing in Swift with DVR](http://blog.soff.es/network-testing-in-swift-with-dvr/)
+
+# Saturday: June 27th 2015:
 * [All you would want to know about your Storyboards](https://github.com/Adorkable/StoryboardKit)
 
 # Wednesday: June 24th 2015:
