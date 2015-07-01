@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: June 30th 2015:
+* [THGDispatch module, includes GCD bits such as Queues, Groups, Timer, Semaphore](https://github.com/TheHolyGrail/KillerRabbit)
+* [XCTest Reference](http://joemasilotti.github.io/XCTest-Documentation/)
+
 # Sunday: June 28th 2015:
 * [Network Testing in Swift with DVR](http://blog.soff.es/network-testing-in-swift-with-dvr/)
 
