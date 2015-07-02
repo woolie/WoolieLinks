@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: July 2nd 2015:
+* [Scripting in Swift](http://krakendev.io/scripting-in-swift/)
+* [X-ray of a real application](http://www.thinkandbuild.it/x-ray-of-a-real-application/)
+* [Merge & Diff Arrays in Swift](https://gist.github.com/praeclarum/642212b54d87f4b7aa9c)
+* [A cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+* [Valet lets you securely store data in the iOS or OS X Keychain](https://github.com/square/Valet)
+* [Debugging Exceptions in Xcode](http://mjtsai.com/blog/2015/06/30/debugging-exceptions-in-xcode/)
+* [NSHipster on CloudKit](http://nshipster.com/cloudkit/)
+
 # Tuesday: June 30th 2015:
 * [THGDispatch module, includes GCD bits such as Queues, Groups, Timer, Semaphore](https://github.com/TheHolyGrail/KillerRabbit)
 * [XCTest Reference](http://joemasilotti.github.io/XCTest-Documentation/)
