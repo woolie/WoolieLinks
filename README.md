@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: July 3rd 2015:
+* [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
+* [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
+* [GaugeKit](https://github.com/skywinder/GaugeKit)
+* [More on Identification within Mac Storyboards](http://mikeabdullah.net/mac-storyboards-2.html)
+
 # Thursday: July 2nd 2015:
 * [Scripting in Swift](http://krakendev.io/scripting-in-swift/)
 * [X-ray of a real application](http://www.thinkandbuild.it/x-ray-of-a-real-application/)
