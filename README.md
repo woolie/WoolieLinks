@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: July 4th 2015:
+* [Tutorial: iOS Reverse Engineering Part II: class-dump & Hopper](http://enharmonichq.com/tutorial-ios-reverse-engineering-class-dump-hopper-dissasembler/)
+
 # Friday: July 3rd 2015:
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 * [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
