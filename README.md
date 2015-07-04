@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
 * [GaugeKit](https://github.com/skywinder/GaugeKit)
 * [More on Identification within Mac Storyboards](http://mikeabdullah.net/mac-storyboards-2.html)
+* [Tutorial: iOS Reverse Engineering Part I: LLDB](http://enharmonichq.com/tutorial-ios-reverse-engineering-lldb/)
 
 # Thursday: July 2nd 2015:
 * [Scripting in Swift](http://krakendev.io/scripting-in-swift/)
