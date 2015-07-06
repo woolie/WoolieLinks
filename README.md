@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: July 5th 2015:
+* [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
+
 # Saturday: July 4th 2015:
 * [Tutorial: iOS Reverse Engineering Part II: class-dump & Hopper](http://enharmonichq.com/tutorial-ios-reverse-engineering-class-dump-hopper-dissasembler/)
 
