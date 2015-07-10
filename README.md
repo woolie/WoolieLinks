@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: July 9th 2015:
+* [Create beautiful and engaging onboarding experiences with few lines of code](https://github.com/mamaral/Onboard)
+* [init? vs init throws](http://owensd.io/2015/07/07/failable-init-vs-throws.html)
+* [Similarly different: join(), reduce() and flatMap() in Swift 2](http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html)
+* [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
+* [Swift objects Reflection](https://github.com/kostiakoval/Mirror)
+
 # Sunday: July 5th 2015:
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 
