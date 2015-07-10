@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: July 10th 2015
+* [Swift 2 + Xcode 7: Unit Testing Access Made Easy](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
+
 # Thursday: July 9th 2015:
 * [Create beautiful and engaging onboarding experiences with few lines of code](https://github.com/mamaral/Onboard)
 * [init? vs init throws](http://owensd.io/2015/07/07/failable-init-vs-throws.html)
