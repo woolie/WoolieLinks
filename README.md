@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: July 12th 2015:
+* [Static: Static Table View Library for Swift](http://blog.soff.es/static)
+
 # Friday: July 10th 2015
 * [Swift 2 + Xcode 7: Unit Testing Access Made Easy](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
 
