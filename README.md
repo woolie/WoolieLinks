@@ -7,6 +7,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [How iOS ViewControllers communicate with each other](http://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
 * [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 * [Things I learnt about the Photos framework](http://commandshift.co.uk/blog/2015/07/14/things-i-learnt-about-the-photos-framework/)
+* [Using the Address Sanitizer](http://useyourloaf.com/blog/2015/07/13/using-the-address-sanitizer.html)
+* [System Integrity Protection (a.k.a. Rootless)](http://mjtsai.com/blog/2015/07/12/system-integrity-protection-a-k-a-rootless/)
 
 # Sunday: July 12th 2015:
 * [Static: Static Table View Library for Swift](http://blog.soff.es/static)
