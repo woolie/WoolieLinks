@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: July 17th 2015:
+* [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
+* [How iOS ViewControllers communicate with each other](http://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
+* [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+* [Things I learnt about the Photos framework](http://commandshift.co.uk/blog/2015/07/14/things-i-learnt-about-the-photos-framework/)
+
 # Sunday: July 12th 2015:
 * [Static: Static Table View Library for Swift](http://blog.soff.es/static)
 
