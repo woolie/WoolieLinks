@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: July 19th 2015:
+* [The Journey of Apple Pay at JUST EAT](http://albertodebortoli.github.io/blog/2015/07/14/the-journey-of-apple-pay-at-just-eat/)
+
 # Friday: July 17th 2015:
 * [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
 * [How iOS ViewControllers communicate with each other](http://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
