@@ -8,6 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [UICollectionViews Now Have Easy Reordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/)
 * [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/)
 * [If you're subclassing, you're doing it wrong](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+* [15 Ways to Optimise Product Screens in Native Retail Apps](http://www.uxchap.com/blog/9/7/2015/15-ways-to-optimise-product-screens-in-native-retail-apps)
 
 # Friday: July 17th 2015:
 * [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
