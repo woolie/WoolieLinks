@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Sunday: July 19th 2015:
 * [The Journey of Apple Pay at JUST EAT](http://albertodebortoli.github.io/blog/2015/07/14/the-journey-of-apple-pay-at-just-eat/)
 * [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis)
+* [UICollectionViews Now Have Easy Reordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/)
 
 # Friday: July 17th 2015:
 * [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
