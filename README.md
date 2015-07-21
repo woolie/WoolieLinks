@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: July 20th 2015:
+* [Refactoring With Storyboard References](http://useyourloaf.com/blog/2015/07/20/refactoring-with-storyboard-references.html)
+
 # Sunday: July 19th 2015:
 * [The Journey of Apple Pay at JUST EAT](http://albertodebortoli.github.io/blog/2015/07/14/the-journey-of-apple-pay-at-just-eat/)
 * [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis)
@@ -9,6 +12,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/)
 * [If you're subclassing, you're doing it wrong](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
 * [15 Ways to Optimise Product Screens in Native Retail Apps](http://www.uxchap.com/blog/9/7/2015/15-ways-to-optimise-product-screens-in-native-retail-apps)
+* [Why you need design](https://medium.com/@monteiro/why-you-need-design-77dce41e0e0c)
 
 # Friday: July 17th 2015:
 * [Adapting Stack Views With Size Classes](http://useyourloaf.com/blog/2015/07/06/adapting-stack-views-with-size-classes.html)
