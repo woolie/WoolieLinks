@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: July 24th 2015:
+* [Swift: The right way to write a singleton](http://krakendev.io/blog/the-right-way-to-write-a-singleton)
+
 # Monday: July 20th 2015:
 * [Refactoring With Storyboard References](http://useyourloaf.com/blog/2015/07/20/refactoring-with-storyboard-references.html)
 
