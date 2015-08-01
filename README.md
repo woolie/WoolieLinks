@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: August 1st 2015:
+* [Tagged Pointer Strings](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html)
+* [UIPresentationController popover detection](http://petersteinberger.com/blog/2015/uipresentationcontroller-popover-detection/)
+* [Lightweight iOS framework adding night mode/theme to your iOS app](https://github.com/Draveness/DKNightVersion)
+
 # Friday: July 24th 2015:
 * [Swift: The right way to write a singleton](http://krakendev.io/blog/the-right-way-to-write-a-singleton)
 
