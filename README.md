@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: August 7th 2015:
+* [UIViewController’s view loading process demystified](http://szulctomasz.com/ios-uiviewcontrollers-view-loading-process-demystified/)
+
+# Thursday: August 6th 2015:
+* [Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html)
+* [A Little Respect for AnySequence](http://robnapier.net/erasure)
+* [Improving Notification Center](http://macoscope.com/blog/improving-notification-center)
+* [A Size Class Reference Guide](http://useyourloaf.com/blog/2015/08/03/size-classes.html)
+
 # Friday: August 1st 2015:
 * [Tagged Pointer Strings](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html)
 * [UIPresentationController popover detection](http://petersteinberger.com/blog/2015/uipresentationcontroller-popover-detection/)
