@@ -2,6 +2,23 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: August 17th 2015:
+* [Autolayout Breakpoints](http://nshint.io/blog/2015/08/17/autolayout-breakpoints/)
+
+# Saturday: August 15th 2015:
+* [Practical introduction to functional programming - now with Swift](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/)
+* [How on Earth the Facebook iOS Application is so large](http://quellish.tumblr.com/post/126712999812/how-on-earth-the-facebook-ios-application-is-so)
+* [Implementing Sticky Input Field in iOS](https://medium.com/ios-os-x-development/a-stickler-for-details-implementing-sticky-input-fields-in-ios-f88553d36dab)
+* [Simple, fast, colorful, flexible and customizable NSLog replacement](https://github.com/codeFi/XcodeLogger)
+* [Simplifying RESTful API Use & Data Persistence on iOS with Mantle + Realm](https://realm.io/news/tutorial-mantle-realm/)
+
+# Saturday: August 8th 2015:
+* [The Unbugged Sessions Part 1](http://artsy.github.io/blog/2015/07/30/Notorious-BUG-Part-1/)
+* [Xcode Server Tutorials: 1. Getting Started](http://honzadvorsky.com/articles/2015-08-04-xcs_tutorials_1_getting_started/)
+* [Xcode Server Tutorials: 2. Integrations](http://honzadvorsky.com/articles/2015-08-06-xcs_tutorials_2_integrations/)
+* [LLVM For Grad Students](http://adriansampson.net/blog/llvm.html)
+* [Arrays, Linked Lists and Performance](http://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance/)
+
 # Friday: August 7th 2015:
 * [UIViewController’s view loading process demystified](http://szulctomasz.com/ios-uiviewcontrollers-view-loading-process-demystified/)
 
