@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: August 21st 2015:
 * [Audio toolkit for audio synthesis, processing and analysis (with Docs)](http://audiokit.io/features/)
+* [Swift Pattern Matching in Detail](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
 
 # Monday: August 17th 2015:
 * [Autolayout Breakpoints](http://nshint.io/blog/2015/08/17/autolayout-breakpoints/)
