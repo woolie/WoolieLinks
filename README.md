@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: August 29th 2015:
+* [Shipping an App With App Transport Security](http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-security/)
+* [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
+* [Swift 2: Beta 6](http://www.russbishop.net/swift-2-beta-6)
+
 # Friday: August 21st 2015:
 * [Audio toolkit for audio synthesis, processing and analysis (with Docs)](http://audiokit.io/features/)
 * [Swift Pattern Matching in Detail](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
