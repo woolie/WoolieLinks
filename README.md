@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: September 13th 2015:
+* [Swift and C functions](http://chris.eidhof.nl/posts/swift-c-interop.html)
+* [Top Tips for iOS 9 Development](https://realm.io/news/tips-for-ios-9-development/)
+* [Querying URL Schemes With canOpenURL](http://useyourloaf.com/blog/querying-url-schemes-with-canopenurl.html)
+* [Aspect-Oriented Programming and ARAnalytics](http://artsy.github.io/blog/2014/08/04/aspect-oriented-programming-and-aranalytics/)
+* [Aspect-oriented programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+* [Auto Layout 101](https://www.weheartswift.com/auto-layout-101/)
+* [tvOS SDK: An iOS Developer’s Initial Impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
+
 # Saturday: August 29th 2015:
 * [Shipping an App With App Transport Security](http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-security/)
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
