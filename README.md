@@ -2,11 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: September 22nd 2015:
+* [Class for logging excessive blocking of the main thread](https://github.com/wojteklukaszuk/Watchdog)
+
 # Monday: September 14th 2015:
 * [How to Use updateConstraints](http://oleb.net/blog/2015/08/how-to-use-updateconstraints/)
 * [Reactive Swift: upgrading to ReactiveCocoa 3.0](https://alltheflow.com/reactive-swift-upgrading-to-reactivecocoa-3-0/)
 * [Higher Order Functions: Map, Filter, Reduce and more – Part 1](https://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more/)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
+* [Switching Your Brain to Swift](http://gregheo.com/blog/switching-your-brain-to-swift/)
 
 # Sunday: September 13th 2015:
 * [Swift and C functions](http://chris.eidhof.nl/posts/swift-c-interop.html)
