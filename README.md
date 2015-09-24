@@ -3,6 +3,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Tuesday: September 22nd 2015:
+* [Mastering the tvOS Focus Engine](http://nerds.airbnb.com/tvos-focus-engine/)
 * [Class for logging excessive blocking of the main thread](https://github.com/wojteklukaszuk/Watchdog)
 
 # Monday: September 14th 2015:
