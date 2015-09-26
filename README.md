@@ -2,7 +2,17 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: September 26th 2015:
+* [Documentation generator for Swift](https://github.com/realm/jazzy)
+
+# Thursday: September 24th 2015:
+* [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
+
 # Tuesday: September 22nd 2015:
+* [Code examples for new iOS 9 features](https://github.com/shu223/iOS-9-Sampler)
+* [An Illustrated History of objc_msgSend](http://sealiesoftware.com/msg/)
+* [App Design on Yosemite](http://www.git-tower.com/blog/tower2-yosemite-design/)
+* [UI Testing Cheat Sheet and Examples](http://masilotti.com/ui-testing-cheat-sheet/)
 * [Mastering the tvOS Focus Engine](http://nerds.airbnb.com/tvos-focus-engine/)
 * [Class for logging excessive blocking of the main thread](https://github.com/wojteklukaszuk/Watchdog)
 
