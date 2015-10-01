@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Wednesday: September 30th 2015:
 * [Using the UIViewController previewing APIs (Apple Sample Code)](https://developer.apple.com/library/ios/samplecode/ViewControllerPreviews/Introduction/Intro.html)
 * [A library to simplify iOS animations in Swift](https://github.com/MengTo/Spring)
+* [Universal Links](https://littlebitesofcocoa.com/91)
+* [Using Size Classes to Hide Stack View Contents](http://useyourloaf.com/blog/using-size-classes-to-hide-stack-view-contents.html)
 
 # Saturday: September 26th 2015:
 * [Documentation generator for Swift](https://github.com/realm/jazzy)
