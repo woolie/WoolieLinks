@@ -3,7 +3,8 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: September 30th 2015:
-* [](https://developer.apple.com/library/ios/samplecode/ViewControllerPreviews/Introduction/Intro.html)
+* [Using the UIViewController previewing APIs (Apple Sample Code)](https://developer.apple.com/library/ios/samplecode/ViewControllerPreviews/Introduction/Intro.html)
+* [A library to simplify iOS animations in Swift](https://github.com/MengTo/Spring)
 
 # Saturday: September 26th 2015:
 * [Documentation generator for Swift](https://github.com/realm/jazzy)
