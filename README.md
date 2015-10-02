@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: October 2nd 2015:
+* [Clean and clear iOS MIDI including Wi-Fi](https://github.com/Air-Craft/MIDIFish)
+
 # Wednesday: September 30th 2015:
 * [Using the UIViewController previewing APIs (Apple Sample Code)](https://developer.apple.com/library/ios/samplecode/ViewControllerPreviews/Introduction/Intro.html)
 * [A library to simplify iOS animations in Swift](https://github.com/MengTo/Spring)
