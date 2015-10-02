@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: October 2nd 2015:
 * [Clean and clear iOS MIDI including Wi-Fi](https://github.com/Air-Craft/MIDIFish)
 * [What the heck is a monad?](http://khanlou.com/2015/09/what-the-heck-is-a-monad/)
+* [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+* [Generate Xcode image catalogs app icons, universal images](https://github.com/jondot/blade)
 
 # Wednesday: September 30th 2015:
 * [Using the UIViewController previewing APIs (Apple Sample Code)](https://developer.apple.com/library/ios/samplecode/ViewControllerPreviews/Introduction/Intro.html)
