@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: October 3rd 2015:
+* [Adaptive Layout Tutorial in iOS 9](http://www.raywenderlich.com/113768/adaptive-layout-tutorial-in-ios-9-getting-started)
+
 # Friday: October 2nd 2015:
 * [Clean and clear iOS MIDI including Wi-Fi](https://github.com/Air-Craft/MIDIFish)
 * [What the heck is a monad?](http://khanlou.com/2015/09/what-the-heck-is-a-monad/)
