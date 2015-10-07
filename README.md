@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Notions of Equality in Swift](http://austinzheng.com/2015/10/04/swift-equatable/)
 * [guard & defer](http://nshipster.com/guard-and-defer/)
 * [A different approach to UITableView delegate methods: a cool use of Swift’s enums](http://www.47deg.com/blog/swift-enum-oriented-dev-table-views)
+* [Swift 2.1](http://www.russbishop.net/swift-2-1)
 
 # Saturday: October 3rd 2015:
 * [Adaptive Layout Tutorial in iOS 9](http://www.raywenderlich.com/113768/adaptive-layout-tutorial-in-ios-9-getting-started)
