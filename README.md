@@ -9,6 +9,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [How to stay up to date on iOS development](http://www.thomashanning.com/how-to-stay-up-to-date-on-ios-development/)
 * [Adding 3D Touch Quick Actions](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
 * [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
+* [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
 
 # Wednesday: October 7th 2015:
 * [Using ccache for Fun and Profit](https://pspdfkit.com/blog/2015/ccache-for-fun-and-profit/)
