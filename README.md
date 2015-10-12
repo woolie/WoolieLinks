@@ -5,6 +5,9 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Monday: October 12th 2015:
 * [Working with CFunction pointers in Swift](http://nshint.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift/)
 * [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
+* [Inspecting Auto Layout with the Cocoa Layout Instrument](https://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument/)
+* [How to stay up to date on iOS development](http://www.thomashanning.com/how-to-stay-up-to-date-on-ios-development/)
+* [Adding 3D Touch Quick Actions](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
 
 # Wednesday: October 7th 2015:
 * [Using ccache for Fun and Profit](https://pspdfkit.com/blog/2015/ccache-for-fun-and-profit/)
