@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: October 12th 2015:
+* [Working with CFunction pointers in Swift](http://nshint.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift/)
+* [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
+
 # Wednesday: October 7th 2015:
 * [Using ccache for Fun and Profit](https://pspdfkit.com/blog/2015/ccache-for-fun-and-profit/)
 * [Notions of Equality in Swift](http://austinzheng.com/2015/10/04/swift-equatable/)
