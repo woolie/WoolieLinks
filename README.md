@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: October 14th 2015:
+* [Why San Francisco Font](http://martiancraft.com/blog/2015/10/why-san-francisco/)
+
 # Monday: October 12th 2015:
 * [Working with CFunction pointers in Swift](http://nshint.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift/)
 * [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
