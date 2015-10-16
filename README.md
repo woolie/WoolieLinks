@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Thursday: October 15th 2015:
 * [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion)
 * [Agile Is The New Waterfall](https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d)
+* [NSData, My Old Friend](http://robnapier.net/nsdata)
 
 # Wednesday: October 14th 2015:
 * [Why San Francisco Font?](http://martiancraft.com/blog/2015/10/why-san-francisco/)
