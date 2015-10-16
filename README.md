@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: October 16th 2015:
+* [](https://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios/)
+
 # Thursday: October 15th 2015:
 * [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion)
 * [Agile Is The New Waterfall](https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d)
@@ -9,7 +12,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Exploring Apple’s 3D Touch](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5)
 * [Push/Pop modal SFSafariViewController (Hacking swipe from edge gesture)](http://www.stringcode.co.uk/push-pop-modal-sfsafariviewcontroller-hacking-swipe-from-edge-gesture/)
 * [*-Oriented Programming](http://www.sicpers.info/2015/10/oriented-programming/)
-* [Objects as closures - Abstract semantics of object oriented languages]()
+* [Objects as closures - Abstract semantics of object oriented languages](http://www.researchgate.net/profile/Uday_Reddy5/publication/23577646_Objects_as_closures_-_Abstract_semantics_of_object_oriented_languages/links/02bfe51314af883e13000000.pdf)
 
 # Wednesday: October 14th 2015:
 * [Why San Francisco Font?](http://martiancraft.com/blog/2015/10/why-san-francisco/)
