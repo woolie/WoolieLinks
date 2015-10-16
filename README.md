@@ -9,6 +9,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Exploring Apple’s 3D Touch](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5)
 * [Push/Pop modal SFSafariViewController (Hacking swipe from edge gesture)](http://www.stringcode.co.uk/push-pop-modal-sfsafariviewcontroller-hacking-swipe-from-edge-gesture/)
 * [*-Oriented Programming](http://www.sicpers.info/2015/10/oriented-programming/)
+* [Objects as closures - Abstract semantics of object oriented languages]()
 
 # Wednesday: October 14th 2015:
 * [Why San Francisco Font?](http://martiancraft.com/blog/2015/10/why-san-francisco/)
