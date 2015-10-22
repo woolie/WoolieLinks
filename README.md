@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Thursday: October 22nd 2015:
 * [Simultaneous editing for Xcode, inspired by Sublime Text](https://github.com/kolinkrewinkel/Multiplex)
+* [Bezier curves and stuff](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246?mt=10)
 
 # Friday: October 16th 2015:
 * [Preparing to Test Receipt Validation for iOS](https://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios/)
