@@ -2,8 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: October 22nd 2015:
+* [Simultaneous editing for Xcode, inspired by Sublime Text](https://github.com/kolinkrewinkel/Multiplex)
+
 # Friday: October 16th 2015:
-* [](https://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios/)
+* [Preparing to Test Receipt Validation for iOS](https://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios/)
 
 # Thursday: October 15th 2015:
 * [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion)
