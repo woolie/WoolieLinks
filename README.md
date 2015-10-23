@@ -6,6 +6,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Advanced & Practical Enum usage in Swift](http://appventure.me/2015/10/17/advanced-practical-enum-examples/)
 * [Optional?](http://swift.ayaka.me/posts/2015/10/5/optional)
 * [Better Unit Testing with Swift](http://masilotti.com/better-swift-unit-testing/)
+* [Apple TV: A World Without Webviews](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.r0xr3iybw)
+* [iOS Continuous Integration: Uploading your Pipeline](http://danthorpe.me/posts/uploading-build-pipelines.html)
 
 # Thursday: October 22nd 2015:
 * [Simultaneous editing for Xcode, inspired by Sublime Text](https://github.com/kolinkrewinkel/Multiplex)
