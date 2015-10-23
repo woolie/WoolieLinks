@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: October 23rd 2015:
 * [Advanced & Practical Enum usage in Swift](http://appventure.me/2015/10/17/advanced-practical-enum-examples/)
 * [Optional?](http://swift.ayaka.me/posts/2015/10/5/optional)
+* [Better Unit Testing with Swift](http://masilotti.com/better-swift-unit-testing/)
 
 # Thursday: October 22nd 2015:
 * [Simultaneous editing for Xcode, inspired by Sublime Text](https://github.com/kolinkrewinkel/Multiplex)
