@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: October 23rd 2015:
+* [Advanced & Practical Enum usage in Swift](http://appventure.me/2015/10/17/advanced-practical-enum-examples/)
+
 # Thursday: October 22nd 2015:
 * [Simultaneous editing for Xcode, inspired by Sublime Text](https://github.com/kolinkrewinkel/Multiplex)
 * [Bezier curves and stuff](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246?mt=10)
