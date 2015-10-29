@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: October 28th 2015:
+* [The Debate Over Direct Access](http://inessential.com/2015/10/28/the_debate_over_direct_access)
+
+# Tuesday: October 27th 2015:
+* [Favorite Explanations (Of Things That Made My Head Hurt)](http://swift.ayaka.me/posts/2015/10/27/favorite-explanations)
+
 # Friday: October 23rd 2015:
 * [Advanced & Practical Enum usage in Swift](http://appventure.me/2015/10/17/advanced-practical-enum-examples/)
 * [Optional?](http://swift.ayaka.me/posts/2015/10/5/optional)
