@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: November 1st 2015:
+* [Functional Programming in a Stateful World](https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883)
+
 # Wednesday: October 28th 2015:
 * [The Debate Over Direct Access](http://inessential.com/2015/10/28/the_debate_over_direct_access)
 
