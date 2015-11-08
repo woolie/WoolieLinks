@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: November 7th 2015:
+* [](https://github.com/dempseyatgithub/BuildSettingExtractor)
+
 # Saturday: November 1st 2015:
 * [Functional Programming in a Stateful World](https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883)
 
