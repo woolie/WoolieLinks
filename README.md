@@ -6,6 +6,9 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Extracts Xcode project build settings into xcconfig files](https://github.com/dempseyatgithub/BuildSettingExtractor)
 * [iOS Functional Testing With User Stories, UI Test and Local Server](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
 * [Generics](http://swift.ayaka.me/posts/2015/10/21/generics)
+* [The Swift Reflection API and what you can do with it](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
+* [The Project File Part 1: Composition](http://michele.io/the-project-file-part-1)
+* [The Project File Part 2: Schemes and Targets](http://michele.io/the-project-file-part-2)
 
 # Saturday: November 1st 2015:
 * [Functional Programming in a Stateful World](https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883)
