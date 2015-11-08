@@ -9,6 +9,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [The Swift Reflection API and what you can do with it](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
 * [The Project File Part 1: Composition](http://michele.io/the-project-file-part-1)
 * [The Project File Part 2: Schemes and Targets](http://michele.io/the-project-file-part-2)
+* [Provides automated test to detect runtime conflicts of constraints](https://cocoapods.org/pods/AutoLayoutLint)
 
 # Saturday: November 1st 2015:
 * [Functional Programming in a Stateful World](https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883)
