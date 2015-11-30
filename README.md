@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Sunday: November 29th 2015:
 * [Why is Swift's String API So Hard?](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)
+* [](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
 
 # Saturday: November 7th 2015:
 * [Extracts Xcode project build settings into xcconfig files](https://github.com/dempseyatgithub/BuildSettingExtractor)
