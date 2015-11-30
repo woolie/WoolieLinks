@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: November 29th 2015:
+* [Why is Swift's String API So Hard?](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)
+
 # Saturday: November 7th 2015:
 * [Extracts Xcode project build settings into xcconfig files](https://github.com/dempseyatgithub/BuildSettingExtractor)
 * [iOS Functional Testing With User Stories, UI Test and Local Server](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
@@ -12,6 +15,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Provides automated test to detect runtime conflicts of constraints](https://cocoapods.org/pods/AutoLayoutLint)
 * [Thinking in Swift, Part 1: Saving ponies](http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1/)
 * [Shoot the Heap](http://www.russbishop.net/shoot-the-heap)
+* [Nullability and Objective-C](https://developer.apple.com/swift/blog/?id=25)
 
 # Saturday: November 1st 2015:
 * [Functional Programming in a Stateful World](https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883)
