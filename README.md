@@ -4,7 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: December 7th 2015:
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
-* [](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
+* [Generic Protocols & their shortcomings](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
+* [Classes and Structs](http://swift.ayaka.me/posts/2015/11/30/classes-and-structs)
 
 # Sunday: November 29th 2015:
 * [Why is Swift's String API So Hard?](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)
