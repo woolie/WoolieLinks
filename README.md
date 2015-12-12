@@ -2,11 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: December 12th 2015:
+* [Implementing Custom Columns Layout in OmniFocus for Mac](https://www.omnigroup.com/developer/implementing-custom-columns-layout-in-omnifocus-for-mac)
+
 # Monday: December 7th 2015:
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 * [Generic Protocols & their shortcomings](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
 * [Classes and Structs](http://swift.ayaka.me/posts/2015/11/30/classes-and-structs)
 * [Debugging Core Animation on OS X](http://jwilling.com/blog/debugging-core-animation-on-osx/)
+* [Why you should understand (a little) about TCP](http://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)
 
 # Sunday: November 29th 2015:
 * [Why is Swift's String API So Hard?](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)
