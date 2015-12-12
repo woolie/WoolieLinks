@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Saturday: December 12th 2015:
 * [Implementing Custom Columns Layout in OmniFocus for Mac](https://www.omnigroup.com/developer/implementing-custom-columns-layout-in-omnifocus-for-mac)
+* [An Objective-C attributed string generation library](https://github.com/Raizlabs/BonMot)
 
 # Monday: December 7th 2015:
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
