@@ -4,7 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
-* [](http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself/)
+* [Swift Type Constrained Extensions Express Yourself](http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself/)
+* [Writing Xcode plugins in Swift](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/)
 
 # Saturday: December 12th 2015:
 * [Implementing Custom Columns Layout in OmniFocus for Mac](https://www.omnigroup.com/developer/implementing-custom-columns-layout-in-omnifocus-for-mac)
