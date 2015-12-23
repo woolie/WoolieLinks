@@ -9,6 +9,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Asynchronicity and the Main Thread: Part 1](http://www.figure.ink/blog/2015/11/15/asynchronicity-and-the-main-thread-part-1)
 * [Asynchronicity and the Main Thread: Part 2](http://www.figure.ink/blog/2015/11/22/asynchrony-and-the-main-thread-part-2)
 * [Presentation Controllers Adaptive Presentations](https://pspdfkit.com/blog/2015/presentation-controllers/)
+* [Xcode plugin to load project specific .lldbinit](https://github.com/alloy/LLDB-Is-It-Not)
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
