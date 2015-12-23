@@ -13,6 +13,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [OS X NSTableView Tutorial](http://www.raywenderlich.com/118835/os-x-nstableview-tutorial)
 * [Test automation for iOS](https://tech.blacklane.com/2015/12/13/test-automation-for-ios/)
 * [When (not) to use guard](http://radex.io/swift/guard/)
+* [A Structy Model Layer](http://khanlou.com/2015/12/a-structy-model-layer/)
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
