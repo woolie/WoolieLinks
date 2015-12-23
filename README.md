@@ -11,6 +11,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Presentation Controllers Adaptive Presentations](https://pspdfkit.com/blog/2015/presentation-controllers/)
 * [Xcode plugin to load project specific .lldbinit](https://github.com/alloy/LLDB-Is-It-Not)
 * [OS X NSTableView Tutorial](http://www.raywenderlich.com/118835/os-x-nstableview-tutorial)
+* [Test automation for iOS](https://tech.blacklane.com/2015/12/13/test-automation-for-ios/)
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
