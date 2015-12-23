@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: December 23rd 2015:
+* [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.60ndqq89t)
+
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
 * [Swift Type Constrained Extensions Express Yourself](http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself/)
