@@ -6,6 +6,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.60ndqq89t)
 * [Introduction to Functional Programming in Swift](http://www.raywenderlich.com/114456/introduction-functional-programming-swift)
 * [Beyond the Grid — Creating Unique, High Performance Interfaces With UICollectionView](https://realm.io/news/altconf-nathan-eror-uicollectionview/)
+* [Asynchronicity and the Main Thread: Part 1](http://www.figure.ink/blog/2015/11/15/asynchronicity-and-the-main-thread-part-1)
+* [Asynchronicity and the Main Thread: Part 2](http://www.figure.ink/blog/2015/11/22/asynchrony-and-the-main-thread-part-2)
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
