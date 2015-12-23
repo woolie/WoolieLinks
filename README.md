@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: December 23rd 2015:
 * [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.60ndqq89t)
+* [Introduction to Functional Programming in Swift](http://www.raywenderlich.com/114456/introduction-functional-programming-swift)
 
 # Wednesday: December 16th 2015:
 * [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
