@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: December 25th 2015:
+* [dyld environment variables](https://developer.apple.com/library/mac/technotes/tn2124/_index.html#//apple_ref/doc/uid/DTS10003391-CH1-SECDYLD)
+
 # Wednesday: December 23rd 2015:
 * [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.60ndqq89t)
 * [Introduction to Functional Programming in Swift](http://www.raywenderlich.com/114456/introduction-functional-programming-swift)
