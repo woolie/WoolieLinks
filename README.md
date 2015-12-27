@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Saturday: December 26th 2015:
 * [A highly visual ARM simulator](http://salmanarif.bitbucket.org/visual/index.html)
+* [Why Spinlocks Are Bad On iOS](http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/)
 
 # Friday: December 25th 2015:
 * [dyld environment variables](https://developer.apple.com/library/mac/technotes/tn2124/_index.html#//apple_ref/doc/uid/DTS10003391-CH1-SECDYLD)
