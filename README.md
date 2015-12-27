@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: December 27th 2015:
+* [Little things that can make Xcode easier](http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-2016/)
+
 # Saturday: December 26th 2015:
 * [A highly visual ARM simulator](http://salmanarif.bitbucket.org/visual/index.html)
 * [Why Spinlocks Are Bad On iOS](http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/)
