@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: January 4th 2016:
 * [Value-type generic Stack in Swift with pointers & COW](http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write/)
+* [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
 
 # Sunday: December 27th 2015:
 * [Little things that can make Xcode easier](http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-2016/)
