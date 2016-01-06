@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: January 6th 2016:
+* [Breakpoints for UIViewController presentation warnings](http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings/)
+
 # Monday: January 4th 2016:
 * [Value-type generic Stack in Swift with pointers & COW](http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write/)
 * [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
