@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: January 8th 2016:
 * [Creating your first iOS Framework](https://robots.thoughtbot.com/creating-your-first-ios-framework)
 * [Exploring Swift Array's Implementation](http://ankit.im/swift/2016/01/08/exploring-swift-array-implementation/)
+* [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 
 # Wednesday: January 6th 2016:
 * [Breakpoints for UIViewController presentation warnings](http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings/)
