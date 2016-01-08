@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: January 8th 2016:
+* [Creating your first iOS Framework](https://robots.thoughtbot.com/creating-your-first-ios-framework)
+
 # Wednesday: January 6th 2016:
 * [Breakpoints for UIViewController presentation warnings](http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings/)
 
