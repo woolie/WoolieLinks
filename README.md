@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: January 9th 2016:
+* [GCD and Parallel Collections in Swift](http://moreindirection.blogspot.it/2015/07/gcd-and-parallel-collections-in-swift.html)
+
 # Friday: January 8th 2016:
 * [Creating your first iOS Framework](https://robots.thoughtbot.com/creating-your-first-ios-framework)
 * [Exploring Swift Array's Implementation](http://ankit.im/swift/2016/01/08/exploring-swift-array-implementation/)
