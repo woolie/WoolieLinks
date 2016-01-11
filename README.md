@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: January 11th 2016:
+* [Collection of Swift playgrounds](https://github.com/uraimo/Swift-Playgrounds)
+
 # Saturday: January 9th 2016:
 * [GCD and Parallel Collections in Swift](http://moreindirection.blogspot.it/2015/07/gcd-and-parallel-collections-in-swift.html)
 
