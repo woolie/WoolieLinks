@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: January 12th 2016:
+* [Using Nullable to Annotate Objective-C Code](http://useyourloaf.com/blog/using-nullable-to-annotate-objective-c.html)
+
 # Monday: January 11th 2016:
 * [Collection of Swift playgrounds](https://github.com/uraimo/Swift-Playgrounds)
 * [Error Handling Rationale and Proposal](https://github.com/apple/swift/blob/master/docs/ErrorHandlingRationale.rst)
