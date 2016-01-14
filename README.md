@@ -8,7 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [LLVM and design decisions, Chris Lattner](http://www.aosabook.org/en/llvm.html)
 * [Programming Language Theory](http://steshaw.org/plt/)
 * [AgileCloudKit: iCloud Sync Gets Its Wings](https://blog.agilebits.com/2016/01/12/agilecloudkit-icloud-sync-gets-its-wings/)
-* [](https://littlebitesofcocoa.com/167-beautiful-parallax-headers-with-mxparallaxheader)
+* [Parallax Headers with MXParallaxHeader](https://littlebitesofcocoa.com/167-beautiful-parallax-headers-with-mxparallaxheader)
 
 # Tuesday: January 12th 2016:
 * [Using Nullable to Annotate Objective-C Code](http://useyourloaf.com/blog/using-nullable-to-annotate-objective-c.html)
