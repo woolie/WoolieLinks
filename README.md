@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: January 22nd 2016:
+* [](http://krakendev.io/blog/hipster-swift)
+
+# Wednesday: January 20th 2016:
+* [Profiling your Swift compilation times](http://irace.me/swift-profiling/)
+
 # Wednesday: January 13th 2016:
 * [Runtime Hacking for Fun and Profit](https://vimeo.com/151482623)
 * [Universal Links, with a Nod to Other Web-Like Advances](https://vimeo.com/151531189)
