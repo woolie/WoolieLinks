@@ -3,7 +3,8 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: January 22nd 2016:
-* [](http://krakendev.io/blog/hipster-swift)
+* [Hipster Swift: Demystifying the Mysterious](http://krakendev.io/blog/hipster-swift)
+* [Undoing Things in Git](http://www.slideshare.net/gittower/undoing-things-in-git)
 
 # Wednesday: January 20th 2016:
 * [Profiling your Swift compilation times](http://irace.me/swift-profiling/)
