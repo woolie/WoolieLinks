@@ -7,7 +7,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift Synth music app and source code](http://matthewfecher.com/app-developement/swift-synth/)
 * [Generics in Swift](https://github.com/apple/swift/blob/master/docs/Generics.rst)
 * [Swift asserts - the missing manual](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
-* [](http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest/)
+* [Testing Delegates in Swift with XCTest](http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest/)
+* [Design 101 for Developers](https://realm.io/news/christopher-downer-design-101-for-developers/)
 
 # Friday: January 22nd 2016:
 * [Hipster Swift: Demystifying the Mysterious](http://krakendev.io/blog/hipster-swift)
