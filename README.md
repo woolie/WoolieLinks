@@ -10,7 +10,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Testing Delegates in Swift with XCTest](http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest/)
 * [Design 101 for Developers](https://realm.io/news/christopher-downer-design-101-for-developers/)
 * [NSURLSession Tutorial: Getting Started](http://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started)
-* [](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
+* [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
 
 # Friday: January 22nd 2016:
 * [Hipster Swift: Demystifying the Mysterious](http://krakendev.io/blog/hipster-swift)
