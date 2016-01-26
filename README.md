@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Tuesday: January 26th 2016:
 * [MIDI Library for Objective-C and Swift OS X and iOS apps](https://github.com/mixedinkey-opensource/MIKMIDI)
+* [](http://matthewfecher.com/app-developement/swift-synth/)
 
 # Friday: January 22nd 2016:
 * [Hipster Swift: Demystifying the Mysterious](http://krakendev.io/blog/hipster-swift)
