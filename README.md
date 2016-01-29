@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Thursday: Jabuary 28th 2016:
+# Friday: January 29th 2016:
+* [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/)
+
+# Thursday: January 28th 2016:
 * [Alternative to appledoc (Objective-C and Swift)](https://github.com/realm/jazzy)
 
 # Tuesday: January 26th 2016:
