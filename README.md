@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: Jabuary 28th 2016:
+* [Alternative to appledoc (Objective-C and Swift)](https://github.com/realm/jazzy)
+
 # Tuesday: January 26th 2016:
 * [MIDI Library for Objective-C and Swift OS X and iOS apps](https://github.com/mixedinkey-opensource/MIKMIDI)
 * [Swift Synth music app and source code](http://matthewfecher.com/app-developement/swift-synth/)
