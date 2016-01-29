@@ -6,7 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/)
 * [A Modern Network Operation](http://www.cimgf.com/2016/01/28/a-modern-network-operation/)
 * [Mac App Store Sandbox Testing](http://indiestack.com/2016/01/mac-app-store-sandbox-testing/)
-* [](https://github.com/fastlane/sigh)
+* [Command line provisioning profile tool](https://github.com/fastlane/sigh)
 
 # Thursday: January 28th 2016:
 * [Alternative to appledoc (Objective-C and Swift)](https://github.com/realm/jazzy)
