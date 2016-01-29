@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Friday: January 29th 2016:
 * [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/)
+* [A Modern Network Operation](http://www.cimgf.com/2016/01/28/a-modern-network-operation/)
 
 # Thursday: January 28th 2016:
 * [Alternative to appledoc (Objective-C and Swift)](https://github.com/realm/jazzy)
