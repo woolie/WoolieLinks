@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Proportional Spacing With Auto Layout](http://useyourloaf.com/blog/proportional-spacing-with-auto-layout.html)
 * [Swift Struct Storage](https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html)
 * [Sparkle updater vulnerability](https://vulnsec.com/2016/osx-apps-vulnerabilities/)
+* [Why developers hate being interrupted](http://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/)
 
 # Friday: January 29th 2016:
 * [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/)
