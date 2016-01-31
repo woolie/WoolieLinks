@@ -8,7 +8,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Swift Struct Storage](https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html)
 * [Sparkle updater vulnerability](https://vulnsec.com/2016/osx-apps-vulnerabilities/)
 * [Why developers hate being interrupted](http://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/)
-* [](https://github.com/truebit/xUnique)
+* [Xcode project file merging](https://github.com/truebit/xUnique)
+* [Image Caching](http://kean.github.io/blog/programming/2016/01/26/image-caching.html)
 
 # Friday: January 29th 2016:
 * [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/)
