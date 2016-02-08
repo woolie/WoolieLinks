@@ -4,7 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: February 8th 2016:
 * [Prevent Unit Tests from Loading AppDelegate in Swift](http://www.mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift/)
-* [Prevent Unit Tests from Loading AppDelegate in Swift]()
+* [How to Easily Switch Your App Delegate for Testing](http://qualitycoding.org/app-delegate-for-tests/)
+* [](http://www.raywenderlich.com/121834/apple-pencil-tutorial)
 
 # Saturday: January 30th 2016:
 * [5 Tips to be More Productive with Dash.app](https://www.git-tower.com/blog/tips-for-dash/)
