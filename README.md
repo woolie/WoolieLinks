@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: February 11th 2016:
+* [Transitioning From Objective C to Swift in 4 Steps – Without Rewriting The Existing Code](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code)
+
 # Monday: February 8th 2016:
 * [Prevent Unit Tests from Loading AppDelegate in Swift](http://www.mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift/)
 * [How to Easily Switch Your App Delegate for Testing](http://qualitycoding.org/app-delegate-for-tests/)
