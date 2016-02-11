@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Thursday: February 11th 2016:
 * [Transitioning From Objective C to Swift in 4 Steps – Without Rewriting The Existing Code](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code)
 * [What every iOS Developer should be doing with Instruments](https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f#.t6jp65mcx)
+* [Fix Issue: Provisioning and Code Signing](https://vimeo.com/154148473)
 
 # Monday: February 8th 2016:
 * [Prevent Unit Tests from Loading AppDelegate in Swift](http://www.mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift/)
