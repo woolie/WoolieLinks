@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Tuesday: February 16th 2016:
 * [Algorithms and data structures in Swift, with explanations!](https://github.com/hollance/swift-algorithm-club/)
+* [A curated list of iOS ecosystem stuff](https://github.com/vsouza/awesome-ios)
 
 # Thursday: February 11th 2016:
 * [Transitioning From Objective C to Swift in 4 Steps – Without Rewriting The Existing Code](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code)
