@@ -6,6 +6,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Algorithms and data structures in Swift, with explanations!](https://github.com/hollance/swift-algorithm-club/)
 * [A curated list of iOS ecosystem stuff](https://github.com/vsouza/awesome-ios)
 * [Source code to Apple SourceKit](https://github.com/apple/swift/tree/master/tools/SourceKit)
+* [Expired Apple WWDR cert discussion](https://www.reddit.com/r/iOSProgramming/comments/45siza/this_certificate_has_an_invalid_issuer/)
+* [Interacting with C Variables & Pointers in Swift](https://littlebitesofcocoa.com/189-interacting-with-c-variables-pointers-in-swift)
 
 # Thursday: February 11th 2016:
 * [Transitioning From Objective C to Swift in 4 Steps – Without Rewriting The Existing Code](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code)
