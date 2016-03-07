@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: MArch 7th 2016:
+* [Date Formatting for Swift and Objective-C](http://nsdateformatter.com)
+
 # Tuesday: February 16th 2016:
 * [Algorithms and data structures in Swift, with explanations!](https://github.com/hollance/swift-algorithm-club/)
 * [A curated list of iOS ecosystem stuff](https://github.com/vsouza/awesome-ios)
