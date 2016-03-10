@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Monday: MArch 7th 2016:
+# Thursday: March 10th 2016:
+* [Xcode-compatible build tool](https://github.com/facebook/xcbuild)
+
+# Monday: March 7th 2016:
 * [Date Formatting for Swift and Objective-C](http://nsdateformatter.com)
 
 # Tuesday: February 16th 2016:
