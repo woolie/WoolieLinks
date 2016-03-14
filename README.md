@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday March 14th 2016:
+* [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html)
+
 # Thursday: March 10th 2016:
 * [Xcode-compatible build tool](https://github.com/facebook/xcbuild)
 * [Zstandard - A stronger compression algorithm](http://fastcompression.blogspot.com/2015/01/zstd-stronger-compression-algorithm.html)
