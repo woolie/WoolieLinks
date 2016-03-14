@@ -6,6 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html)
 * [View controller lifecycle behaviors](http://irace.me/lifecycle-behaviors)
 * [VIPER to be or not to be?](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
+* [Using Xcode and Swift Package Manager Together](http://cjwirth.com/2016/03/07/using-xcode-and-spm-together/)
 
 # Thursday: March 10th 2016:
 * [Xcode-compatible build tool](https://github.com/facebook/xcbuild)
