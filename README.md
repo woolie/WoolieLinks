@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: March 18th 2016:
+* [What's new in Swift 2.2](https://www.hackingwithswift.com/swift2-2)
+
 # Monday March 14th 2016:
 * [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html)
 * [View controller lifecycle behaviors](http://irace.me/lifecycle-behaviors)
