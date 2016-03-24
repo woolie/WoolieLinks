@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [An iOS app reproducing performance issues when loading dynamic library images through dyld](https://github.com/stepanhruda/dyld-image-loading-performance)
 * [Fun and Fast Audio with Swift](https://realm.io/news/slug-aure-prochazka-fun-fast-audio-swift/)
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
+* [KVO for Swift - Value Observing and Events](https://github.com/slazyk/Observable-Swift)
 
 # Friday: March 18th 2016:
 * [What's new in Swift 2.2](https://www.hackingwithswift.com/swift2-2)
