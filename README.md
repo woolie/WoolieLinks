@@ -3,7 +3,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Thursday: March 24th 2016:
-* [](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html)
+* [Errors: unexpected, composite, non-pure, external](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html)
 
 # Wednesday: March 23rd 2016:
 * [Swift asserts - the missing manual](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
