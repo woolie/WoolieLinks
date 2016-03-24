@@ -2,12 +2,16 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: March 24th 2016:
+* [](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html)
+
 # Wednesday: March 23rd 2016:
 * [Swift asserts - the missing manual](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
 * [An iOS app reproducing performance issues when loading dynamic library images through dyld](https://github.com/stepanhruda/dyld-image-loading-performance)
 * [Fun and Fast Audio with Swift](https://realm.io/news/slug-aure-prochazka-fun-fast-audio-swift/)
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
 * [KVO for Swift - Value Observing and Events](https://github.com/slazyk/Observable-Swift)
+* [Bolts is a collection of low-level libraries designed to make developing mobile apps easier](https://github.com/BoltsFramework/Bolts-Swift)
 
 # Friday: March 18th 2016:
 * [What's new in Swift 2.2](https://www.hackingwithswift.com/swift2-2)
