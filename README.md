@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: March 25th 2016:
+* [Surprises with Swift Extensions](https://pspdfkit.com/blog/2016/surprises-with-swift-extensions)
+
 # Thursday: March 24th 2016:
 * [Errors: unexpected, composite, non-pure, external](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html)
 
