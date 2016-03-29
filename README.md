@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: March 29th 2016:
+* [Text System Organization](https://developer.apple.com/library/mac/documentation/TextFonts/Conceptual/CocoaTextArchitecture/TextSystemArchitecture/ArchitectureOverview.html#//apple_ref/doc/uid/TP40009459-CH7-CJBJHGAG)
+* [MathBox - Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/#0)
+* [Linking Objective-C Code](http://pewpewthespells.com/blog/objc_linker_flags.html)
+* [An Introduction to Unicode](http://andybargh.com/unicode/)
+
 # Friday: March 25th 2016:
 * [Surprises with Swift Extensions](https://pspdfkit.com/blog/2016/surprises-with-swift-extensions)
 
