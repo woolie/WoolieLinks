@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: April 2nd 2016:
+* [Designing a Database: Realm Threading Deep Dive](https://realm.io/news/threading-deep-dive/)
+
 # Wednesday: March 30th 2016:
 * [Fun and Fast Audio with Swift](https://realm.io/news/slug-aure-prochazka-fun-fast-audio-swift/)
 * [NSDebugScrolling](http://indiestack.com/2016/03/nsdebugscrolling/)
