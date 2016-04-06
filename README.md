@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: April 6th 2015:
 * [Using Vector Images in Xcode](http://martiancraft.com/blog/2014/09/vector-images-xcode6/)
+* [You're Doing It Wrong #2: Sizing labels with sizeWithFont](http://doing-it-wrong.mikeweller.com/2012/07/youre-doing-it-wrong-2-sizing-labels.html)
 
 # Saturday: April 2nd 2016:
 * [Designing a Database: Realm Threading Deep Dive](https://realm.io/news/threading-deep-dive/)
