@@ -3,7 +3,7 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: April 6th 2015:
-* [Using Cector Images in Xcode](http://martiancraft.com/blog/2014/09/vector-images-xcode6/)
+* [Using Vector Images in Xcode](http://martiancraft.com/blog/2014/09/vector-images-xcode6/)
 
 # Saturday: April 2nd 2016:
 * [Designing a Database: Realm Threading Deep Dive](https://realm.io/news/threading-deep-dive/)
