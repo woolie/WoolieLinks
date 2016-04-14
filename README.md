@@ -2,7 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
-# Wednesday: April 6th 2015:
+# Thursday: April 14th 2016:
+* [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/)
+
+# Wednesday: April 6th 2016:
 * [Using Vector Images in Xcode](http://martiancraft.com/blog/2014/09/vector-images-xcode6/)
 * [You're Doing It Wrong #2: Sizing labels with sizeWithFont](http://doing-it-wrong.mikeweller.com/2012/07/youre-doing-it-wrong-2-sizing-labels.html)
 * [How to Create Custom Project Templates in Xcode 7](http://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7)
