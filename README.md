@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: April 20th 2016:
+* [Readable Content Guides](http://useyourloaf.com/blog/readable-content-guides/)
+* [PaintCode Tutorial for Developers: Custom Progress Bar](https://www.raywenderlich.com/97941/paintcode-swift-tutorial-part-2-custom-progress-bar)
+* [Adding live search to Jazzy docs](https://pspdfkit.com/blog/2016/adding-live-search-to-jazzy/)
+
 # Thursday: April 14th 2016:
 * [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/)
 
