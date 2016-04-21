@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: April 21st 2016:
+* [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
+
 # Wednesday: April 20th 2016:
 * [Readable Content Guides](http://useyourloaf.com/blog/readable-content-guides/)
 * [PaintCode Tutorial for Developers: Custom Progress Bar](https://www.raywenderlich.com/97941/paintcode-swift-tutorial-part-2-custom-progress-bar)
