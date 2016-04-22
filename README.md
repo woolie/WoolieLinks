@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Friday: April 22nd 2016:
+* [Swift Strings](http://andybargh.com/swift-strings)
+
 # Thursday: April 21st 2016:
 * [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
 
