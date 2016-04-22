@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Friday: April 22nd 2016:
 * [Swift Strings](http://andybargh.com/swift-strings)
 * [NSNotifications with userInfo in Swift 2.2](http://dev.iachieved.it/iachievedit/nsnotifications-with-userinfo-in-swift-2-2/)
+* [Beyond Crusty: Real-World Protocols](http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols)
 
 # Thursday: April 21st 2016:
 * [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
