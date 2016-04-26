@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: April 26th 2016:
+* [UIKit on mainThread only guard](https://gist.github.com/steipete/5664345/27e903427a070c0f51e5360249b341bca8aeede5)
+* [AppKit on mainThread only guard](https://gist.github.com/andrewmichaelson/8264280)
+
 # Friday: April 22nd 2016:
 * [Swift Strings](http://andybargh.com/swift-strings)
 * [NSNotifications with userInfo in Swift 2.2](http://dev.iachieved.it/iachievedit/nsnotifications-with-userinfo-in-swift-2-2/)
