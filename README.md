@@ -2,6 +2,22 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: May 5th 2016:
+* [Modular framework, creating and using them](http://nsomar.com/modular-framework-creating-and-using-them/)
+* [Xcode Search: the Hidden Gems](http://holko.pl/2016/04/26/xcode-search/)
+* [Running UI Tests on iOS With Ludicrous Speed](https://pspdfkit.com/blog/2016/running-ui-tests-with-ludicrous-speed/)
+* [Adaptive Layout Tutorial for iOS](http://www.fivepackcreative.com/adaptive-layout-tutorial-for-ios/)
+* [Understanding UISplitViewController](http://commandshift.co.uk/blog/2016/04/11/understanding-split-view-controller/)
+* [Managing Build Settings and Avoiding pbxproj Conflicts](https://pewpewthespells.com/blog/pbxproj_management.html)
+* [iOS Push Notification Background Download Demystified](https://medium.com/posts-from-emmerge/ios-push-notification-background-fetch-demystified-7090358bb66e#.2u24z5ggm)
+* [Swift Mistakes I’ve Made – Learning Swift Best Practices](http://www.raizlabs.com/dev/2016/04/swift-mistakes-ive-made/)
+* [Presentation Controllers and Adaptive Presentations](https://pspdfkit.com/blog/2015/presentation-controllers/)
+* [Clean Layout with iOS9](https://speakerdeck.com/ayanonagon/clean-layout-with-ios-9)
+* [Migration From iOS to Mac — Part I: App Anatomy](http://martiancraft.com/blog/2016/05/ios-to-mac-1/)
+
+# Wednesday: April 27th 2016:
+* [Utility for checking if a web server supports HTTP/2](https://github.com/xyproto/http2check)
+
 # Tuesday: April 26th 2016:
 * [UIKit on mainThread only guard](https://gist.github.com/steipete/5664345/27e903427a070c0f51e5360249b341bca8aeede5)
 * [AppKit on mainThread only guard](https://gist.github.com/andrewmichaelson/8264280)
