@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 8th 2016:
+* [CSP (Coroutines, Channels, Select) for Swift](https://github.com/VeniceX/Venice)
+* [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
+* [C Callbacks in Swift](http://oleb.net/blog/2015/06/c-callbacks-in-swift/)
+* [Locking in WebKit (WTF::Lock)](https://webkit.org/blog/6161/locking-in-webkit/)
+* [Swift's nonmutating Keyword](http://jasdev.me/nonmutating)
+* [CareKit is an open source software framework for creating apps that help people better understand and manage their health.](https://github.com/carekit-apple/CareKit)
+* [Unofficial GitHub API client in Swift](https://github.com/onmyway133/github.swift)
+
 # Thursday: May 5th 2016:
 * [Modular framework, creating and using them](http://nsomar.com/modular-framework-creating-and-using-them/)
 * [Xcode Search: the Hidden Gems](http://holko.pl/2016/04/26/xcode-search/)
