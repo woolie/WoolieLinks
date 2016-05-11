@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: May 10th 2016:
+* [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce)
+
 # Sunday: May 8th 2016:
 * [CSP (Coroutines, Channels, Select) for Swift](https://github.com/VeniceX/Venice)
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
