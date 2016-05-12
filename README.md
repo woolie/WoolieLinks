@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Thursday: May 12th 2016:
+* [When To Set Constraint Priority Less Than 1000 – A Case Study](http://www.iosinsight.com/when-to-set-constraint-priority-less-than-1000-a-case-study/)
+* [Taking Control of Xcode Issue Navigator with XcodeIssueGenerator](https://possiblemobile.com/2016/05/xcode-issue-generator/)
+* [Continuous iOS Code Coverage With Jenkins and Slather](https://pspdfkit.com/blog/2016/continuous-ios-code-coverage-with-jenkins-and-slather/)
+
 # Tuesday: May 10th 2016:
 * [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce)
 * [Getting Started with the Model I/O framework](http://iosdeveloperzone.com/2016/05/10/getting-started-with-modelio/)
