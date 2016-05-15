@@ -8,6 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/)
 * [Recursive Tail Calls and Trampolines in Swift](https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/)
 * [Tweak your iOS app without recompiling!](https://github.com/khan/SwiftTweaks)
+* [Nodality for AudioKit: Node Based Synth for iPad](http://flexmonkey.blogspot.co.uk/2016/05/nodality-for-audiokit-node-based-synth.html)
 
 # Thursday: May 12th 2016:
 * [When To Set Constraint Priority Less Than 1000 – A Case Study](http://www.iosinsight.com/when-to-set-constraint-priority-less-than-1000-a-case-study/)
