@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: May 15th 2016:
+* [PaperOnboarding is a material design slider](https://github.com/Ramotion/paper-onboarding)
+
 # Thursday: May 12th 2016:
 * [When To Set Constraint Priority Less Than 1000 – A Case Study](http://www.iosinsight.com/when-to-set-constraint-priority-less-than-1000-a-case-study/)
 * [Taking Control of Xcode Issue Navigator with XcodeIssueGenerator](https://possiblemobile.com/2016/05/xcode-issue-generator/)
