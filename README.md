@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Sunday: May 15th 2016:
 * [PaperOnboarding is a material design slider](https://github.com/Ramotion/paper-onboarding)
 * [Comparing Swift to C++ for parsing](http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html)
+* [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/)
 
 # Thursday: May 12th 2016:
 * [When To Set Constraint Priority Less Than 1000 – A Case Study](http://www.iosinsight.com/when-to-set-constraint-priority-less-than-1000-a-case-study/)
