@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Tuesday: May 17th 2016:
 * [Swift Assertions](http://andybargh.com/swift-assertions/)
+* [Packing Bytes in Swift](http://www.russbishop.net/packing-bytes-in-swift)
 
 # Sunday: May 15th 2016:
 * [PaperOnboarding is a material design slider](https://github.com/Ramotion/paper-onboarding)
