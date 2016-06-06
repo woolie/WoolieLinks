@@ -2,6 +2,12 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Monday: June 6th 2016:
+* [Managing Build Settings and Avoiding pbxproj Conflicts](https://pewpewthespells.com/blog/pbxproj_management.html)
+* [Mutexes and closure capture in Swift](http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html)
+* [Removing Weak Self Pointers](https://grobjc.blogspot.co.uk/2016/05/removing-weak-self-pointers.html?m=1)
+* [Swifty Objective-C](https://pspdfkit.com/blog/2016/swifty-objective-c/)
+
 # Tuesday: May 17th 2016:
 * [Swift Assertions](http://andybargh.com/swift-assertions/)
 * [Packing Bytes in Swift](http://www.russbishop.net/packing-bytes-in-swift)
