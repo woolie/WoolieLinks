@@ -2,6 +2,15 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: June 29th 2016:
+* [Getting Started With Swift 3.0 Part I](http://www.garglingwithrazorblades.com/2016/06/28/getting-started-swift-3-0-part/)
+* [Parsing whitespace in an Xcode extension](http://www.cocoawithlove.com/blog/2016/06/25/policing-whitespace.html)
+* [Why Do Monads Matter?](https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter/)
+* [UIImage thread safety (@steipete)](https://github.com/AFNetworking/AFNetworking/issues/2572#issuecomment-227895102)
+* [Caching and NSURLConnection](https://blackpixel.com/writing/2012/05/caching-and-nsurlconnection.html)
+* [Xcode 8 Tips and Tricks](http://mjtsai.com/blog/2016/06/22/xcode-8-tips-and-issues/)
+* [Practical Protocol-Oriented-Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
+
 # Monday: June 6th 2016:
 * [Managing Build Settings and Avoiding pbxproj Conflicts](https://pewpewthespells.com/blog/pbxproj_management.html)
 * [Mutexes and closure capture in Swift](http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html)
