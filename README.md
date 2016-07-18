@@ -8,6 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/)
 * [Let’s create a Calendar supporting EventKit using a UICollectionView!](http://blog.karmadust.com/lets-create-a-calendar-using-a-uicollectionview/)
 * [My Rules for Mutable Foundation Collection Objects](http://inessential.com/2016/06/30/my_rules_for_mutable_foundation_collecti)
+* [Sierra and Gatekeeper Path Randomization]()
 
 # Wednesday: June 29th 2016:
 * [Getting Started With Swift 3.0 Part I](http://www.garglingwithrazorblades.com/2016/06/28/getting-started-swift-3-0-part/)
