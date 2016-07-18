@@ -5,6 +5,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Sunday: July 17th 2016:
 * [Protocol oriented loading of resources from a network service in Swift](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html)
 * [Hannibal #selector](https://www.bignerdranch.com/blog/hannibal-selector/)
+* [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/)
+* [Let’s create a Calendar supporting EventKit using a UICollectionView!](http://blog.karmadust.com/lets-create-a-calendar-using-a-uicollectionview/)
 
 # Wednesday: June 29th 2016:
 * [Getting Started With Swift 3.0 Part I](http://www.garglingwithrazorblades.com/2016/06/28/getting-started-swift-3-0-part/)
