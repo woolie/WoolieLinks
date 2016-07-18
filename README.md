@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: July 17th 2016:
+* [Protocol oriented loading of resources from a network service in Swift](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html)
+
 # Wednesday: June 29th 2016:
 * [Getting Started With Swift 3.0 Part I](http://www.garglingwithrazorblades.com/2016/06/28/getting-started-swift-3-0-part/)
 * [Parsing whitespace in an Xcode extension](http://www.cocoawithlove.com/blog/2016/06/25/policing-whitespace.html)
