@@ -4,6 +4,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: September 5th 2016:
 * [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/)
+* [A (mostly) comprehensive list of Swift 3.0 and 2.3 changes](https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1#.rwd9v3qzd)
 
 # Sunday: July 17th 2016:
 * [Protocol oriented loading of resources from a network service in Swift](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html)
