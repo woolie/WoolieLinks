@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: September 6th 2016:
+* [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
+
 # Monday: September 5th 2016:
 * [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/)
 * [A (mostly) comprehensive list of Swift 3.0 and 2.3 changes](https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1#.rwd9v3qzd)
