@@ -4,6 +4,9 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
+* [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html)
+* [Multiplatform, Single-scheme Xcode Projects](http://promisekit.org/news/2016/08/Multiplatform-Single-Scheme-Xcode-Projects/)
+* [Objective-C and Swift dependency visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer)
 
 # Monday: September 5th 2016:
 * [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/)
