@@ -8,6 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Multiplatform, Single-scheme Xcode Projects](http://promisekit.org/news/2016/08/Multiplatform-Single-Scheme-Xcode-Projects/)
 * [Objective-C and Swift dependency visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer)
 * [Immutable models and data consistency in our iOS App](https://engineering.pinterest.com/blog/immutable-models-and-data-consistency-our-ios-app)
+* [A web framework and server for Swift that works on macOS and Ubuntu](https://github.com/vapor/vapor)
 
 # Monday: September 5th 2016:
 * [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/)
