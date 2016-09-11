@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: September 11th 2016:
+* [Escaping and Nonescaping Closures in Swift 3](https://swiftunboxed.com/lang/closures-escaping-noescape-swift3/)
+
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
 * [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html)
