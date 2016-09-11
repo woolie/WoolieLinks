@@ -13,7 +13,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Advanced ObjC <-> Swift Interoperability](https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/)
 * [Data in Swift 3 parsing a Doom WAD File](http://appventure.me/2016/07/15/swift3-nsdata-data/)
 * [The Implicitly Unwrapped Optional and when to use it](http://krakendev.io/blog/when-to-use-implicitly-unwrapped-optionals)
-* [](https://www.raywenderlich.com/136272/drag-and-drop-tutorial-for-macos)
+* [Drag and Drop Tutorial for macOS](https://www.raywenderlich.com/136272/drag-and-drop-tutorial-for-macos)
+* [Simultaneous Xcode 7 and Xcode 8 compatibility](http://radex.io/xcode7-xcode8/)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
