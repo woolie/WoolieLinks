@@ -7,6 +7,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Implementing AVAssetResourceLoaderDelegate](http://blog.jaredsinclair.com/post/149892449150/implementing-avassetresourceloaderdelegate-a)
 * [Copying](http://robnapier.net/copying)
 * [Operators, Operators, Operators: Introducing Precedence](http://ericasadun.com/2016/09/04/optionals-optionals-optionals-introducing-precedence/)
+* [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
