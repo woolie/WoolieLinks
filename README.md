@@ -15,6 +15,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [The Implicitly Unwrapped Optional and when to use it](http://krakendev.io/blog/when-to-use-implicitly-unwrapped-optionals)
 * [Drag and Drop Tutorial for macOS](https://www.raywenderlich.com/136272/drag-and-drop-tutorial-for-macos)
 * [Simultaneous Xcode 7 and Xcode 8 compatibility](http://radex.io/xcode7-xcode8/)
+* [Slow App Startup Times](http://useyourloaf.com/blog/slow-app-startup-times/)
+* [Preventing Popovers on Popovers](https://pspdfkit.com/blog/2016/popovers-on-popovers/)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
