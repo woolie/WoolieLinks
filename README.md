@@ -11,6 +11,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Sort Descriptors in Swift](http://chris.eidhof.nl/post/sort-descriptors-in-swift/)
 * [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/)
 * [Advanced ObjC <-> Swift Interoperability](https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/)
+* [Data in Swift 3 parsing a Doom WAD File](http://appventure.me/2016/07/15/swift3-nsdata-data/)
+* [The Implicitedly unwrapped optional and when to use it](http://krakendev.io/blog/when-to-use-implicitly-unwrapped-optionals)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
