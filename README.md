@@ -9,6 +9,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Operators, Operators, Operators: Introducing Precedence](http://ericasadun.com/2016/09/04/optionals-optionals-optionals-introducing-precedence/)
 * [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 * [Sort Descriptors in Swift](http://chris.eidhof.nl/post/sort-descriptors-in-swift/)
+* [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
