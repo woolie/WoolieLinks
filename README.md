@@ -2,6 +2,11 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: September 17th 2016:
+* [Xcode 8 Document Coding Enhancements](http://ericasadun.com/2016/09/16/xcode-8-document-coding-enhancements/)
+* [Easy, Beautiful Typography with BonMot](https://realm.io/news/altconf-zev-eisenberg-easy-beautiful-typography-bonmot-library-ios-swift/)
+* [Hairlines](http://www.figure.ink/blog/2016/9/11/hairlines)
+
 # Sunday: September 11th 2016:
 * [Escaping and Nonescaping Closures in Swift 3](https://swiftunboxed.com/lang/closures-escaping-noescape-swift3/)
 * [Implementing AVAssetResourceLoaderDelegate](http://blog.jaredsinclair.com/post/149892449150/implementing-avassetresourceloaderdelegate-a)
@@ -17,6 +22,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Simultaneous Xcode 7 and Xcode 8 compatibility](http://radex.io/xcode7-xcode8/)
 * [Slow App Startup Times](http://useyourloaf.com/blog/slow-app-startup-times/)
 * [Preventing Popovers on Popovers](https://pspdfkit.com/blog/2016/popovers-on-popovers/)
+* [Wire iOS client](https://github.com/wireapp/wire-ios)
 
 # Wednesday: September 6th 2016:
 * [Apple Configuration Profile for Logging in iOS 10 and macOS Sierra](https://gist.github.com/zwaldowski/f9c82dfe1595506a36bd71f55cbb7538)
