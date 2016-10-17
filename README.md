@@ -9,6 +9,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Event Delivery on iOS: Part 3](https://medium.com/bpxl-craft/event-delivery-on-ios-part-3-14463fba84b4#.jqjowqhiy)
 * [ARC and Memory Management in Swift](https://www.raywenderlich.com/134411/arc-memory-management-swift)
 * [View Routing Concepts in Swift](https://karlbowden.com/view-routing-concepts-in-ios/?utm_content=buffer4691b)
+* [How To Use Covariance and Contravariance to Build Flexible and Robust Programs](https://www.youtube.com/watch?v=25dNaF-4Ok4&app=desktop)
+* [Slicing](http://khanlou.com/2016/10/slicing/)
 
 # Saturday: September 17th 2016:
 * [Xcode 8 Document Coding Enhancements](http://ericasadun.com/2016/09/16/xcode-8-document-coding-enhancements/)
