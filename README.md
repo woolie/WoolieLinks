@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: October 16th 2016:
+* [](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/)
+
 # Saturday: September 17th 2016:
 * [Xcode 8 Document Coding Enhancements](http://ericasadun.com/2016/09/16/xcode-8-document-coding-enhancements/)
 * [Easy, Beautiful Typography with BonMot](https://realm.io/news/altconf-zev-eisenberg-easy-beautiful-typography-bonmot-library-ios-swift/)
