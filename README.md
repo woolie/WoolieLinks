@@ -8,6 +8,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Event Delivery on iOS: Part 2](https://medium.com/bpxl-craft/event-delivery-on-ios-part-2-13f6246a88b5#.v1tct8ipz)
 * [Event Delivery on iOS: Part 3](https://medium.com/bpxl-craft/event-delivery-on-ios-part-3-14463fba84b4#.jqjowqhiy)
 * [ARC and Memory Management in Swift](https://www.raywenderlich.com/134411/arc-memory-management-swift)
+* [View Routing Concepts in Swift](https://karlbowden.com/view-routing-concepts-in-ios/?utm_content=buffer4691b)
 
 # Saturday: September 17th 2016:
 * [Xcode 8 Document Coding Enhancements](http://ericasadun.com/2016/09/16/xcode-8-document-coding-enhancements/)
