@@ -3,7 +3,10 @@ WoolieLinks
 Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Sunday: October 16th 2016:
-* [](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/)
+* [Function Naming In Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/)
+* [Event Delivery on iOS: Part 1](https://medium.com/bpxl-craft/event-delivery-on-ios-part-1-8e68b3a3f423#.lrsvz1p9z)
+* [Event Delivery on iOS: Part 2](https://medium.com/bpxl-craft/event-delivery-on-ios-part-2-13f6246a88b5#.v1tct8ipz)
+* [Event Delivery on iOS: Part 3](https://medium.com/bpxl-craft/event-delivery-on-ios-part-3-14463fba84b4#.jqjowqhiy)
 
 # Saturday: September 17th 2016:
 * [Xcode 8 Document Coding Enhancements](http://ericasadun.com/2016/09/16/xcode-8-document-coding-enhancements/)
