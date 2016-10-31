@@ -2,6 +2,13 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: October 30th 2016:
+* [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
+* [Paying Down Technical Knowledge Debt](http://modocache.io/technical-knowledge-debt)
+* [Enum Raw Values and Failable Initializers](http://useyourloaf.com/blog/enum-raw-values-and-failable-initializers/)
+* [Structs and NSCoding](http://khanlou.com/2016/10/structs-and-nscoding/)
+* [AsyncOperations](http://blog.jaredsinclair.com/post/152031181765/asyncoperations)
+
 # Sunday: October 16th 2016:
 * [Function Naming In Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/)
 * [Event Delivery on iOS: Part 1](https://medium.com/bpxl-craft/event-delivery-on-ios-part-1-8e68b3a3f423#.lrsvz1p9z)
