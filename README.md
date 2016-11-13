@@ -6,6 +6,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Working without a nib, Part 8: The nib awakens](http://lapcatsoftware.com/articles/working-without-a-nib-part-8-the-nib-awakens.html)
 * [Using Monads and Other Functional Paradigms in Practice](https://realm.io/news/slug-raheel-ahmad-using-monads-functional-paradigms-in-practice-functors-patterns-swift/)
 * [Compare several Swift JSON mappers](https://github.com/bwhiteley/JSONShootout)
+* [Objective-C id as Swift Any](https://developer.apple.com/swift/blog/?id=39)
 
 # Sunday: October 30th 2016:
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
