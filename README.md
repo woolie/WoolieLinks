@@ -12,6 +12,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Command line tool that generates excellent Swift data models based on JSON data](https://github.com/ijoshsmith/json2swift)
 * [Passing an Array of Strings from Swift to C](https://oleb.net/blog/2016/10/swift-array-of-c-strings/)
 * [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
+* [Xcode internal debug logs](http://stackoverflow.com/questions/32439215/xcode-internal-debug-logs/32439216#32439216)
 
 # Sunday: October 30th 2016:
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
