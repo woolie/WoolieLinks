@@ -10,7 +10,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Specifying function execution contexts](https://www.cocoawithlove.com/blog/specifying-execution-contexts.html)
 * [Test Your App On Any Device You Want, Without The Hardware From the Command Line](http://www.mobdesignapps.fr/blog/2016/10/10/running-your-tests-on-aws-device-farm-from-the-command-line)
 * [Command line tool that generates excellent Swift data models based on JSON data](https://github.com/ijoshsmith/json2swift)
-* [](https://oleb.net/blog/2016/10/swift-array-of-c-strings/)
+* [Passing an Array of Strings from Swift to C](https://oleb.net/blog/2016/10/swift-array-of-c-strings/)
+* [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
 
 # Sunday: October 30th 2016:
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
