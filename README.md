@@ -9,7 +9,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 * [Objective-C id as Swift Any](https://developer.apple.com/swift/blog/?id=39)
 * [Specifying function execution contexts](https://www.cocoawithlove.com/blog/specifying-execution-contexts.html)
 * [Test Your App On Any Device You Want, Without The Hardware From the Command Line](http://www.mobdesignapps.fr/blog/2016/10/10/running-your-tests-on-aws-device-farm-from-the-command-line)
-* [command line tool that generates excellent Swift data models based on JSON data](https://github.com/ijoshsmith/json2swift)
+* [Command line tool that generates excellent Swift data models based on JSON data](https://github.com/ijoshsmith/json2swift)
+* [](https://oleb.net/blog/2016/10/swift-array-of-c-strings/)
 
 # Sunday: October 30th 2016:
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
