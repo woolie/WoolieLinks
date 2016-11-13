@@ -2,6 +2,10 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: November 13th 2016:
+* [Working without a nib, Part 8: The nib awakens](http://lapcatsoftware.com/articles/working-without-a-nib-part-8-the-nib-awakens.html)
+* [Using Monads and Other Functional Paradigms in Practice](https://realm.io/news/slug-raheel-ahmad-using-monads-functional-paradigms-in-practice-functors-patterns-swift/)
+
 # Sunday: October 30th 2016:
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/)
 * [Paying Down Technical Knowledge Debt](http://modocache.io/technical-knowledge-debt)
