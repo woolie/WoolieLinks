@@ -4,6 +4,8 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 
 # Monday: November 14th 2016:
 * [Incremental Swift](https://realm.io/news/tryswift-amy-dyer-incremental-swift/)
+* [Techniques for a Functional Dependency Injection in Swift](https://medium.com/@foolonhill/techniques-for-a-functional-dependency-injection-in-swift-b9a6143634ab#.dklzt1hgg)
+* [Mixing Initializers](http://www.russbishop.net/mixing-initializers)
 
 # Sunday: November 13th 2016:
 * [Working without a nib, Part 8: The nib awakens](http://lapcatsoftware.com/articles/working-without-a-nib-part-8-the-nib-awakens.html)
