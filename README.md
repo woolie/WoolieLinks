@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Saturday: November 19th 2016:
+* [Fun with UTI](https://www.cocoanetics.com/2012/09/fun-with-uti/)
+
 # Monday: November 14th 2016:
 * [Incremental Swift](https://realm.io/news/tryswift-amy-dyer-incremental-swift/)
 * [Techniques for a Functional Dependency Injection in Swift](https://medium.com/@foolonhill/techniques-for-a-functional-dependency-injection-in-swift-b9a6143634ab#.dklzt1hgg)
