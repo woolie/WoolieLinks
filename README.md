@@ -5,6 +5,7 @@ Links to iOS/Mac/Audio related code samples and articles of interest
 # Saturday: November 19th 2016:
 * [Fun with UTI](https://www.cocoanetics.com/2012/09/fun-with-uti/)
 * [Yammer iOS App ported to Swift 3](https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1#.izvajd2iz)
+* [10 Tips to become a better Swift Developer](https://medium.com/ios-geek-community/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2#.1baeun11u)
 
 # Monday: November 14th 2016:
 * [Incremental Swift](https://realm.io/news/tryswift-amy-dyer-incremental-swift/)
