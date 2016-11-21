@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: November 20th 2016:
+* [Swift vs C++: lambda functions](https://blog.noctua-software.com/swift-vs-cpp-lambdas.html)
+
 # Saturday: November 19th 2016:
 * [Fun with UTI](https://www.cocoanetics.com/2012/09/fun-with-uti/)
 * [Yammer iOS App ported to Swift 3](https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1#.izvajd2iz)
