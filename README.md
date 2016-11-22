@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Tuesday: November 22nd 2016:
+* [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
+
 # Sunday: November 20th 2016:
 * [Swift vs C++: lambda functions](https://blog.noctua-software.com/swift-vs-cpp-lambdas.html)
 
