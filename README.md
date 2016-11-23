@@ -2,6 +2,9 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Wednesday: November 23rd 2016:
+* [When to use map, flatMap, or for loops in Swift](http://www.mokacoding.com/blog/when-to-use-map-flatmap-for/)
+
 # Tuesday: November 22nd 2016:
 * [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
 
