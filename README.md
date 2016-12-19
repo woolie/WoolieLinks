@@ -2,6 +2,17 @@ WoolieLinks
 ===========
 Links to iOS/Mac/Audio related code samples and articles of interest
 
+# Sunday: December 18th 2016:
+* [Attributed String in Swift: the right way](https://medium.com/breakfastcode/attributed-strings-in-swift-6d4b37db59a5#.5icw7o6tv)
+* [Batch Updating of Constraints](http://useyourloaf.com/blog/batch-updating-of-constraints/)
+* [What is reactive programming and why should I use it?](https://www.cocoawithlove.com/blog/reactive-programming-what-and-why.html)
+* [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+* [Introducing Protocol Oriented Programming](https://www.raywenderlich.com/session/new?redirect_uri=https://www.raywenderlich.com:443/148448/introducing-protocol-oriented-programming)
+* [Stack View Constraint Conflicts When Hiding Views](http://useyourloaf.com/blog/stack-view-constraint-conflicts-when-hiding-views/)
+* [CwlSignal, a library for reactive programming](https://www.cocoawithlove.com/blog/cwlsignal.html)
+* [AudioKit Tutorial: Getting Started](https://www.raywenderlich.com/145770/audiokit-tutorial-getting-started)
+* [The fastest Diff and patch library in Swift](https://github.com/wokalski/Diff.swift)
+
 # Wednesday: November 23rd 2016:
 * [When to use map, flatMap, or for loops in Swift](http://www.mokacoding.com/blog/when-to-use-map-flatmap-for/)
 
